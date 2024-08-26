@@ -15,7 +15,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsx main.ts"
   },
   "author": "",
   "license": "ISC"

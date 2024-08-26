@@ -29,8 +29,6 @@ let md5 = (x:string)=>createHash('md5').update(x).digest("hex")
 const Main = async ()=>{
   // first pull remote feeds
   const remoteResults = await pullRemoteFeed()
-  console.log(remoteResults)
-
   remoteResults.map((x)=>{
     const pubDate = x.isoDate ? new Date(x.isoDate) : new Date(1)
     defaultFeed.addItem({
@@ -49,18 +47,16 @@ const Main = async ()=>{
       content: clean(x.content || x.contentSnippet || "This article has no content"),
     })
   })
-
   feedItems.map((x)=>{
     x.id = md5(x.title)
     defaultFeed.addItem(x)
   })
-
   defaultFeed.items.sort((a,b)=>{
     return (b.date?.valueOf() || 0)  - (a.date?.valueOf() || 0)
   })
 
-
   const feedText = defaultFeed.rss2()
+  console.log(feedText)
   writeFileSync("./output.xml", feedText)
 }
 
