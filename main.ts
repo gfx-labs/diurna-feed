@@ -44,7 +44,8 @@ const Main = async ()=>{
       }],
       link: x.link || "",
       date:pubDate,
-      content: clean(x.content || x.contentSnippet || "This article has no content"),
+      description: clean(x.contentSnippet|| "This article has no description"),
+      content: clean(x.content || "This article has no content"),
     })
   })
   feedItems.map((x)=>{
