@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 26 Aug 2024 15:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 18:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[example custom feed item]]></title>
             <link>https://example.com</link>
             <guid>425a9248ce68e4165e0e1512bcc95541</guid>
-            <pubDate>Thu, 26 Sep 2024 05:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[some example content for the news article]]></content:encoded>
         </item>
         <item>
