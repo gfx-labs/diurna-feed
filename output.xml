@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 26 Aug 2024 18:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 23:01:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,10 +17,29 @@
             <content:encoded><![CDATA[some example content for the news article]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Wormhole Announces W Token Launch, 617M Airdrop; Cross-Chain Governance Solution Unveiled ]]></title>
+            <link>https://tokenpost.com/Wormhole-Announces-W-Token-Launch-617M-Airdrop-Cross-Chain-Governance-Solution-Unveiled-11369</link>
+            <guid>rssapp_e55c7d516854248f8ce92a35fec9f0d4</guid>
+            <pubDate>Tue, 27 Aug 2024 00:59:00 GMT</pubDate>
+            <description><![CDATA[Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...]]></description>
+            <content:encoded><![CDATA[<div><img src="https://tokenpost.com/assets/uploads/anyu87g3f0.jpeg" /><div>Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...</div></div>]]></content:encoded>
+            <author>TokenPost (TokenPost)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Mon, 26 Aug 2024 12:00:00 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><img src="https://assets.coingecko.com/coins/images/35087/large/womrhole_logo_full_color_rgb_2000px_72ppi_fb766ac85a.png?1708688954" /><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
+        <item>
             <title><![CDATA[Protocol Village: Nym's VPN App Moves to Public Beta, GenLayer Raises $7.5M]]></title>
             <link>https://www.coindesk.com/tech/2024/08/14/protocol-village/</link>
             <guid>rssapp_d2ac8c4a8237acb49b5365684ed2274c</guid>
             <pubDate>Wed, 21 Aug 2024 22:19:26 GMT</pubDate>
+            <description><![CDATA[The latest in blockchain tech upgrades, funding announcements and deals. For the period of Aug. 15-21.]]></description>
             <content:encoded><![CDATA[<div><img src="https://www.coindesk.com/resizer/N2MGiivICqZTk-02Y8t0orMOlXQ=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TD63KGNZYVBFXGZY7KH7MDAHLY.jpeg" /><div>The latest in blockchain tech upgrades, funding announcements and deals. For the period of Aug. 15-21.</div></div>]]></content:encoded>
             <author>coindesk (coindesk)</author>
         </item>
@@ -29,6 +48,7 @@
             <link>https://insidebitcoins.com/news/next-cryptocurrency-to-explode-tuesday-august-20-wormhole-artificial-superintelligence-alliance-syscoin-sun-token</link>
             <guid>rssapp_f7db2966a1d4f8f9d9fb38c7875a2bbe</guid>
             <pubDate>Tue, 20 Aug 2024 16:42:08 GMT</pubDate>
+            <description><![CDATA[Many altcoins are trying to make a comeback as they record significant gains. Meanwhile, Bitcoin (BTC) has returned to $60,000 and is still hoping to find]]></description>
             <content:encoded><![CDATA[<div><img src="https://insidebitcoins.com/wp-content/uploads/2024/08/Syscoin-Feature-Image-1.png" /><div>Many altcoins are trying to make a comeback as they record significant gains. Meanwhile, Bitcoin (BTC) has returned to $60,000 and is still hoping to find</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
         </item>
@@ -37,6 +57,7 @@
             <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
             <guid>rssapp_1f7f0759ddbc39ea6a074ac974989b1a</guid>
             <pubDate>Mon, 19 Aug 2024 08:15:49 GMT</pubDate>
+            <description><![CDATA[Wormhole price predictions from our experts estimate that the price of W could grow from $0.2130 to $0.47by the end of the year.]]></description>
             <content:encoded><![CDATA[<div><img src="https://www.ccn.com/wp-content/uploads/2024/04/wormhole-price-prediction.webp" /><div>Wormhole price predictions from our experts estimate that the price of W could grow from $0.2130 to $0.47by the end of the year.</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
         </item>
@@ -45,6 +66,7 @@
             <link>https://www.altcoinbuzz.io/cryptocurrency-news/wormhole-enables-native-usdt-transfers-on-uniswap-v3/</link>
             <guid>rssapp_c074c38519cd5d8a4f0764ce3d1ed031</guid>
             <pubDate>Wed, 10 Jul 2024 10:18:03 GMT</pubDate>
+            <description><![CDATA[As decentralized finance continues to evolve, solutions like native USDT transfers on Wormhole are crucial for improving user experience.]]></description>
             <content:encoded><![CDATA[<div><img src="https://www.altcoinbuzz.io/wp-content/uploads/2024/07/bitcoin-altcoin-2024-07-10T115242.595.jpg" /><div>As decentralized finance continues to evolve, solutions like native USDT transfers on Wormhole are crucial for improving user experience.</div></div>]]></content:encoded>
             <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
@@ -53,6 +75,7 @@
             <link>https://cryptonews.com/cryptocurrency/wormhole-airdrop/</link>
             <guid>rssapp_48b9aa3ee384ade48bfe7cf33333aae6</guid>
             <pubDate>Fri, 28 Jun 2024 03:44:38 GMT</pubDate>
+            <description><![CDATA[The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.]]></description>
             <content:encoded><![CDATA[<div><img src="https://cimg.co/wp-content/uploads/2024/06/28151640/1719587799-screenshot-2024-06-28-161521.jpg" /><div>The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.</div></div>]]></content:encoded>
             <author>Cryptonews (Cryptonews)</author>
         </item>
@@ -61,22 +84,16 @@
             <link>https://www.altcoinbuzz.io/cryptocurrency-news/wbtc-expands-to-solana-via-wormhole/</link>
             <guid>rssapp_ab5872b87beb06cf7230840f5339e16a</guid>
             <pubDate>Tue, 25 Jun 2024 11:37:40 GMT</pubDate>
+            <description><![CDATA[The move to incorporate $WBTC into Solana's ecosystem underscores the increasing demand for interoperable solutions in the blockchain space.]]></description>
             <content:encoded><![CDATA[<div><img src="https://www.altcoinbuzz.io/wp-content/uploads/2024/06/Web_WBTC-Expands_to-Solana-via-Wormhole.jpg" /><div>The move to incorporate $WBTC into Solana's ecosystem underscores the increasing demand for interoperable solutions in the blockchain space.</div></div>]]></content:encoded>
             <author>Altcoin Buzz (Altcoin Buzz)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Mon, 24 Jun 2024 12:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div><img src="https://assets.coingecko.com/coins/images/35087/large/womrhole_logo_full_color_rgb_2000px_72ppi_fb766ac85a.png?1708688954" /><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Adds Support for Mantle Network, Enhancing Ethereum L2 Interoperability]]></title>
             <link>https://blockchain.news/news/wormhole-supports-mantle-network</link>
             <guid>rssapp_07ab027d33318175a9e83bd6b03da35a</guid>
             <pubDate>Thu, 20 Jun 2024 09:05:00 GMT</pubDate>
+            <description><![CDATA[Wormhole now supports Mantle Network, an innovative Ethereum Layer 2 solution, offering high performance and low-cost EVM environment.]]></description>
             <content:encoded><![CDATA[<div><img src="https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg" /><div>Wormhole now supports Mantle Network, an innovative Ethereum Layer 2 solution, offering high performance and low-cost EVM environment.</div></div>]]></content:encoded>
             <author>https://blockchain news/news/wormhole-supports-mantle-network (https://blockchain news/news/wormhole-supports-mantle-network)</author>
         </item>
@@ -85,6 +102,7 @@
             <link>https://thecryptobasic.com/2024/06/16/andrew-tate-sparks-memecoin-frenzy-angry-pepe-fork-and-wormhole-exhibit-bullish-potential/</link>
             <guid>rssapp_55f7110a4e88704138277e96d255ec61</guid>
             <pubDate>Sun, 16 Jun 2024 18:00:44 GMT</pubDate>
+            <description><![CDATA[Andrew Tate's recent actions in the cryptocurrency market have no doubt generated substantial interest, triggering a fervent rally within the TOP G (TOPG) memecoin community. However, Tate's bold decision has ignited enthusiasm across the broader cryptocurrency community, not just within the TOPG ecosystem. In another development, new presale star, Angry Pepe Fork (APORK) has garnered]]></description>
             <content:encoded><![CDATA[<div><img src="https://thecryptobasic.com/wp-content/uploads/2024/06/Angry-Pepe-Fork-MemeCoin.png" /><div>Andrew Tate's recent actions in the cryptocurrency market have no doubt generated substantial interest, triggering a fervent rally within the TOP G (TOPG) memecoin community. However, Tate's bold decision has ignited enthusiasm across the broader cryptocurrency community, not just within the TOPG ecosystem. In another development, new presale star, Angry Pepe Fork (APORK) has garnered</div></div>]]></content:encoded>
             <author>The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News (The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News)</author>
         </item>
@@ -93,6 +111,7 @@
             <link>https://www.coindesk.com/tech/2024/06/11/protocol-village/</link>
             <guid>rssapp_0162cd75c1e4865754769a719f29e1f2</guid>
             <pubDate>Wed, 12 Jun 2024 20:42:03 GMT</pubDate>
+            <description><![CDATA[The latest in blockchain tech upgrades, funding announcements and deals. For June 10 - June 12.]]></description>
             <content:encoded><![CDATA[<div><img src="https://www.coindesk.com/resizer/K-t1VzJgH3C6LNrC_5GXyXGlLZY=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UK44TNET4ZFIFAX2JQSWJQJSTU.jpeg" /><div>The latest in blockchain tech upgrades, funding announcements and deals. For June 10 - June 12.</div></div>]]></content:encoded>
             <author>coindesk (coindesk)</author>
         </item>
@@ -101,6 +120,7 @@
             <link>https://themarketperiodical.com/2024/06/11/major-drop-in-wormhole-crypto-price-is-it-the-right-time-to-buy/</link>
             <guid>rssapp_7277df6e26b0dd4999dea0d38121cf0b</guid>
             <pubDate>Tue, 11 Jun 2024 15:36:00 GMT</pubDate>
+            <description><![CDATA[The Wormhole crypto price has declined by 11% in just the last 24 hours.The W crypto has less than 18%]]></description>
             <content:encoded><![CDATA[<div><img src="https://themarketperiodical.com/wp-content/uploads/2024/06/Wormhole-2.webp" /><div>The Wormhole crypto price has declined by 11% in just the last 24 hours.The W crypto has less than 18%</div></div>]]></content:encoded>
             <author>The Market Periodical (The Market Periodical)</author>
         </item>
@@ -109,6 +129,7 @@
             <link>https://cryptonews.com/news/exclusive-the-future-of-web3-is-seamless-backend-integrations-wormholes-cathy-yoon-says.htm</link>
             <guid>rssapp_b362f0b5950a12d78386f52978011740</guid>
             <pubDate>Tue, 11 Jun 2024 15:01:01 GMT</pubDate>
+            <description><![CDATA[Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.]]></description>
             <content:encoded><![CDATA[<div><img src="https://cimg.co/wp-content/uploads/2024/06/11145929/1718117968-cathy-wormhole.webp" /><div>Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.</div></div>]]></content:encoded>
             <author>Cryptonews (Cryptonews)</author>
         </item>
@@ -117,6 +138,7 @@
             <link>https://coingape.com/crypto-prices-today-june-8-bitcoin-ethereum-take-bearish-turn-filecoin-injective-prices-rally/</link>
             <guid>rssapp_052cfd6c2ba327246f1075f78d01ab05</guid>
             <pubDate>Sat, 08 Jun 2024 04:43:47 GMT</pubDate>
+            <description><![CDATA[The crypto prices today have taken a notable bearish turn, as Bitcoin slipped to the $69K mark and ETH to $3,600. Altcoins mimicked the price fall while Wormhole surged defying market trend.]]></description>
             <content:encoded><![CDATA[<div><img src="https://coingape.com/wp-content/uploads/2024/02/bearish.jpg" /><div>The crypto prices today have taken a notable bearish turn, as Bitcoin slipped to the $69K mark and ETH to $3,600. Altcoins mimicked the price fall while Wormhole surged defying market trend.</div></div>]]></content:encoded>
             <author>CoinGape (CoinGape)</author>
         </item>
@@ -125,6 +147,7 @@
             <link>https://crypto.news/wormhole-unveils-new-governance-staking-feature-w-token-rises-12/</link>
             <guid>rssapp_1bb6ee79a93d52068973885eb9ad1bf6</guid>
             <pubDate>Fri, 07 Jun 2024 10:03:21 GMT</pubDate>
+            <description><![CDATA[Wormhole's governance token, W, has experienced a significant surge of 12% following the introduction of a new staking feature]]></description>
             <content:encoded><![CDATA[<div><img src="https://crypto.news/app/uploads/2024/01/crypto-news-trading-chart-front-side-view-Exchange-building-background-bright-neon-colors-option09.webp" /><div>Wormhole's governance token, W, has experienced a significant surge of 12% following the introduction of a new staking feature</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
         </item>
@@ -133,6 +156,7 @@
             <link>https://blockchain.news/news/binance-integrates-hashflow-arbitrum-one-wormhole-ethereum</link>
             <guid>rssapp_c440ce79cc553f013a77ebf4232cc691</guid>
             <pubDate>Fri, 07 Jun 2024 04:12:00 GMT</pubDate>
+            <description><![CDATA[Binance has integrated Hashflow (HFT) on Arbitrum One and Wormhole (W) on Ethereum, opening deposits and withdrawals.]]></description>
             <content:encoded><![CDATA[<div><img src="https://blockchainstock.blob.core.windows.net/features/77114026B660221B80A64442F3E54553E0C8A06ACF0A855FA3EFFE213A23F456.jpg" /><div>Binance has integrated Hashflow (HFT) on Arbitrum One and Wormhole (W) on Ethereum, opening deposits and withdrawals.</div></div>]]></content:encoded>
             <author>https://blockchain news/news/binance-integrates-hashflow-arbitrum-one-wormhole-ethereum (https://blockchain news/news/binance-integrates-hashflow-arbitrum-one-wormhole-ethereum)</author>
         </item>
@@ -141,6 +165,7 @@
             <link>https://cryptonews.com/news/best-crypto-to-buy-now-june-6-wormhole-flare-jasmycoin.htm</link>
             <guid>rssapp_16d76fe994907f4b50ce5445f7984b33</guid>
             <pubDate>Thu, 06 Jun 2024 19:57:33 GMT</pubDate>
+            <description><![CDATA[As Bitcoin (BTC) struggles to advance amid elevated sell pressure as it nears a retest of its all-time/yearly highs and other major cryptos languish below]]></description>
             <content:encoded><![CDATA[<div><img src="https://cryptonews.com/wp-content/uploads/2023/11/1699477637-bctbn-3.jpg" /><div>As Bitcoin (BTC) struggles to advance amid elevated sell pressure as it nears a retest of its all-time/yearly highs and other major cryptos languish below</div></div>]]></content:encoded>
             <author>Cryptonews (Cryptonews)</author>
         </item>
@@ -149,6 +174,7 @@
             <link>https://themerkle.com/avalanche-and-wormhole-witness-massive-demand-experts-think-algotech-algt-could-be-next/</link>
             <guid>rssapp_4e59d38f7a1c5d3245c2698530c35855</guid>
             <pubDate>Tue, 04 Jun 2024 11:51:16 GMT</pubDate>
+            <description><![CDATA[Meta Description: After developing the bullish “rounding button”, AVAX is set for an unprecedented bill run. Rookie coins, Wormhole and Algotech, massive successes create FOMO among crypto traders]]></description>
             <content:encoded><![CDATA[<div><img src="https://themerkle.com/wp-content/uploads-new/2024/06/image1-3.png" /><div>Meta Description: After developing the bullish “rounding button”, AVAX is set for an unprecedented bill run. Rookie coins, Wormhole and Algotech, massive successes create FOMO among crypto traders</div></div>]]></content:encoded>
             <author>The Merkle News (The Merkle News)</author>
         </item>
@@ -157,6 +183,7 @@
             <link>https://www.globenewswire.com/en/news-release/2024/06/02/2891855/0/en/Flash-News-OKX-Now-Supports-Wormhole-Protocol-s-W-Token-on-Ethereum-Mainnet.html</link>
             <guid>rssapp_d0ce9c060ecb819d4daec23161538eda</guid>
             <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[DUBAI, United Arab Emirates, June  02, 2024  (GLOBE NEWSWIRE) -- OKX, a leading crypto exchange and Web3 technology company, has issued updates for June 2,...]]></description>
             <content:encoded><![CDATA[<div><img src="https://ml.globenewswire.com/Resource/Download/7d46492f-0db0-46e3-a7a5-a57cc0fb4256" /><div>DUBAI, United Arab Emirates, June  02, 2024  (GLOBE NEWSWIRE) -- OKX, a leading crypto exchange and Web3 technology company, has issued updates for June 2,...</div></div>]]></content:encoded>
             <author>GlobeNewswire News Room (GlobeNewswire News Room)</author>
         </item>
