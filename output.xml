@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 29 Aug 2024 13:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 14:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -15,6 +15,15 @@
             <guid>425a9248ce68e4165e0e1512bcc95541</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[some example content for the news article]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Token Price Snaps Losing Streak- A Move to $0.2227 Could Up the Tempo]]></title>
+            <link>https://news.investingcube.com/wormhole-token-price-snaps-losing-streak-a-move-to-0-2227-could-up-the-tempo/</link>
+            <guid>rssapp_8935b72627321922ea21a4702a62f258</guid>
+            <pubDate>Thu, 29 Aug 2024 11:49:03 GMT</pubDate>
+            <description><![CDATA[Wormhole price returned to the upside on Thursday, disrupting a four-day losing streak, but it needs to do much more to sustain gains.]]></description>
+            <content:encoded><![CDATA[<div><img src="https://news.investingcube.com/wp-content/uploads/2024/08/Wormhole-Investingcube.jpeg" /><div>Wormhole price returned to the upside on Thursday, disrupting a four-day losing streak, but it needs to do much more to sustain gains.</div></div>]]></content:encoded>
+            <author>InvestingCube (InvestingCube)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Announces W Token Launch, 617M Airdrop; Cross-Chain Governance Solution Unveiled ]]></title>
