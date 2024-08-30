@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 30 Aug 2024 17:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 18:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -132,6 +132,15 @@
             <description><![CDATA[The Wormhole crypto price has declined by 11% in just the last 24 hours.The W crypto has less than 18%]]></description>
             <content:encoded><![CDATA[<div><img src="https://themarketperiodical.com/wp-content/uploads/2024/06/Wormhole-2.webp" /><div>The Wormhole crypto price has declined by 11% in just the last 24 hours.The W crypto has less than 18%</div></div>]]></content:encoded>
             <author>The Market Periodical (The Market Periodical)</author>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: The Future of Web3 is Seamless Backend Integrations, Wormhole's Cathy Yoon Says]]></title>
+            <link>https://cryptonews.com/news/exclusive-the-future-of-web3-is-seamless-backend-integrations-wormholes-cathy-yoon-says/</link>
+            <guid>rssapp_24e228fdbca922fd4e24d5faa784fec7</guid>
+            <pubDate>Tue, 11 Jun 2024 15:01:01 GMT</pubDate>
+            <description><![CDATA[Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.]]></description>
+            <content:encoded><![CDATA[<div><img src="https://cimg.co/wp-content/uploads/2024/06/11145929/1718117968-cathy-wormhole.webp" /><div>Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.</div></div>]]></content:encoded>
+            <author>Cryptonews (Cryptonews)</author>
         </item>
         <item>
             <title><![CDATA[Exclusive: The Future of Web3 is Seamless Backend Integrations, Wormhole's Cathy Yoon Says]]></title>
