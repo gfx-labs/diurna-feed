@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 30 Aug 2024 01:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 02:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -24,6 +24,15 @@
             <description><![CDATA[Wormhole price returned to the upside on Thursday, disrupting a four-day losing streak, but it needs to do much more to sustain gains.]]></description>
             <content:encoded><![CDATA[<div><img src="https://news.investingcube.com/wp-content/uploads/2024/08/Wormhole-Investingcube.jpeg" /><div>Wormhole price returned to the upside on Thursday, disrupting a four-day losing streak, but it needs to do much more to sustain gains.</div></div>]]></content:encoded>
             <author>InvestingCube (InvestingCube)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Airdrop ($W Token) - Eligibility & How to Claim]]></title>
+            <link>https://cryptonews.com/cryptocurrency/wormhole-airdrop/</link>
+            <guid>rssapp_48b9aa3ee384ade48bfe7cf33333aae6</guid>
+            <pubDate>Tue, 27 Aug 2024 12:57:49 GMT</pubDate>
+            <description><![CDATA[The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.]]></description>
+            <content:encoded><![CDATA[<div><img src="https://cimg.co/wp-content/uploads/2024/06/28151640/1719587799-screenshot-2024-06-28-161521.jpg" /><div>The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.</div></div>]]></content:encoded>
+            <author>Cryptonews (Cryptonews)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Announces W Token Launch, 617M Airdrop; Cross-Chain Governance Solution Unveiled ]]></title>
@@ -78,15 +87,6 @@
             <description><![CDATA[As decentralized finance continues to evolve, solutions like native USDT transfers on Wormhole are crucial for improving user experience.]]></description>
             <content:encoded><![CDATA[<div><img src="https://www.altcoinbuzz.io/wp-content/uploads/2024/07/bitcoin-altcoin-2024-07-10T115242.595.jpg" /><div>As decentralized finance continues to evolve, solutions like native USDT transfers on Wormhole are crucial for improving user experience.</div></div>]]></content:encoded>
             <author>Altcoin Buzz (Altcoin Buzz)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Airdrop ($W Token) - Eligibility & How to Claim]]></title>
-            <link>https://cryptonews.com/cryptocurrency/wormhole-airdrop/</link>
-            <guid>rssapp_48b9aa3ee384ade48bfe7cf33333aae6</guid>
-            <pubDate>Fri, 28 Jun 2024 03:44:38 GMT</pubDate>
-            <description><![CDATA[The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.]]></description>
-            <content:encoded><![CDATA[<div><img src="https://cimg.co/wp-content/uploads/2024/06/28151640/1719587799-screenshot-2024-06-28-161521.jpg" /><div>The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.</div></div>]]></content:encoded>
-            <author>Cryptonews (Cryptonews)</author>
         </item>
         <item>
             <title><![CDATA[$WBTC Expands to Solana via Wormhole ]]></title>
