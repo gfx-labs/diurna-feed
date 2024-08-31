@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 31 Aug 2024 22:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 23:05:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -168,6 +168,15 @@
             <description><![CDATA[Wormhole's governance token, W, has experienced a significant surge of 12% following the introduction of a new staking feature]]></description>
             <content:encoded><![CDATA[<div><img src="https://crypto.news/app/uploads/2024/01/crypto-news-trading-chart-front-side-view-Exchange-building-background-bright-neon-colors-option09.webp" /><div>Wormhole's governance token, W, has experienced a significant surge of 12% following the introduction of a new staking feature</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole (W) Price Jumps 12% Soon After It Launches Governance Staking, What’s Ahead?]]></title>
+            <link>https://coingape.com/wormhole-w-price-jumps-12-soon-after-it-launches-governance-staking-whats-ahead/</link>
+            <guid>rssapp_a10bd8cf00628fe000813ae3802f9f6f</guid>
+            <pubDate>Fri, 07 Jun 2024 09:29:07 GMT</pubDate>
+            <description><![CDATA[The Wormhole price is moving above the 50-period and 25-period moving average suggesting a bullish momentum. As long as W price holds $0.60, it can move further to the highs of $1.]]></description>
+            <content:encoded><![CDATA[<div><img src="https://coingape.com/wp-content/uploads/2024/04/Wormhole-W.jpg" /><div>The Wormhole price is moving above the 50-period and 25-period moving average suggesting a bullish momentum. As long as W price holds $0.60, it can move further to the highs of $1.</div></div>]]></content:encoded>
+            <author>CoinGape (CoinGape)</author>
         </item>
         <item>
             <title><![CDATA[Binance Integrates Hashflow (HFT) on Arbitrum One and Wormhole (W) on Ethereum]]></title>
