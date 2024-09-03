@@ -14,12 +14,11 @@ import {createHash} from 'crypto'
 
 
 const sanitizeSettings = {
-  allowedTags: [ 'b', 'i', 'em', 'strong', 'a', 'img', 'div' ],
+  allowedTags: [ 'b', 'i', 'em', 'strong', 'a', 'div' ],
   allowedAttributes: {
     'a': [ 'href' ],
-    'img':['src'],
   },
-  allowedIframeHostnames: ['www.youtube.com']
+  allowedIframeHostnames: []
 }
 
 
