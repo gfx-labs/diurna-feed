@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 07 Sep 2024 19:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 20:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -15,6 +15,15 @@
             <guid>425a9248ce68e4165e0e1512bcc95541</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[some example content for the news article]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Announces W Token Launch, 617M Airdrop; Cross-Chain Governance Solution Unveiled ]]></title>
+            <link>https://tokenpost.com/Wormhole-Announces-W-Token-Launch-617M-Airdrop-Cross-Chain-Governance-Solution-Unveiled-11369</link>
+            <guid>rssapp_e55c7d516854248f8ce92a35fec9f0d4</guid>
+            <pubDate>Sat, 07 Sep 2024 19:49:00 GMT</pubDate>
+            <description><![CDATA[Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...</div></div>]]></content:encoded>
+            <author>TokenPost (TokenPost)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Airdrop ($W Token) - Eligibility & How to Claim]]></title>
@@ -33,15 +42,6 @@
             <description><![CDATA[Wormhole price returned to the upside on Thursday, disrupting a four-day losing streak, but it needs to do much more to sustain gains.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole price returned to the upside on Thursday, disrupting a four-day losing streak, but it needs to do much more to sustain gains.</div></div>]]></content:encoded>
             <author>InvestingCube (InvestingCube)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Announces W Token Launch, 617M Airdrop; Cross-Chain Governance Solution Unveiled ]]></title>
-            <link>https://tokenpost.com/Wormhole-Announces-W-Token-Launch-617M-Airdrop-Cross-Chain-Governance-Solution-Unveiled-11369</link>
-            <guid>rssapp_e55c7d516854248f8ce92a35fec9f0d4</guid>
-            <pubDate>Tue, 27 Aug 2024 00:59:00 GMT</pubDate>
-            <description><![CDATA[Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...</div></div>]]></content:encoded>
-            <author>TokenPost (TokenPost)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
