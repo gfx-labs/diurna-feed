@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 13 Sep 2024 18:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 19:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[The Daily: MicroStrategy buys over $1 billion more bitcoin, Wormhole brings Worldcoin's World ID to Solana, Starknet community approves staking vote and more]]></title>
+            <link>https://www.theblock.co/post/316479/the-daily-microstrategy-buys-over-1-billion-more-bitcoin-wormhole-brings-worldcoins-world-id-to-solana-starknet-community-approves-staking-vote-and-more</link>
+            <guid>rssapp_8be09d784c83ce0af595ea3a71a77733</guid>
+            <pubDate>Fri, 13 Sep 2024 17:56:00 GMT</pubDate>
+            <description><![CDATA[Meanwhile, the SEC claimed that when it said "crypto asset securities" it never meant tokens were actually securities.]]></description>
+            <content:encoded><![CDATA[<div><div>Meanwhile, the SEC claimed that when it said "crypto asset securities" it never meant tokens were actually securities.</div></div>]]></content:encoded>
+            <author>The Block (The Block)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price Prediction: Buy Low Before the Upturn]]></title>
             <link>https://news.investingcube.com/wormhole-price-prediction-buy-low-before-the-upturn/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[As Bitcoin (BTC) struggles to advance amid elevated sell pressure as it nears a retest of its all-time/yearly highs and other major cryptos languish below]]></description>
             <content:encoded><![CDATA[<div><div>As Bitcoin (BTC) struggles to advance amid elevated sell pressure as it nears a retest of its all-time/yearly highs and other major cryptos languish below</div></div>]]></content:encoded>
             <author>Cryptonews (Cryptonews)</author>
-        </item>
-        <item>
-            <title><![CDATA[Avalanche And Wormhole Witness Massive Demand, Experts Think Algotech (ALGT) Could Be Next]]></title>
-            <link>https://themerkle.com/avalanche-and-wormhole-witness-massive-demand-experts-think-algotech-algt-could-be-next/</link>
-            <guid>rssapp_4e59d38f7a1c5d3245c2698530c35855</guid>
-            <pubDate>Tue, 04 Jun 2024 11:51:16 GMT</pubDate>
-            <description><![CDATA[Meta Description: After developing the bullish “rounding button”, AVAX is set for an unprecedented bill run. Rookie coins, Wormhole and Algotech, massive successes create FOMO among crypto traders]]></description>
-            <content:encoded><![CDATA[<div><div>Meta Description: After developing the bullish “rounding button”, AVAX is set for an unprecedented bill run. Rookie coins, Wormhole and Algotech, massive successes create FOMO among crypto traders</div></div>]]></content:encoded>
-            <author>The Merkle News (The Merkle News)</author>
         </item>
     </channel>
 </rss>
