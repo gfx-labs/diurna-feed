@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 13 Sep 2024 14:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 15:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Brings World ID to Solana ]]></title>
+            <link>https://www.altcoinbuzz.io/cryptocurrency-news/wormhole-brings-world-id-to-solana/</link>
+            <guid>rssapp_cb713c680435ca52493b2cf9dc757e0c</guid>
+            <pubDate>Fri, 13 Sep 2024 14:12:51 GMT</pubDate>
+            <description><![CDATA[Wormhole’s success in bringing World ID to Solana is a game-changer. Let's explore more about this important news.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole’s success in bringing World ID to Solana is a game-changer. Let's explore more about this important news.</div></div>]]></content:encoded>
+            <author>Altcoin Buzz (Altcoin Buzz)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Announces W Token Launch, 617M Airdrop; Cross-Chain Governance Solution Unveiled ]]></title>
             <link>https://tokenpost.com/Wormhole-Announces-W-Token-Launch-617M-Airdrop-Cross-Chain-Governance-Solution-Unveiled-11369</link>
