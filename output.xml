@@ -4,18 +4,11 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 13 Sep 2024 04:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 04:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
-        <item>
-            <title><![CDATA[example custom feed item]]></title>
-            <link>https://example.com</link>
-            <guid>425a9248ce68e4165e0e1512bcc95541</guid>
-            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[some example content for the news article]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Wormhole Announces W Token Launch, 617M Airdrop; Cross-Chain Governance Solution Unveiled ]]></title>
             <link>https://tokenpost.com/Wormhole-Announces-W-Token-Launch-617M-Airdrop-Cross-Chain-Governance-Solution-Unveiled-11369</link>
