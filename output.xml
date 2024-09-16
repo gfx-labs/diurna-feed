@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 16 Sep 2024 13:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 14:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -154,6 +154,15 @@
             <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
         <item>
+            <title><![CDATA[Worldcoin's WorldID to arrive on Solana via Wormhole grant]]></title>
+            <link>https://cryptoslate.com/worldcoins-worldid-to-arrive-on-solana-via-wormhole-grant/</link>
+            <guid>rssapp_14ce502cc6dc0c8c0f3068726df0a90f</guid>
+            <pubDate>Thu, 27 Jun 2024 21:15:03 GMT</pubDate>
+            <description><![CDATA[The Worldcoin Foundation announced a $70,000 grant to Wormhole to support WorldID verification on the Solana blockchain.]]></description>
+            <content:encoded><![CDATA[<div><div>The Worldcoin Foundation announced a $70,000 grant to Wormhole to support WorldID verification on the Solana blockchain.</div></div>]]></content:encoded>
+            <author>CryptoSlate (CryptoSlate)</author>
+        </item>
+        <item>
             <title><![CDATA[$WBTC Expands to Solana via Wormhole ]]></title>
             <link>https://www.altcoinbuzz.io/cryptocurrency-news/wbtc-expands-to-solana-via-wormhole/</link>
             <guid>rssapp_ab5872b87beb06cf7230840f5339e16a</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[The crypto prices today have taken a notable bearish turn, as Bitcoin slipped to the $69K mark and ETH to $3,600. Altcoins mimicked the price fall while Wormhole surged defying market trend.]]></description>
             <content:encoded><![CDATA[<div><div>The crypto prices today have taken a notable bearish turn, as Bitcoin slipped to the $69K mark and ETH to $3,600. Altcoins mimicked the price fall while Wormhole surged defying market trend.</div></div>]]></content:encoded>
             <author>CoinGape (CoinGape)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole unveils new governance staking feature, W token rises 12%]]></title>
-            <link>https://crypto.news/wormhole-unveils-new-governance-staking-feature-w-token-rises-12/</link>
-            <guid>rssapp_1bb6ee79a93d52068973885eb9ad1bf6</guid>
-            <pubDate>Fri, 07 Jun 2024 10:03:21 GMT</pubDate>
-            <description><![CDATA[Wormhole's governance token, W, has experienced a significant surge of 12% following the introduction of a new staking feature]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole's governance token, W, has experienced a significant surge of 12% following the introduction of a new staking feature</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
