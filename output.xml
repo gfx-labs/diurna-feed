@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 18 Sep 2024 21:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 22:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -154,6 +154,15 @@
             <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
         <item>
+            <title><![CDATA[Wormhole to Bring World Coin's 'World ID' to Solana]]></title>
+            <link>https://www.cryptotimes.io/2024/06/28/wormhole-secures-grant-from-worldcoin-to-integrate-world-id-on-solana-blockchain/</link>
+            <guid>rssapp_ff2df740661b8fab3b36c17e65d7461b</guid>
+            <pubDate>Thu, 27 Jun 2024 22:06:51 GMT</pubDate>
+            <description><![CDATA[Wormhole secures Worldcoin Foundation grant to integrate World ID on Solana, aiming to enhance user privacy in blockchain networks.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole secures Worldcoin Foundation grant to integrate World ID on Solana, aiming to enhance user privacy in blockchain networks.</div></div>]]></content:encoded>
+            <author>The Crypto Times (The Crypto Times)</author>
+        </item>
+        <item>
             <title><![CDATA[Worldcoin's WorldID to arrive on Solana via Wormhole grant]]></title>
             <link>https://cryptoslate.com/worldcoins-worldid-to-arrive-on-solana-via-wormhole-grant/</link>
             <guid>rssapp_14ce502cc6dc0c8c0f3068726df0a90f</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.</div></div>]]></content:encoded>
             <author>Cryptonews (Cryptonews)</author>
-        </item>
-        <item>
-            <title><![CDATA[Crypto Prices Today June 8: Bitcoin & ETH Take Bearish Turn, Wormhole & INJ Pump]]></title>
-            <link>https://coingape.com/crypto-prices-today-june-8-bitcoin-ethereum-take-bearish-turn-filecoin-injective-prices-rally/</link>
-            <guid>rssapp_052cfd6c2ba327246f1075f78d01ab05</guid>
-            <pubDate>Sat, 08 Jun 2024 04:43:47 GMT</pubDate>
-            <description><![CDATA[The crypto prices today have taken a notable bearish turn, as Bitcoin slipped to the $69K mark and ETH to $3,600. Altcoins mimicked the price fall while Wormhole surged defying market trend.]]></description>
-            <content:encoded><![CDATA[<div><div>The crypto prices today have taken a notable bearish turn, as Bitcoin slipped to the $69K mark and ETH to $3,600. Altcoins mimicked the price fall while Wormhole surged defying market trend.</div></div>]]></content:encoded>
-            <author>CoinGape (CoinGape)</author>
         </item>
     </channel>
 </rss>
