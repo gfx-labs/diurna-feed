@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 19 Sep 2024 17:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 18:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole surges 20% in 3 days, outperforming Bitcoin]]></title>
+            <link>https://ambcrypto.com/wormhole-surges-20-in-3-days-outperforming-bitcoin/</link>
+            <guid>rssapp_975cd4a19a808e222157b4c333e7ef24</guid>
+            <pubDate>Thu, 19 Sep 2024 17:00:40 GMT</pubDate>
+            <description><![CDATA[The OI-weighted funding rate was positive after a minor dip to negative territory on the 17th of September, showing bullish sentiment.]]></description>
+            <content:encoded><![CDATA[<div><div>The OI-weighted funding rate was positive after a minor dip to negative territory on the 17th of September, showing bullish sentiment.</div></div>]]></content:encoded>
+            <author>AMBCrypto (AMBCrypto)</author>
+        </item>
         <item>
             <title><![CDATA[Worldcoin Expands World ID to Solana via Wormhole]]></title>
             <link>https://cryptocurrencynews.com/market-news/worldcoin-expands-world-id-to-solana-via-wormhole/</link>
@@ -220,15 +229,6 @@
             <title><![CDATA[Exclusive: The Future of Web3 is Seamless Backend Integrations, Wormhole's Cathy Yoon Says]]></title>
             <link>https://cryptonews.com/news/exclusive-the-future-of-web3-is-seamless-backend-integrations-wormholes-cathy-yoon-says/</link>
             <guid>rssapp_24e228fdbca922fd4e24d5faa784fec7</guid>
-            <pubDate>Tue, 11 Jun 2024 15:01:01 GMT</pubDate>
-            <description><![CDATA[Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.</div></div>]]></content:encoded>
-            <author>Cryptonews (Cryptonews)</author>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive: The Future of Web3 is Seamless Backend Integrations, Wormhole's Cathy Yoon Says]]></title>
-            <link>https://cryptonews.com/news/exclusive-the-future-of-web3-is-seamless-backend-integrations-wormholes-cathy-yoon-says.htm</link>
-            <guid>rssapp_b362f0b5950a12d78386f52978011740</guid>
             <pubDate>Tue, 11 Jun 2024 15:01:01 GMT</pubDate>
             <description><![CDATA[Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.</div></div>]]></content:encoded>
