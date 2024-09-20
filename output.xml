@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 20 Sep 2024 21:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 22:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Sky, formerly known as MakerDAO, to launch USDS on Solana via Wormhole]]></title>
+            <link>https://cryptoslate.com/sky-formerly-known-as-makerdao-to-launch-usds-on-solana-via-wormhole/</link>
+            <guid>rssapp_ce4710bd24d2f50005df710784e29574</guid>
+            <pubDate>Fri, 20 Sep 2024 14:45:54 GMT</pubDate>
+            <description><![CDATA[Sky's new USDS stablecoin to drive Solana expansion with token rewards.]]></description>
+            <content:encoded><![CDATA[<div><div>Sky's new USDS stablecoin to drive Solana expansion with token rewards.</div></div>]]></content:encoded>
+            <author>CryptoSlate (CryptoSlate)</author>
+        </item>
         <item>
             <title><![CDATA[Securitize Names Wormhole as Official Interoperability Partner for Tokenized Assets]]></title>
             <link>https://www.coinspeaker.com/securitize-wormhole-official-interoperability-partner/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[The latest in blockchain tech upgrades, funding announcements and deals. For June 10 - June 12.]]></description>
             <content:encoded><![CDATA[<div><div>The latest in blockchain tech upgrades, funding announcements and deals. For June 10 - June 12.</div></div>]]></content:encoded>
             <author>coindesk (coindesk)</author>
-        </item>
-        <item>
-            <title><![CDATA[Major Drop In Wormhole Crypto Price: Is It The Right Time To Buy?]]></title>
-            <link>https://themarketperiodical.com/2024/06/11/major-drop-in-wormhole-crypto-price-is-it-the-right-time-to-buy/</link>
-            <guid>rssapp_7277df6e26b0dd4999dea0d38121cf0b</guid>
-            <pubDate>Tue, 11 Jun 2024 15:36:00 GMT</pubDate>
-            <description><![CDATA[The Wormhole crypto price has declined by 11% in just the last 24 hours.The W crypto has less than 18%]]></description>
-            <content:encoded><![CDATA[<div><div>The Wormhole crypto price has declined by 11% in just the last 24 hours.The W crypto has less than 18%</div></div>]]></content:encoded>
-            <author>The Market Periodical (The Market Periodical)</author>
         </item>
     </channel>
 </rss>
