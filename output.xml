@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 20 Sep 2024 14:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 15:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Securitize Names Wormhole as Official Interoperability Partner for Tokenized Assets]]></title>
+            <link>https://www.coinspeaker.com/securitize-wormhole-official-interoperability-partner/</link>
+            <guid>rssapp_efacc7dcb2376ec1e6feb13410346b85</guid>
+            <pubDate>Fri, 20 Sep 2024 14:27:56 GMT</pubDate>
+            <description><![CDATA[Securitize appointed Wormhole as its interoperability partner, bringing cross-chain capabilities to all tokenized assets on its platform.]]></description>
+            <content:encoded><![CDATA[<div><div>Securitize appointed Wormhole as its interoperability partner, bringing cross-chain capabilities to all tokenized assets on its platform.</div></div>]]></content:encoded>
+            <author>Coinspeaker (Coinspeaker)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole surges 20% in 3 days, outperforming Bitcoin]]></title>
             <link>https://ambcrypto.com/wormhole-surges-20-in-3-days-outperforming-bitcoin/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[The Wormhole crypto price has declined by 11% in just the last 24 hours.The W crypto has less than 18%]]></description>
             <content:encoded><![CDATA[<div><div>The Wormhole crypto price has declined by 11% in just the last 24 hours.The W crypto has less than 18%</div></div>]]></content:encoded>
             <author>The Market Periodical (The Market Periodical)</author>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive: The Future of Web3 is Seamless Backend Integrations, Wormhole's Cathy Yoon Says]]></title>
-            <link>https://cryptonews.com/news/exclusive-the-future-of-web3-is-seamless-backend-integrations-wormholes-cathy-yoon-says/</link>
-            <guid>rssapp_24e228fdbca922fd4e24d5faa784fec7</guid>
-            <pubDate>Tue, 11 Jun 2024 15:01:01 GMT</pubDate>
-            <description><![CDATA[Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole aims to tackle Web3 interoperability issues by providing a seamless backend integration that allows to transition between chains.</div></div>]]></content:encoded>
-            <author>Cryptonews (Cryptonews)</author>
         </item>
     </channel>
 </rss>
