@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 21 Sep 2024 12:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 13:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -53,6 +53,15 @@
             <description><![CDATA[Worldcoin has confirmed the launch of seamless World ID integration for Solana via a new cross-chain protocol from the Wormhole Foundation.]]></description>
             <content:encoded><![CDATA[<div><div>Worldcoin has confirmed the launch of seamless World ID integration for Solana via a new cross-chain protocol from the Wormhole Foundation.</div></div>]]></content:encoded>
             <author>CoinJournal (CoinJournal)</author>
+        </item>
+        <item>
+            <title><![CDATA[Worldcoin surges 10% after expanding World ID to Solana via Wormhole]]></title>
+            <link>https://cryptoslate.com/worldcoin-surges-10-after-expanding-world-id-to-solana-via-wormhole/</link>
+            <guid>rssapp_58df1cff18c11c33a7f634dccc90b966</guid>
+            <pubDate>Fri, 13 Sep 2024 18:30:37 GMT</pubDate>
+            <description><![CDATA[Worldcoin expands World ID to Solana blocckhain via Wormhole platform.]]></description>
+            <content:encoded><![CDATA[<div><div>Worldcoin expands World ID to Solana blocckhain via Wormhole platform.</div></div>]]></content:encoded>
+            <author>CryptoSlate (CryptoSlate)</author>
         </item>
         <item>
             <title><![CDATA[The Daily: MicroStrategy buys over $1 billion more bitcoin, Wormhole brings Worldcoin's World ID to Solana, Starknet community approves staking vote and more]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Andrew Tate's recent actions in the cryptocurrency market have no doubt generated substantial interest, triggering a fervent rally within the TOP G (TOPG) memecoin community. However, Tate's bold decision has ignited enthusiasm across the broader cryptocurrency community, not just within the TOPG ecosystem. In another development, new presale star, Angry Pepe Fork (APORK) has garnered]]></description>
             <content:encoded><![CDATA[<div><div>Andrew Tate's recent actions in the cryptocurrency market have no doubt generated substantial interest, triggering a fervent rally within the TOP G (TOPG) memecoin community. However, Tate's bold decision has ignited enthusiasm across the broader cryptocurrency community, not just within the TOPG ecosystem. In another development, new presale star, Angry Pepe Fork (APORK) has garnered</div></div>]]></content:encoded>
             <author>The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News (The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News)</author>
-        </item>
-        <item>
-            <title><![CDATA[Protocol Village: Aethir, for Sourcing GPUs, Launches Decentralized Cloud on Ethereum]]></title>
-            <link>https://www.coindesk.com/tech/2024/06/11/protocol-village/</link>
-            <guid>rssapp_0162cd75c1e4865754769a719f29e1f2</guid>
-            <pubDate>Wed, 12 Jun 2024 20:42:03 GMT</pubDate>
-            <description><![CDATA[The latest in blockchain tech upgrades, funding announcements and deals. For June 10 - June 12.]]></description>
-            <content:encoded><![CDATA[<div><div>The latest in blockchain tech upgrades, funding announcements and deals. For June 10 - June 12.</div></div>]]></content:encoded>
-            <author>coindesk (coindesk)</author>
         </item>
     </channel>
 </rss>
