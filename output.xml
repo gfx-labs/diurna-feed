@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 21 Sep 2024 19:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 20:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -190,6 +190,15 @@
             <author>ccn (ccn)</author>
         </item>
         <item>
+            <title><![CDATA[August 2024 Token Unlocks: Avalanche, Wormhole, and Aptos Release $900 Million]]></title>
+            <link>https://www.crypto-news-flash.com/august-2024-token-unlocks-avalanche-wormhole-and-aptos-release-900-million/</link>
+            <guid>rssapp_d588de2f11ed80ee7428904a4b538b20</guid>
+            <pubDate>Thu, 01 Aug 2024 17:04:07 GMT</pubDate>
+            <description><![CDATA[Avalanche leads the $900m set to be released in token unlocks this month, with Wormhole leading a $164m unlock in the next seven days alone.]]></description>
+            <content:encoded><![CDATA[<div><div>Avalanche leads the $900m set to be released in token unlocks this month, with Wormhole leading a $164m unlock in the next seven days alone.</div></div>]]></content:encoded>
+            <author>Crypto News Flash (Crypto News Flash)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole Enables Native USDT Transfers on Uniswap v3 ]]></title>
             <link>https://www.altcoinbuzz.io/cryptocurrency-news/wormhole-enables-native-usdt-transfers-on-uniswap-v3/</link>
             <guid>rssapp_c074c38519cd5d8a4f0764ce3d1ed031</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[The move to incorporate $WBTC into Solana's ecosystem underscores the increasing demand for interoperable solutions in the blockchain space.]]></description>
             <content:encoded><![CDATA[<div><div>The move to incorporate $WBTC into Solana's ecosystem underscores the increasing demand for interoperable solutions in the blockchain space.</div></div>]]></content:encoded>
             <author>Altcoin Buzz (Altcoin Buzz)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Adds Support for Mantle Network, Enhancing Ethereum L2 Interoperability]]></title>
-            <link>https://blockchain.news/news/wormhole-supports-mantle-network</link>
-            <guid>rssapp_07ab027d33318175a9e83bd6b03da35a</guid>
-            <pubDate>Thu, 20 Jun 2024 09:05:00 GMT</pubDate>
-            <description><![CDATA[Wormhole now supports Mantle Network, an innovative Ethereum Layer 2 solution, offering high performance and low-cost EVM environment.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole now supports Mantle Network, an innovative Ethereum Layer 2 solution, offering high performance and low-cost EVM environment.</div></div>]]></content:encoded>
-            <author>https://blockchain news/news/wormhole-supports-mantle-network (https://blockchain news/news/wormhole-supports-mantle-network)</author>
         </item>
     </channel>
 </rss>
