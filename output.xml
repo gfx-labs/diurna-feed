@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 21 Sep 2024 13:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 14:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Securitize Selects Wormhole as Official Blockchain Interoperability Provider ]]></title>
+            <link>https://news.bitcoin.com/securitize-selects-wormhole-as-official-blockchain-interoperability-provider/</link>
+            <guid>rssapp_07bf52505c1377b4a67c0ea633e2bf88</guid>
+            <pubDate>Fri, 20 Sep 2024 20:30:59 GMT</pubDate>
+            <description><![CDATA[Real-world-asset (RWA) tokenization infrastructure provider Securitize has chosen Wormhole as its official interoperability provider.]]></description>
+            <content:encoded><![CDATA[<div><div>Real-world-asset (RWA) tokenization infrastructure provider Securitize has chosen Wormhole as its official interoperability provider.</div></div>]]></content:encoded>
+            <author>Bitcoin News (Bitcoin News)</author>
+        </item>
         <item>
             <title><![CDATA[Sky, formerly known as MakerDAO, to launch USDS on Solana via Wormhole]]></title>
             <link>https://cryptoslate.com/sky-formerly-known-as-makerdao-to-launch-usds-on-solana-via-wormhole/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole now supports Mantle Network, an innovative Ethereum Layer 2 solution, offering high performance and low-cost EVM environment.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole now supports Mantle Network, an innovative Ethereum Layer 2 solution, offering high performance and low-cost EVM environment.</div></div>]]></content:encoded>
             <author>https://blockchain news/news/wormhole-supports-mantle-network (https://blockchain news/news/wormhole-supports-mantle-network)</author>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Tate Sparks Memecoin Frenzy, Angry Pepe Fork And Wormhole Exhibit Bullish Potential]]></title>
-            <link>https://thecryptobasic.com/2024/06/16/andrew-tate-sparks-memecoin-frenzy-angry-pepe-fork-and-wormhole-exhibit-bullish-potential/</link>
-            <guid>rssapp_55f7110a4e88704138277e96d255ec61</guid>
-            <pubDate>Sun, 16 Jun 2024 18:00:44 GMT</pubDate>
-            <description><![CDATA[Andrew Tate's recent actions in the cryptocurrency market have no doubt generated substantial interest, triggering a fervent rally within the TOP G (TOPG) memecoin community. However, Tate's bold decision has ignited enthusiasm across the broader cryptocurrency community, not just within the TOPG ecosystem. In another development, new presale star, Angry Pepe Fork (APORK) has garnered]]></description>
-            <content:encoded><![CDATA[<div><div>Andrew Tate's recent actions in the cryptocurrency market have no doubt generated substantial interest, triggering a fervent rally within the TOP G (TOPG) memecoin community. However, Tate's bold decision has ignited enthusiasm across the broader cryptocurrency community, not just within the TOPG ecosystem. In another development, new presale star, Angry Pepe Fork (APORK) has garnered</div></div>]]></content:encoded>
-            <author>The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News (The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News)</author>
         </item>
     </channel>
 </rss>
