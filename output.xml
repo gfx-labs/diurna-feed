@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 21 Sep 2024 21:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 22:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Securitize taps Wormhole to boost cross-chain tokenization for institutional assets]]></title>
+            <link>https://cryptoslate.com/securitize-taps-wormhole-to-boost-cross-chain-tokenization-for-institutional-assets/</link>
+            <guid>rssapp_d097f9b87f8f37686c0f49addd76e87e</guid>
+            <pubDate>Fri, 20 Sep 2024 22:30:09 GMT</pubDate>
+            <description><![CDATA[The partnership enables Securitize to issue tokens on 32 blockchains but doesn't address nearly 20% of the tokenized U.S. Treasuries market.]]></description>
+            <content:encoded><![CDATA[<div><div>The partnership enables Securitize to issue tokens on 32 blockchains but doesn't address nearly 20% of the tokenized U.S. Treasuries market.</div></div>]]></content:encoded>
+            <author>CryptoSlate (CryptoSlate)</author>
+        </item>
         <item>
             <title><![CDATA[Securitize Selects Wormhole as Official Blockchain Interoperability Provider ]]></title>
             <link>https://news.bitcoin.com/securitize-selects-wormhole-as-official-blockchain-interoperability-provider/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[The Worldcoin Foundation announced a $70,000 grant to Wormhole to support WorldID verification on the Solana blockchain.]]></description>
             <content:encoded><![CDATA[<div><div>The Worldcoin Foundation announced a $70,000 grant to Wormhole to support WorldID verification on the Solana blockchain.</div></div>]]></content:encoded>
             <author>CryptoSlate (CryptoSlate)</author>
-        </item>
-        <item>
-            <title><![CDATA[$WBTC Expands to Solana via Wormhole ]]></title>
-            <link>https://www.altcoinbuzz.io/cryptocurrency-news/wbtc-expands-to-solana-via-wormhole/</link>
-            <guid>rssapp_ab5872b87beb06cf7230840f5339e16a</guid>
-            <pubDate>Tue, 25 Jun 2024 11:37:40 GMT</pubDate>
-            <description><![CDATA[The move to incorporate $WBTC into Solana's ecosystem underscores the increasing demand for interoperable solutions in the blockchain space.]]></description>
-            <content:encoded><![CDATA[<div><div>The move to incorporate $WBTC into Solana's ecosystem underscores the increasing demand for interoperable solutions in the blockchain space.</div></div>]]></content:encoded>
-            <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
     </channel>
 </rss>
