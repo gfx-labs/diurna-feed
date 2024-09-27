@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 27 Sep 2024 13:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 14:06:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Floki, Wormhole, Pepe pumps as US PCE inflation nears 2%]]></title>
+            <link>https://crypto.news/floki-wormhole-pepe-pumps-as-us-pce-inflation-nears-2/</link>
+            <guid>rssapp_a1c8da6ba360d40d336e1b8bfd642f12</guid>
+            <pubDate>Fri, 27 Sep 2024 13:18:02 GMT</pubDate>
+            <description><![CDATA[Bitcoin, Wormhole, Floki, Pepe, and Shiba Inu pumped on Friday after the US published encouraging PCE inflation report]]></description>
+            <content:encoded><![CDATA[<div><div>Bitcoin, Wormhole, Floki, Pepe, and Shiba Inu pumped on Friday after the US published encouraging PCE inflation report</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
+        </item>
         <item>
             <title><![CDATA[Will Wormhole Crypto Deliver RWA Narrative? Blackrock Institutions Believe So]]></title>
             <link>https://99bitcoins.com/news/will-wormhole-crypto-deliver-rwa-narrative-blackrock-institutions-believe-so/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[As decentralized finance continues to evolve, solutions like native USDT transfers on Wormhole are crucial for improving user experience.]]></description>
             <content:encoded><![CDATA[<div><div>As decentralized finance continues to evolve, solutions like native USDT transfers on Wormhole are crucial for improving user experience.</div></div>]]></content:encoded>
             <author>Altcoin Buzz (Altcoin Buzz)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole to Bring World Coin's 'World ID' to Solana]]></title>
-            <link>https://www.cryptotimes.io/2024/06/28/wormhole-secures-grant-from-worldcoin-to-integrate-world-id-on-solana-blockchain/</link>
-            <guid>rssapp_ff2df740661b8fab3b36c17e65d7461b</guid>
-            <pubDate>Thu, 27 Jun 2024 22:06:51 GMT</pubDate>
-            <description><![CDATA[Wormhole secures Worldcoin Foundation grant to integrate World ID on Solana, aiming to enhance user privacy in blockchain networks.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole secures Worldcoin Foundation grant to integrate World ID on Solana, aiming to enhance user privacy in blockchain networks.</div></div>]]></content:encoded>
-            <author>The Crypto Times (The Crypto Times)</author>
         </item>
     </channel>
 </rss>
