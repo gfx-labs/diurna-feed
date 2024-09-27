@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 26 Sep 2024 23:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 00:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Will Wormhole Crypto Deliver RWA Narrative? Blackrock Institutions Believe So]]></title>
+            <link>https://99bitcoins.com/news/will-wormhole-crypto-deliver-rwa-narrative-blackrock-institutions-believe-so/</link>
+            <guid>rssapp_909df0c605d89ae314feb35f6b1a9766</guid>
+            <pubDate>Tue, 24 Sep 2024 10:19:42 GMT</pubDate>
+            <description><![CDATA[Securitize partners with Wormhole to drive RWA and tokenization. Investors tracking Memebet presale as meme coins pick up steam]]></description>
+            <content:encoded><![CDATA[<div><div>Securitize partners with Wormhole to drive RWA and tokenization. Investors tracking Memebet presale as meme coins pick up steam</div></div>]]></content:encoded>
+            <author>99bitcoins (99bitcoins)</author>
+        </item>
         <item>
             <title><![CDATA[Securitize taps Wormhole to boost cross-chain tokenization for institutional assets]]></title>
             <link>https://cryptoslate.com/securitize-taps-wormhole-to-boost-cross-chain-tokenization-for-institutional-assets/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole secures Worldcoin Foundation grant to integrate World ID on Solana, aiming to enhance user privacy in blockchain networks.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole secures Worldcoin Foundation grant to integrate World ID on Solana, aiming to enhance user privacy in blockchain networks.</div></div>]]></content:encoded>
             <author>The Crypto Times (The Crypto Times)</author>
-        </item>
-        <item>
-            <title><![CDATA[Worldcoin's WorldID to arrive on Solana via Wormhole grant]]></title>
-            <link>https://cryptoslate.com/worldcoins-worldid-to-arrive-on-solana-via-wormhole-grant/</link>
-            <guid>rssapp_14ce502cc6dc0c8c0f3068726df0a90f</guid>
-            <pubDate>Thu, 27 Jun 2024 21:15:03 GMT</pubDate>
-            <description><![CDATA[The Worldcoin Foundation announced a $70,000 grant to Wormhole to support WorldID verification on the Solana blockchain.]]></description>
-            <content:encoded><![CDATA[<div><div>The Worldcoin Foundation announced a $70,000 grant to Wormhole to support WorldID verification on the Solana blockchain.</div></div>]]></content:encoded>
-            <author>CryptoSlate (CryptoSlate)</author>
         </item>
     </channel>
 </rss>
