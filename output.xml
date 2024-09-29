@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 29 Sep 2024 16:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 17:05:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -35,6 +35,15 @@
             <description><![CDATA[The partnership enables Securitize to issue tokens on 32 blockchains but doesn't address nearly 20% of the tokenized U.S. Treasuries market.]]></description>
             <content:encoded><![CDATA[<div><div>The partnership enables Securitize to issue tokens on 32 blockchains but doesn't address nearly 20% of the tokenized U.S. Treasuries market.</div></div>]]></content:encoded>
             <author>CryptoSlate (CryptoSlate)</author>
+        </item>
+        <item>
+            <title><![CDATA[Securitize adds Wormhole for multi-chain RWA tokens]]></title>
+            <link>https://cointelegraph.com/news/securitize-adds-wormhole-multi-chain-rwa-tokens</link>
+            <guid>rssapp_1f64336af059ca6ee26654b9d1c264fd</guid>
+            <pubDate>Fri, 20 Sep 2024 20:58:34 GMT</pubDate>
+            <description><![CDATA[Securitize integrates Wormhole to enable cross-chain RWA token transfers, aiming for sub-second transactions and broader blockchain adoption for tokenized assets.]]></description>
+            <content:encoded><![CDATA[<div><div>Securitize integrates Wormhole to enable cross-chain RWA token transfers, aiming for sub-second transactions and broader blockchain adoption for tokenized assets.</div></div>]]></content:encoded>
+            <author>Cointelegraph (Cointelegraph)</author>
         </item>
         <item>
             <title><![CDATA[Securitize Selects Wormhole as Official Blockchain Interoperability Provider ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Avalanche leads the $900m set to be released in token unlocks this month, with Wormhole leading a $164m unlock in the next seven days alone.]]></description>
             <content:encoded><![CDATA[<div><div>Avalanche leads the $900m set to be released in token unlocks this month, with Wormhole leading a $164m unlock in the next seven days alone.</div></div>]]></content:encoded>
             <author>Crypto News Flash (Crypto News Flash)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Enables Native USDT Transfers on Uniswap v3 ]]></title>
-            <link>https://www.altcoinbuzz.io/cryptocurrency-news/wormhole-enables-native-usdt-transfers-on-uniswap-v3/</link>
-            <guid>rssapp_c074c38519cd5d8a4f0764ce3d1ed031</guid>
-            <pubDate>Wed, 10 Jul 2024 10:18:03 GMT</pubDate>
-            <description><![CDATA[As decentralized finance continues to evolve, solutions like native USDT transfers on Wormhole are crucial for improving user experience.]]></description>
-            <content:encoded><![CDATA[<div><div>As decentralized finance continues to evolve, solutions like native USDT transfers on Wormhole are crucial for improving user experience.</div></div>]]></content:encoded>
-            <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
     </channel>
 </rss>
