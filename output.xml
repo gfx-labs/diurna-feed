@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 02 Oct 2024 22:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 23:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole (W) Price Climbs By 25% Following  Debut on South Korean Exchange]]></title>
+            <link>https://beincrypto.com/wormhole-price-volume-upbit-listing/</link>
+            <guid>rssapp_7660b0328f954e4accde340cda96a8f5</guid>
+            <pubDate>Wed, 02 Oct 2024 22:00:00 GMT</pubDate>
+            <description><![CDATA[Wormhole (W) surged 25% after its Upbit listing, with $550M in trading volume. Positive sentiment may push W toward $0.45 or $0.52.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole (W) surged 25% after its Upbit listing, with $550M in trading volume. Positive sentiment may push W toward $0.45 or $0.52.</div></div>]]></content:encoded>
+            <author>BeInCrypto (BeInCrypto)</author>
+        </item>
         <item>
             <title><![CDATA[Best Crypto to Buy Now October 2 ]]></title>
             <link>https://cryptonews.com/news/best-crypto-to-buy-now-october-2-wormhole-conflux-sui/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Discover the four altcoins poised to disrupt the crypto market in this cycle, all leveraging the powerful Solana blockchain. With major investments from key players like Panta Capital and a16z, these projects—Helium, Hive Mapper, Wormhole, and Jupiter—could offer life-changing returns. Explore how these tokens are set to capitalize on the growing Solana ecosystem and what this could mean for your investment strategy.]]></description>
             <content:encoded><![CDATA[<div><div>Discover the four altcoins poised to disrupt the crypto market in this cycle, all leveraging the powerful Solana blockchain. With major investments from key players like Panta Capital and a16z, these projects—Helium, Hive Mapper, Wormhole, and Jupiter—could offer life-changing returns. Explore how these tokens are set to capitalize on the growing Solana ecosystem and what this could mean for your investment strategy.</div></div>]]></content:encoded>
             <author>TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more (TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Airdrop ($W Token) - Eligibility & How to Claim]]></title>
-            <link>https://cryptonews.com/cryptocurrency/wormhole-airdrop/</link>
-            <guid>rssapp_48b9aa3ee384ade48bfe7cf33333aae6</guid>
-            <pubDate>Fri, 30 Aug 2024 13:20:59 GMT</pubDate>
-            <description><![CDATA[The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.]]></description>
-            <content:encoded><![CDATA[<div><div>The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.</div></div>]]></content:encoded>
-            <author>Cryptonews (Cryptonews)</author>
         </item>
     </channel>
 </rss>
