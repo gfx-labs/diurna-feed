@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 02 Oct 2024 16:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 17:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.</div></div>]]></content:encoded>
             <author>Crypto News Flash (Crypto News Flash)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole token soars 20% in 24 hour trading after Upbit listing]]></title>
+            <link>https://crypto.news/wormhole-token-soars-20-in-24-hour-trading-after-upbit-listing/</link>
+            <guid>rssapp_eb8c395004fd941fef4b9090e48b3e84</guid>
+            <pubDate>Wed, 02 Oct 2024 11:00:55 GMT</pubDate>
+            <description><![CDATA[Wormhole's token went up by 20% after South Korean cryptocurrency exchange Upbit announced that the W token has been listed for trading on the KRW, BTC, and USDT markets]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole's token went up by 20% after South Korean cryptocurrency exchange Upbit announced that the W token has been listed for trading on the KRW, BTC, and USDT markets</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
         </item>
         <item>
             <title><![CDATA[Wormwhole (W) Breaks 172-Day Trendline After 125% Price Increase]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole price returned to the upside on Thursday, disrupting a four-day losing streak, but it needs to do much more to sustain gains.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole price returned to the upside on Thursday, disrupting a four-day losing streak, but it needs to do much more to sustain gains.</div></div>]]></content:encoded>
             <author>InvestingCube (InvestingCube)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Mon, 26 Aug 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
     </channel>
 </rss>
