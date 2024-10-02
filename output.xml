@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 02 Oct 2024 09:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 10:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Cryptocurrency Price Today (October 2): Bitcoin Dips Below $62,000 As Top Coins See Bloodbath]]></title>
+            <link>https://news.abplive.com/business/crypto/crypto-price-today-october-2-check-global-market-cap-bitcoin-btc-ethereum-doge-solana-litecoin-wormhole-arweave-live-tv-1721450</link>
+            <guid>rssapp_b6f1fc2d2be0577c14a063f64270412f</guid>
+            <pubDate>Wed, 02 Oct 2024 07:15:11 GMT</pubDate>
+            <description><![CDATA[Cryptocurrency price on October 2 quick take: The global market cap dipped to $2.17 trillion.]]></description>
+            <content:encoded><![CDATA[<div><div>Cryptocurrency price on October 2 quick take: The global market cap dipped to $2.17 trillion.</div></div>]]></content:encoded>
+            <author>english (english)</author>
+        </item>
         <item>
             <title><![CDATA[Floki, Wormhole, Pepe pumps as US PCE inflation nears 2%]]></title>
             <link>https://crypto.news/floki-wormhole-pepe-pumps-as-us-pce-inflation-nears-2/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Many altcoins are trying to make a comeback as they record significant gains. Meanwhile, Bitcoin (BTC) has returned to $60,000 and is still hoping to find]]></description>
             <content:encoded><![CDATA[<div><div>Many altcoins are trying to make a comeback as they record significant gains. Meanwhile, Bitcoin (BTC) has returned to $60,000 and is still hoping to find</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price Prediction 2024: W Price Analysis]]></title>
-            <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
-            <guid>rssapp_1f7f0759ddbc39ea6a074ac974989b1a</guid>
-            <pubDate>Mon, 19 Aug 2024 08:15:49 GMT</pubDate>
-            <description><![CDATA[Wormhole price predictions from our experts estimate that the price of W could grow from $0.2130 to $0.47by the end of the year.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole price predictions from our experts estimate that the price of W could grow from $0.2130 to $0.47by the end of the year.</div></div>]]></content:encoded>
-            <author>ccn (ccn)</author>
         </item>
     </channel>
 </rss>
