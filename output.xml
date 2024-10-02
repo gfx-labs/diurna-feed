@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 02 Oct 2024 14:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 15:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Token Surges After Upbit Listing Boosts Market Visibility]]></title>
+            <link>https://www.crypto-news-flash.com/wormhole-token-surges-after-upbit-listing-boosts-market-visibility/</link>
+            <guid>rssapp_55d39d40a092e80b656fb814a800d1d4</guid>
+            <pubDate>Wed, 02 Oct 2024 14:00:22 GMT</pubDate>
+            <description><![CDATA[Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.</div></div>]]></content:encoded>
+            <author>Crypto News Flash (Crypto News Flash)</author>
+        </item>
         <item>
             <title><![CDATA[Wormwhole (W) Breaks 172-Day Trendline After 125% Price Increase]]></title>
             <link>https://www.ccn.com/analysis/crypto/wormwhole-w-trendline-price-increase/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
             <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
             <author>CoinGecko (CoinGecko)</author>
-        </item>
-        <item>
-            <title><![CDATA[Protocol Village: Nym's VPN App Moves to Public Beta, GenLayer Raises $7.5M]]></title>
-            <link>https://www.coindesk.com/tech/2024/08/14/protocol-village/</link>
-            <guid>rssapp_d2ac8c4a8237acb49b5365684ed2274c</guid>
-            <pubDate>Wed, 21 Aug 2024 22:19:26 GMT</pubDate>
-            <description><![CDATA[The latest in blockchain tech upgrades, funding announcements and deals. For the period of Aug. 15-21.]]></description>
-            <content:encoded><![CDATA[<div><div>The latest in blockchain tech upgrades, funding announcements and deals. For the period of Aug. 15-21.</div></div>]]></content:encoded>
-            <author>coindesk (coindesk)</author>
         </item>
     </channel>
 </rss>
