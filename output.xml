@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 01 Oct 2024 23:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 00:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -172,6 +172,15 @@
             <author>TokenPost (TokenPost)</author>
         </item>
         <item>
+            <title><![CDATA[Four Altcoins Poised to Change Lives in This Crypto Cycle]]></title>
+            <link>https://www.thestreet.com/crypto/markets/four-altcoins-poised-to-change-lives-in-this-crypto-cycle-</link>
+            <guid>rssapp_b5a0b8a996eedcd46a95876baf929d54</guid>
+            <pubDate>Thu, 05 Sep 2024 15:53:51 GMT</pubDate>
+            <description><![CDATA[Discover the four altcoins poised to disrupt the crypto market in this cycle, all leveraging the powerful Solana blockchain. With major investments from key players like Panta Capital and a16z, these projects—Helium, Hive Mapper, Wormhole, and Jupiter—could offer life-changing returns. Explore how these tokens are set to capitalize on the growing Solana ecosystem and what this could mean for your investment strategy.]]></description>
+            <content:encoded><![CDATA[<div><div>Discover the four altcoins poised to disrupt the crypto market in this cycle, all leveraging the powerful Solana blockchain. With major investments from key players like Panta Capital and a16z, these projects—Helium, Hive Mapper, Wormhole, and Jupiter—could offer life-changing returns. Explore how these tokens are set to capitalize on the growing Solana ecosystem and what this could mean for your investment strategy.</div></div>]]></content:encoded>
+            <author>TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more (TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole Airdrop ($W Token) - Eligibility & How to Claim]]></title>
             <link>https://cryptonews.com/cryptocurrency/wormhole-airdrop/</link>
             <guid>rssapp_48b9aa3ee384ade48bfe7cf33333aae6</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole price predictions from our experts estimate that the price of W could grow from $0.2130 to $0.47by the end of the year.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole price predictions from our experts estimate that the price of W could grow from $0.2130 to $0.47by the end of the year.</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
-        </item>
-        <item>
-            <title><![CDATA[August 2024 Token Unlocks: Avalanche, Wormhole, and Aptos Release $900 Million]]></title>
-            <link>https://www.crypto-news-flash.com/august-2024-token-unlocks-avalanche-wormhole-and-aptos-release-900-million/</link>
-            <guid>rssapp_d588de2f11ed80ee7428904a4b538b20</guid>
-            <pubDate>Thu, 01 Aug 2024 17:04:07 GMT</pubDate>
-            <description><![CDATA[Avalanche leads the $900m set to be released in token unlocks this month, with Wormhole leading a $164m unlock in the next seven days alone.]]></description>
-            <content:encoded><![CDATA[<div><div>Avalanche leads the $900m set to be released in token unlocks this month, with Wormhole leading a $164m unlock in the next seven days alone.</div></div>]]></content:encoded>
-            <author>Crypto News Flash (Crypto News Flash)</author>
         </item>
     </channel>
 </rss>
