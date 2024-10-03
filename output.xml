@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 03 Oct 2024 02:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 03:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole crypto breaks weekly resistance, rallies 40.8% ]]></title>
+            <link>https://ambcrypto.com/wormhole-crypto-breaks-weekly-resistance-rallies-40-8-what-now/</link>
+            <guid>rssapp_9cf156fae3cb8552152745ba71cd902e</guid>
+            <pubDate>Thu, 03 Oct 2024 02:00:40 GMT</pubDate>
+            <description><![CDATA[The Open Interest increased by nearly 50% to stand at $64.8 million in 24 hours, showing firm bullish conviction.]]></description>
+            <content:encoded><![CDATA[<div><div>The Open Interest increased by nearly 50% to stand at $64.8 million in 24 hours, showing firm bullish conviction.</div></div>]]></content:encoded>
+            <author>AMBCrypto (AMBCrypto)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole (W) Price Climbs By 25% Following  Debut on South Korean Exchange]]></title>
             <link>https://beincrypto.com/wormhole-price-volume-upbit-listing/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...</div></div>]]></content:encoded>
             <author>TokenPost (TokenPost)</author>
-        </item>
-        <item>
-            <title><![CDATA[Four Altcoins Poised to Change Lives in This Crypto Cycle]]></title>
-            <link>https://www.thestreet.com/crypto/markets/four-altcoins-poised-to-change-lives-in-this-crypto-cycle-</link>
-            <guid>rssapp_b5a0b8a996eedcd46a95876baf929d54</guid>
-            <pubDate>Thu, 05 Sep 2024 15:53:51 GMT</pubDate>
-            <description><![CDATA[Discover the four altcoins poised to disrupt the crypto market in this cycle, all leveraging the powerful Solana blockchain. With major investments from key players like Panta Capital and a16z, these projects—Helium, Hive Mapper, Wormhole, and Jupiter—could offer life-changing returns. Explore how these tokens are set to capitalize on the growing Solana ecosystem and what this could mean for your investment strategy.]]></description>
-            <content:encoded><![CDATA[<div><div>Discover the four altcoins poised to disrupt the crypto market in this cycle, all leveraging the powerful Solana blockchain. With major investments from key players like Panta Capital and a16z, these projects—Helium, Hive Mapper, Wormhole, and Jupiter—could offer life-changing returns. Explore how these tokens are set to capitalize on the growing Solana ecosystem and what this could mean for your investment strategy.</div></div>]]></content:encoded>
-            <author>TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more (TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more)</author>
         </item>
     </channel>
 </rss>
