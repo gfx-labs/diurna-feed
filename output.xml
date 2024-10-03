@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 03 Oct 2024 06:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 07:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[A Look At Why Wormhole (W) Wormed Its Way Up To A 25% Peak]]></title>
+            <link>https://blockzeit.com/a-look-at-why-wormhole-w-wormed-its-way-up-to-a-25-peak/</link>
+            <guid>rssapp_5de48f78dbe3663f75e8dc1fdd2875c0</guid>
+            <pubDate>Thu, 03 Oct 2024 06:21:03 GMT</pubDate>
+            <description><![CDATA[Wormhole’s W token sharply climbed by 25% to a $0.3979 top today as its trading volume spiked by 414%. Although]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole’s W token sharply climbed by 25% to a $0.3979 top today as its trading volume spiked by 414%. Although</div></div>]]></content:encoded>
+            <author>Blockzeit (Blockzeit)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole crypto breaks weekly resistance, rallies 40.8% ]]></title>
             <link>https://ambcrypto.com/wormhole-crypto-breaks-weekly-resistance-rallies-40-8-what-now/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Now that the recent crypto downturn is stabilizing, investors are searching for the top altcoins set to rocket higher when the market rebounds. Analysts are recommending Rollblock (RBLK), Wormhole (W) and Filecoin as the best bets for big bounces as the Web3 economy grows. However, only crypto casino Rollblock is looking at 100x returns for]]></description>
             <content:encoded><![CDATA[<div><div>Now that the recent crypto downturn is stabilizing, investors are searching for the top altcoins set to rocket higher when the market rebounds. Analysts are recommending Rollblock (RBLK), Wormhole (W) and Filecoin as the best bets for big bounces as the Web3 economy grows. However, only crypto casino Rollblock is looking at 100x returns for</div></div>]]></content:encoded>
             <author>Crypto News Flash (Crypto News Flash)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Announces W Token Launch, 617M Airdrop; Cross-Chain Governance Solution Unveiled ]]></title>
-            <link>https://tokenpost.com/Wormhole-Announces-W-Token-Launch-617M-Airdrop-Cross-Chain-Governance-Solution-Unveiled-11369</link>
-            <guid>rssapp_e55c7d516854248f8ce92a35fec9f0d4</guid>
-            <pubDate>Sat, 07 Sep 2024 19:49:00 GMT</pubDate>
-            <description><![CDATA[Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole confirms the W tokens launch, offering previous users a 617M airdrop. The governance asset will enable voting in the Wormhole DAO.Exploring the Role of W Token in Wormhole DAO and Its Cross-Blockchain...</div></div>]]></content:encoded>
-            <author>TokenPost (TokenPost)</author>
         </item>
     </channel>
 </rss>
