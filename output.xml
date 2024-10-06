@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 06 Oct 2024 15:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 16:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Launches Significant Upgrade to Portal V2]]></title>
+            <link>https://blockchain.news/news/wormhole-launches-significant-upgrade-to-portal-v2</link>
+            <guid>rssapp_290eaeb85e8ed035273541aa43df578a</guid>
+            <pubDate>Sun, 06 Oct 2024 15:10:00 GMT</pubDate>
+            <description><![CDATA[Wormhole's Portal V2 upgrade enhances user experience with new transfer routes, faster transactions, and improved UI, facilitating seamless cross-chain asset transfers.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole's Portal V2 upgrade enhances user experience with new transfer routes, faster transactions, and improved UI, facilitating seamless cross-chain asset transfers.</div></div>]]></content:encoded>
+            <author>https://blockchain news/news/wormhole-launches-significant-upgrade-to-portal-v2 (https://blockchain news/news/wormhole-launches-significant-upgrade-to-portal-v2)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole, Sui, Mantra: Why These Cryptocurrencies Are Skyrocketing Now]]></title>
             <link>https://watcher.guru/news/wormhole-sui-mantra-why-these-cryptocurrencies-are-skyrocketing-now</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole’s success in bringing World ID to Solana is a game-changer. Let's explore more about this important news.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole’s success in bringing World ID to Solana is a game-changer. Let's explore more about this important news.</div></div>]]></content:encoded>
             <author>Altcoin Buzz (Altcoin Buzz)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole paves the way for World ID’s arrival on Solana after receiving a $70,000 grant in June ]]></title>
-            <link>https://www.cryptopolitan.com/wormhole-paves-the-way-for-world-ids-june/</link>
-            <guid>rssapp_50043a980cb9b0ef670967aad21257c2</guid>
-            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blockchain interoperability protocol Wormhole has successfully paved the way for World IDs on the Solana blockchain. Solana builders and developers will have the capacity to integrate World ID on Solana-based protocols.]]></description>
-            <content:encoded><![CDATA[<div><div>Blockchain interoperability protocol Wormhole has successfully paved the way for World IDs on the Solana blockchain. Solana builders and developers will have the capacity to integrate World ID on Solana-based protocols.</div></div>]]></content:encoded>
-            <author>Cryptopolitan (Cryptopolitan)</author>
         </item>
     </channel>
 </rss>
