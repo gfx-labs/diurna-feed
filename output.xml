@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 07 Oct 2024 20:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 21:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Trader Michaël van de Poppe Predicts New All-Time Highs for Two Altcoins, Updates Outlook on Bitcoin and Wormhole ]]></title>
+            <link>https://dailyhodl.com/2024/10/07/trader-michael-van-de-poppe-predicts-new-all-time-highs-for-two-altcoins-updates-outlook-on-bitcoin-and-wormhole/</link>
+            <guid>rssapp_bfa98aed2f6ceee930ab007012b764a8</guid>
+            <pubDate>Mon, 07 Oct 2024 20:00:00 GMT</pubDate>
+            <description><![CDATA[A widely followed crypto trader is predicting that two altcoins will rally to fresh all-time highs while updating his outlook on Bitcoin (BTC) and cross-chain protocol Wormhole (W).]]></description>
+            <content:encoded><![CDATA[<div><div>A widely followed crypto trader is predicting that two altcoins will rally to fresh all-time highs while updating his outlook on Bitcoin (BTC) and cross-chain protocol Wormhole (W).</div></div>]]></content:encoded>
+            <author>The Daily Hodl (The Daily Hodl)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Launches Significant Upgrade to Portal V2]]></title>
             <link>https://blockchain.news/news/wormhole-launches-significant-upgrade-to-portal-v2</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[This article uses today's market data to explore coins that could be the next cryptocurrency to explode. Below are crucial details.]]></description>
             <content:encoded><![CDATA[<div><div>This article uses today's market data to explore coins that could be the next cryptocurrency to explode. Below are crucial details.</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Brings World ID to Solana ]]></title>
-            <link>https://www.altcoinbuzz.io/cryptocurrency-news/wormhole-brings-world-id-to-solana/</link>
-            <guid>rssapp_cb713c680435ca52493b2cf9dc757e0c</guid>
-            <pubDate>Fri, 13 Sep 2024 14:12:51 GMT</pubDate>
-            <description><![CDATA[Wormhole’s success in bringing World ID to Solana is a game-changer. Let's explore more about this important news.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole’s success in bringing World ID to Solana is a game-changer. Let's explore more about this important news.</div></div>]]></content:encoded>
-            <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
     </channel>
 </rss>
