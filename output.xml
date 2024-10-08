@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 08 Oct 2024 01:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 02:30:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -154,6 +154,15 @@
             <author>Bitcoin News (Bitcoin News)</author>
         </item>
         <item>
+            <title><![CDATA[Sky expands native tokens to Solana with Wormhole NTT]]></title>
+            <link>https://crypto.news/sky-expands-native-tokens-to-solana-with-wormhole-ntt/</link>
+            <guid>rssapp_01b361b4c37d3e57cb678a4c53e3256e</guid>
+            <pubDate>Fri, 20 Sep 2024 17:18:54 GMT</pubDate>
+            <description><![CDATA[Sky to use Wormhole to bridge its SKY, USDS and sUSDS tokens on Solana, and eyes a 2 million SKY program to reward participating projects]]></description>
+            <content:encoded><![CDATA[<div><div>Sky to use Wormhole to bridge its SKY, USDS and sUSDS tokens on Solana, and eyes a 2 million SKY program to reward participating projects</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
+        </item>
+        <item>
             <title><![CDATA[Sky, formerly known as MakerDAO, to launch USDS on Solana via Wormhole]]></title>
             <link>https://cryptoslate.com/sky-formerly-known-as-makerdao-to-launch-usds-on-solana-via-wormhole/</link>
             <guid>rssapp_ce4710bd24d2f50005df710784e29574</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole price has strong fundamentals that justify an upbeat outlook, and its recent trend signals a potential breakout.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole price has strong fundamentals that justify an upbeat outlook, and its recent trend signals a potential breakout.</div></div>]]></content:encoded>
             <author>InvestingCube (InvestingCube)</author>
-        </item>
-        <item>
-            <title><![CDATA[Next Cryptocurrency to Explode, September 13 — Pyth Network, Drift, Wormhole, Big Time]]></title>
-            <link>https://insidebitcoins.com/news/next-cryptocurrency-to-explode-september-13-pyth-network-drift-wormhole-big-time</link>
-            <guid>rssapp_2d1455d43ea6f1b40dfcd1b6392daea3</guid>
-            <pubDate>Fri, 13 Sep 2024 14:50:41 GMT</pubDate>
-            <description><![CDATA[This article uses today's market data to explore coins that could be the next cryptocurrency to explode. Below are crucial details.]]></description>
-            <content:encoded><![CDATA[<div><div>This article uses today's market data to explore coins that could be the next cryptocurrency to explode. Below are crucial details.</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
         </item>
     </channel>
 </rss>
