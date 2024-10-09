@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 09 Oct 2024 16:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 17:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -80,6 +80,15 @@
             <description><![CDATA[Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.</div></div>]]></content:encoded>
             <author>Crypto News Flash (Crypto News Flash)</author>
+        </item>
+        <item>
+            <title><![CDATA[Next Cryptocurrency to Explode, October 2 — Wormhole, Dego Finance, Mask Network, Conflux: Guest Post by Inside Bitcoins ]]></title>
+            <link>https://coinmarketcap.com/community/articles/66fd4ac8d8cc820e3711e3f6/</link>
+            <guid>rssapp_7b6cd6394a5414e7eccf8c24577941c9</guid>
+            <pubDate>Wed, 02 Oct 2024 12:00:00 GMT</pubDate>
+            <description><![CDATA[Earning significant ROI in a bull market could mean paying attention to the meme coins and Altcoins with explosive potential. However, identifying the next cryptocurrencies [...]]]></description>
+            <content:encoded><![CDATA[<div><div>Earning significant ROI in a bull market could mean paying attention to the meme coins and Altcoins with explosive potential. However, identifying the next cryptocurrencies [...]</div></div>]]></content:encoded>
+            <author>coinmarketcap (coinmarketcap)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole token soars 20% in 24 hour trading after Upbit listing]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Worldcoin expands World ID to Solana blocckhain via Wormhole platform.]]></description>
             <content:encoded><![CDATA[<div><div>Worldcoin expands World ID to Solana blocckhain via Wormhole platform.</div></div>]]></content:encoded>
             <author>CryptoSlate (CryptoSlate)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Daily: MicroStrategy buys over $1 billion more bitcoin, Wormhole brings Worldcoin's World ID to Solana, Starknet community approves staking vote and more]]></title>
-            <link>https://www.theblock.co/post/316479/the-daily-microstrategy-buys-over-1-billion-more-bitcoin-wormhole-brings-worldcoins-world-id-to-solana-starknet-community-approves-staking-vote-and-more</link>
-            <guid>rssapp_8be09d784c83ce0af595ea3a71a77733</guid>
-            <pubDate>Fri, 13 Sep 2024 17:56:00 GMT</pubDate>
-            <description><![CDATA[Meanwhile, the SEC claimed that when it said "crypto asset securities" it never meant tokens were actually securities.]]></description>
-            <content:encoded><![CDATA[<div><div>Meanwhile, the SEC claimed that when it said "crypto asset securities" it never meant tokens were actually securities.</div></div>]]></content:encoded>
-            <author>The Block (The Block)</author>
         </item>
     </channel>
 </rss>
