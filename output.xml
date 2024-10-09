@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 09 Oct 2024 15:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 16:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -118,6 +118,15 @@
             <author>crypto news (crypto news)</author>
         </item>
         <item>
+            <title><![CDATA[Here’s Why Wormhole (W) Price Is Pumping: Guest Post by CaptainAltcoin ]]></title>
+            <link>https://coinmarketcap.com/community/articles/66f66e23132f5e3325b0cd5d/</link>
+            <guid>rssapp_44db6133b1ce30f399d1fd0c19f08159</guid>
+            <pubDate>Fri, 27 Sep 2024 12:00:00 GMT</pubDate>
+            <description><![CDATA[The price of Wormhole (W) has been on the rise for several days after a prolonged period of trading sideways. Over the last 48 hours, the token has experienced approximately a 30% increase, aligning with the bullish trends observed among many altcoins in the cryptocurrency market...]]></description>
+            <content:encoded><![CDATA[<div><div>The price of Wormhole (W) has been on the rise for several days after a prolonged period of trading sideways. Over the last 48 hours, the token has experienced approximately a 30% increase, aligning with the bullish trends observed among many altcoins in the cryptocurrency market...</div></div>]]></content:encoded>
+            <author>coinmarketcap (coinmarketcap)</author>
+        </item>
+        <item>
             <title><![CDATA[Will Wormhole Crypto Deliver RWA Narrative? Blackrock Institutions Believe So]]></title>
             <link>https://99bitcoins.com/news/will-wormhole-crypto-deliver-rwa-narrative-blackrock-institutions-believe-so/</link>
             <guid>rssapp_909df0c605d89ae314feb35f6b1a9766</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Meanwhile, the SEC claimed that when it said "crypto asset securities" it never meant tokens were actually securities.]]></description>
             <content:encoded><![CDATA[<div><div>Meanwhile, the SEC claimed that when it said "crypto asset securities" it never meant tokens were actually securities.</div></div>]]></content:encoded>
             <author>The Block (The Block)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price Prediction: Buy Low Before the Upturn]]></title>
-            <link>https://news.investingcube.com/wormhole-price-prediction-buy-low-before-the-upturn/</link>
-            <guid>rssapp_42da4808a59f5c7c0c2098637d130ccf</guid>
-            <pubDate>Fri, 13 Sep 2024 16:29:37 GMT</pubDate>
-            <description><![CDATA[Wormhole price has strong fundamentals that justify an upbeat outlook, and its recent trend signals a potential breakout.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole price has strong fundamentals that justify an upbeat outlook, and its recent trend signals a potential breakout.</div></div>]]></content:encoded>
-            <author>InvestingCube (InvestingCube)</author>
         </item>
     </channel>
 </rss>
