@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 10 Oct 2024 08:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 09:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -80,6 +80,15 @@
             <description><![CDATA[Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.</div></div>]]></content:encoded>
             <author>Crypto News Flash (Crypto News Flash)</author>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Cryptocurrency Exchange Upbit Announced That It Will List This Altcoin!: Guest Post by Bitcoin Sistemi EN ]]></title>
+            <link>https://coinmarketcap.com/community/articles/66fcf079e2dd454b9475434a/</link>
+            <guid>rssapp_a97442cc8a85fdb54c0b2081c185bf15</guid>
+            <pubDate>Wed, 02 Oct 2024 12:00:00 GMT</pubDate>
+            <description><![CDATA[South Korean cryptocurrency exchange Upbit announced to its users on its blog the new altcoin that it will list on its platform. Continue Reading: South Korean Cryptocurrency Exchange Upbit Announced That It Will List This Altcoin!]]></description>
+            <content:encoded><![CDATA[<div><div>South Korean cryptocurrency exchange Upbit announced to its users on its blog the new altcoin that it will list on its platform. Continue Reading: South Korean Cryptocurrency Exchange Upbit Announced That It Will List This Altcoin!</div></div>]]></content:encoded>
+            <author>coinmarketcap (coinmarketcap)</author>
         </item>
         <item>
             <title><![CDATA[Next Cryptocurrency to Explode, October 2 — Wormhole, Dego Finance, Mask Network, Conflux: Guest Post by Inside Bitcoins ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Worldcoin has confirmed the launch of seamless World ID integration for Solana via a new cross-chain protocol from the Wormhole Foundation.]]></description>
             <content:encoded><![CDATA[<div><div>Worldcoin has confirmed the launch of seamless World ID integration for Solana via a new cross-chain protocol from the Wormhole Foundation.</div></div>]]></content:encoded>
             <author>CoinJournal (CoinJournal)</author>
-        </item>
-        <item>
-            <title><![CDATA[Worldcoin surges 10% after expanding World ID to Solana via Wormhole]]></title>
-            <link>https://cryptoslate.com/worldcoin-surges-10-after-expanding-world-id-to-solana-via-wormhole/</link>
-            <guid>rssapp_58df1cff18c11c33a7f634dccc90b966</guid>
-            <pubDate>Fri, 13 Sep 2024 18:30:37 GMT</pubDate>
-            <description><![CDATA[Worldcoin expands World ID to Solana blocckhain via Wormhole platform.]]></description>
-            <content:encoded><![CDATA[<div><div>Worldcoin expands World ID to Solana blocckhain via Wormhole platform.</div></div>]]></content:encoded>
-            <author>CryptoSlate (CryptoSlate)</author>
         </item>
     </channel>
 </rss>
