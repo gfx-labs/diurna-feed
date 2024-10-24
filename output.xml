@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 24 Oct 2024 10:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 11:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -181,6 +181,15 @@
             <author>Bitcoin News (Bitcoin News)</author>
         </item>
         <item>
+            <title><![CDATA[Sky Expands to Solana Using Wormhole’s NTT for Token Transfers]]></title>
+            <link>https://www.cryptotimes.io/2024/09/21/sky-expands-to-solana-using-wormholes-ntt-for-token-transfers/</link>
+            <guid>rssapp_fb8904e6d1967a1e3d33162b7ce971b9</guid>
+            <pubDate>Fri, 20 Sep 2024 18:41:05 GMT</pubDate>
+            <description><![CDATA[Sky, formerly MakerDAO, expands its multichain reach using Wormhole's NTT, enabling seamless SKY and USDS transfers to Solana without needing wrapped tokens.]]></description>
+            <content:encoded><![CDATA[<div><div>Sky, formerly MakerDAO, expands its multichain reach using Wormhole's NTT, enabling seamless SKY and USDS transfers to Solana without needing wrapped tokens.</div></div>]]></content:encoded>
+            <author>The Crypto Times (The Crypto Times)</author>
+        </item>
+        <item>
             <title><![CDATA[Sky expands native tokens to Solana with Wormhole NTT]]></title>
             <link>https://crypto.news/sky-expands-native-tokens-to-solana-with-wormhole-ntt/</link>
             <guid>rssapp_01b361b4c37d3e57cb678a4c53e3256e</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Worldcoin expands World ID to Solana via Wormhole, boosting blockchain interoperability. Learn how this impacts Solana's ecosystem and Worldcoin’s mission.]]></description>
             <content:encoded><![CDATA[<div><div>Worldcoin expands World ID to Solana via Wormhole, boosting blockchain interoperability. Learn how this impacts Solana's ecosystem and Worldcoin’s mission.</div></div>]]></content:encoded>
             <author>cryptocurrencynews (cryptocurrencynews)</author>
-        </item>
-        <item>
-            <title><![CDATA[Worldcoin integrates World ID on Solana using a Wormhole bridge ]]></title>
-            <link>https://coinjournal.net/news/worldcoin-integrates-world-id-on-solana-using-a-wormhole-bridge/</link>
-            <guid>rssapp_b2655aa917489f819fb7e8522a5a9e19</guid>
-            <pubDate>Fri, 13 Sep 2024 19:25:17 GMT</pubDate>
-            <description><![CDATA[Worldcoin has confirmed the launch of seamless World ID integration for Solana via a new cross-chain protocol from the Wormhole Foundation.]]></description>
-            <content:encoded><![CDATA[<div><div>Worldcoin has confirmed the launch of seamless World ID integration for Solana via a new cross-chain protocol from the Wormhole Foundation.</div></div>]]></content:encoded>
-            <author>CoinJournal (CoinJournal)</author>
         </item>
     </channel>
 </rss>
