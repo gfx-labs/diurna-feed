@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 29 Oct 2024 14:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 15:06:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain?]]></title>
+            <link>https://bitperfect.pe/en/unlocking-the-mysteries-of-wormhole-crypto-a-new-doorway-in-blockchain/</link>
+            <guid>rssapp_f7dc1ff2b2c8eeb9dd933cf23c612fb9</guid>
+            <pubDate>Tue, 29 Oct 2024 13:54:25 GMT</pubDate>
+            <description><![CDATA[Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain? - Bitcoin Perfect]]></description>
+            <content:encoded><![CDATA[<div><div>Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain? - Bitcoin Perfect</div></div>]]></content:encoded>
+            <author>Bitcoin Perfect (Bitcoin Perfect)</author>
+        </item>
         <item>
             <title><![CDATA[Trader Michaël van de Poppe Predicts New All-Time Highs for Two Altcoins, Updates Outlook on Bitcoin and Wormhole ]]></title>
             <link>https://dailyhodl.com/2024/10/07/trader-michael-van-de-poppe-predicts-new-all-time-highs-for-two-altcoins-updates-outlook-on-bitcoin-and-wormhole/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[The OI-weighted funding rate was positive after a minor dip to negative territory on the 17th of September, showing bullish sentiment.]]></description>
             <content:encoded><![CDATA[<div><div>The OI-weighted funding rate was positive after a minor dip to negative territory on the 17th of September, showing bullish sentiment.</div></div>]]></content:encoded>
             <author>AMBCrypto (AMBCrypto)</author>
-        </item>
-        <item>
-            <title><![CDATA[Worldcoin Expands World ID to Solana via Wormhole]]></title>
-            <link>https://cryptocurrencynews.com/market-news/worldcoin-expands-world-id-to-solana-via-wormhole/</link>
-            <guid>rssapp_b515eb7cb2af93648be5ccc54786c24a</guid>
-            <pubDate>Fri, 13 Sep 2024 19:35:20 GMT</pubDate>
-            <description><![CDATA[Worldcoin expands World ID to Solana via Wormhole, boosting blockchain interoperability. Learn how this impacts Solana's ecosystem and Worldcoin’s mission.]]></description>
-            <content:encoded><![CDATA[<div><div>Worldcoin expands World ID to Solana via Wormhole, boosting blockchain interoperability. Learn how this impacts Solana's ecosystem and Worldcoin’s mission.</div></div>]]></content:encoded>
-            <author>cryptocurrencynews (cryptocurrencynews)</author>
         </item>
     </channel>
 </rss>
