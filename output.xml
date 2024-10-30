@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 30 Oct 2024 20:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 21:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Flow Traders, Wormhole partner to boost cross-chain liquidity]]></title>
+            <link>https://cointelegraph.com/news/flow-traders-wormhole-partnership-cross-chain-liquidity</link>
+            <guid>rssapp_a8a6c35bbef312646f9cff1c7b360778</guid>
+            <pubDate>Wed, 30 Oct 2024 19:05:30 GMT</pubDate>
+            <description><![CDATA[Institutional market maker Flow Traders has partnered with Wormhole, an interoperability protocol, to improve cross-chain liquidity and performance.]]></description>
+            <content:encoded><![CDATA[<div><div>Institutional market maker Flow Traders has partnered with Wormhole, an interoperability protocol, to improve cross-chain liquidity and performance.</div></div>]]></content:encoded>
+            <author>Cointelegraph (Cointelegraph)</author>
+        </item>
         <item>
             <title><![CDATA[Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain?]]></title>
             <link>https://bitperfect.pe/en/unlocking-the-mysteries-of-wormhole-crypto-a-new-doorway-in-blockchain/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Securitize appointed Wormhole as its interoperability partner, bringing cross-chain capabilities to all tokenized assets on its platform.]]></description>
             <content:encoded><![CDATA[<div><div>Securitize appointed Wormhole as its interoperability partner, bringing cross-chain capabilities to all tokenized assets on its platform.</div></div>]]></content:encoded>
             <author>Coinspeaker (Coinspeaker)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole surges 20% in 3 days, outperforming Bitcoin]]></title>
-            <link>https://ambcrypto.com/wormhole-surges-20-in-3-days-outperforming-bitcoin/</link>
-            <guid>rssapp_975cd4a19a808e222157b4c333e7ef24</guid>
-            <pubDate>Thu, 19 Sep 2024 17:00:40 GMT</pubDate>
-            <description><![CDATA[The OI-weighted funding rate was positive after a minor dip to negative territory on the 17th of September, showing bullish sentiment.]]></description>
-            <content:encoded><![CDATA[<div><div>The OI-weighted funding rate was positive after a minor dip to negative territory on the 17th of September, showing bullish sentiment.</div></div>]]></content:encoded>
-            <author>AMBCrypto (AMBCrypto)</author>
         </item>
     </channel>
 </rss>
