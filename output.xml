@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 30 Oct 2024 21:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 22:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Institutional market maker Flow Traders has partnered with Wormhole, an interoperability protocol, to improve cross-chain liquidity and performance.]]></description>
             <content:encoded><![CDATA[<div><div>Institutional market maker Flow Traders has partnered with Wormhole, an interoperability protocol, to improve cross-chain liquidity and performance.</div></div>]]></content:encoded>
             <author>Cointelegraph (Cointelegraph)</author>
+        </item>
+        <item>
+            <title><![CDATA[Flow Traders joins Wormhole’s solver network]]></title>
+            <link>https://crypto.news/flow-traders-joins-wormholes-solver-network/</link>
+            <guid>rssapp_dc71f7615c0ca9bd2e4cc7a9881da3ab</guid>
+            <pubDate>Wed, 30 Oct 2024 14:50:18 GMT</pubDate>
+            <description><![CDATA[Flow Traders joins Google Cloud and AMD among others as a Wormhole solver, with this integration aimed at boosting multichain token swaps]]></description>
+            <content:encoded><![CDATA[<div><div>Flow Traders joins Google Cloud and AMD among others as a Wormhole solver, with this integration aimed at boosting multichain token swaps</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
         </item>
         <item>
             <title><![CDATA[Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain?]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Sky's new USDS stablecoin to drive Solana expansion with token rewards.]]></description>
             <content:encoded><![CDATA[<div><div>Sky's new USDS stablecoin to drive Solana expansion with token rewards.</div></div>]]></content:encoded>
             <author>CryptoSlate (CryptoSlate)</author>
-        </item>
-        <item>
-            <title><![CDATA[Securitize Names Wormhole as Official Interoperability Partner for Tokenized Assets]]></title>
-            <link>https://www.coinspeaker.com/securitize-wormhole-official-interoperability-partner/</link>
-            <guid>rssapp_efacc7dcb2376ec1e6feb13410346b85</guid>
-            <pubDate>Fri, 20 Sep 2024 14:27:56 GMT</pubDate>
-            <description><![CDATA[Securitize appointed Wormhole as its interoperability partner, bringing cross-chain capabilities to all tokenized assets on its platform.]]></description>
-            <content:encoded><![CDATA[<div><div>Securitize appointed Wormhole as its interoperability partner, bringing cross-chain capabilities to all tokenized assets on its platform.</div></div>]]></content:encoded>
-            <author>Coinspeaker (Coinspeaker)</author>
         </item>
     </channel>
 </rss>
