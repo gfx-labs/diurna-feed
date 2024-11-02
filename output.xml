@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 02 Nov 2024 07:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 08:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Flow Traders, Wormhole partner to boost cross-chain liquidity: Guest Post by Cointelegraph ]]></title>
+            <link>https://coinmarketcap.com/community/articles/67228478a77f095c73815edc/</link>
+            <guid>rssapp_81302a9c3b01cbebd9dbbbd51ffb60e6</guid>
+            <pubDate>Thu, 31 Oct 2024 07:37:22 GMT</pubDate>
+            <description><![CDATA[Institutional market maker Flow Traders has partnered with Wormhole, an interoperability protocol, to improve cross-chain liquidity and performance.]]></description>
+            <content:encoded><![CDATA[<div><div>Institutional market maker Flow Traders has partnered with Wormhole, an interoperability protocol, to improve cross-chain liquidity and performance.</div></div>]]></content:encoded>
+            <author>coinmarketcap (coinmarketcap)</author>
+        </item>
         <item>
             <title><![CDATA[Flow Traders, Wormhole partner to boost cross-chain liquidity]]></title>
             <link>https://cointelegraph.com/news/flow-traders-wormhole-partnership-cross-chain-liquidity</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Sky to use Wormhole to bridge its SKY, USDS and sUSDS tokens on Solana, and eyes a 2 million SKY program to reward participating projects]]></description>
             <content:encoded><![CDATA[<div><div>Sky to use Wormhole to bridge its SKY, USDS and sUSDS tokens on Solana, and eyes a 2 million SKY program to reward participating projects</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Sky, formerly known as MakerDAO, to launch USDS on Solana via Wormhole]]></title>
-            <link>https://cryptoslate.com/sky-formerly-known-as-makerdao-to-launch-usds-on-solana-via-wormhole/</link>
-            <guid>rssapp_ce4710bd24d2f50005df710784e29574</guid>
-            <pubDate>Fri, 20 Sep 2024 14:45:54 GMT</pubDate>
-            <description><![CDATA[Sky's new USDS stablecoin to drive Solana expansion with token rewards.]]></description>
-            <content:encoded><![CDATA[<div><div>Sky's new USDS stablecoin to drive Solana expansion with token rewards.</div></div>]]></content:encoded>
-            <author>CryptoSlate (CryptoSlate)</author>
         </item>
     </channel>
 </rss>
