@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 09 Nov 2024 01:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 02:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -107,6 +107,15 @@
             <description><![CDATA[As major cryptos stabilize on Tuesday following significant geopolitical angst, investors are looking for the best crypto to buy now.]]></description>
             <content:encoded><![CDATA[<div><div>As major cryptos stabilize on Tuesday following significant geopolitical angst, investors are looking for the best crypto to buy now.</div></div>]]></content:encoded>
             <author>Cryptonews (Cryptonews)</author>
+        </item>
+        <item>
+            <title><![CDATA[Cross-Chain Altcoin Rallies 33% After Earning Suprise Support From South Korea’s Largest Crypto Exchange ]]></title>
+            <link>https://dailyhodl.com/2024/10/02/cross-chain-altcoin-rallies-33-after-earning-suprise-support-from-south-koreas-largest-crypto-exchange/</link>
+            <guid>rssapp_24c94a76962c80510a9fb672ea165c3d</guid>
+            <pubDate>Wed, 02 Oct 2024 18:05:57 GMT</pubDate>
+            <description><![CDATA[A cross-chain protocol's altcoin is soaring after Korea's biggest crypto exchange announced support for trading.]]></description>
+            <content:encoded><![CDATA[<div><div>A cross-chain protocol's altcoin is soaring after Korea's biggest crypto exchange announced support for trading.</div></div>]]></content:encoded>
+            <author>The Daily Hodl (The Daily Hodl)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Token Surges After Upbit Listing Boosts Market Visibility]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Sky, formerly MakerDAO, expands its multichain reach using Wormhole's NTT, enabling seamless SKY and USDS transfers to Solana without needing wrapped tokens.]]></description>
             <content:encoded><![CDATA[<div><div>Sky, formerly MakerDAO, expands its multichain reach using Wormhole's NTT, enabling seamless SKY and USDS transfers to Solana without needing wrapped tokens.</div></div>]]></content:encoded>
             <author>The Crypto Times (The Crypto Times)</author>
-        </item>
-        <item>
-            <title><![CDATA[Sky expands native tokens to Solana with Wormhole NTT]]></title>
-            <link>https://crypto.news/sky-expands-native-tokens-to-solana-with-wormhole-ntt/</link>
-            <guid>rssapp_01b361b4c37d3e57cb678a4c53e3256e</guid>
-            <pubDate>Fri, 20 Sep 2024 17:18:54 GMT</pubDate>
-            <description><![CDATA[Sky to use Wormhole to bridge its SKY, USDS and sUSDS tokens on Solana, and eyes a 2 million SKY program to reward participating projects]]></description>
-            <content:encoded><![CDATA[<div><div>Sky to use Wormhole to bridge its SKY, USDS and sUSDS tokens on Solana, and eyes a 2 million SKY program to reward participating projects</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
