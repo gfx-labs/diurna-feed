@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 10 Nov 2024 23:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 00:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -44,6 +44,15 @@
             <description><![CDATA[Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain? - Bitcoin Perfect]]></description>
             <content:encoded><![CDATA[<div><div>Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain? - Bitcoin Perfect</div></div>]]></content:encoded>
             <author>Bitcoin Perfect (Bitcoin Perfect)</author>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Whales Bought These Altcoins in the Second Week of October 2024]]></title>
+            <link>https://beincrypto.com/whales-bought-these-altcoins-second-week-october/</link>
+            <guid>rssapp_96918887c358abe5018ebf309099db42</guid>
+            <pubDate>Fri, 11 Oct 2024 19:30:00 GMT</pubDate>
+            <description><![CDATA[Discover which altcoins whales are buying in the second week of October 2024. What happens to these cryptos after this?]]></description>
+            <content:encoded><![CDATA[<div><div>Discover which altcoins whales are buying in the second week of October 2024. What happens to these cryptos after this?</div></div>]]></content:encoded>
+            <author>BeInCrypto (BeInCrypto)</author>
         </item>
         <item>
             <title><![CDATA[Trader Michaël van de Poppe Predicts New All-Time Highs for Two Altcoins, Updates Outlook on Bitcoin and Wormhole ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Real-world-asset (RWA) tokenization infrastructure provider Securitize has chosen Wormhole as its official interoperability provider.]]></description>
             <content:encoded><![CDATA[<div><div>Real-world-asset (RWA) tokenization infrastructure provider Securitize has chosen Wormhole as its official interoperability provider.</div></div>]]></content:encoded>
             <author>Bitcoin News (Bitcoin News)</author>
-        </item>
-        <item>
-            <title><![CDATA[Sky Expands to Solana Using Wormhole’s NTT for Token Transfers]]></title>
-            <link>https://www.cryptotimes.io/2024/09/21/sky-expands-to-solana-using-wormholes-ntt-for-token-transfers/</link>
-            <guid>rssapp_fb8904e6d1967a1e3d33162b7ce971b9</guid>
-            <pubDate>Fri, 20 Sep 2024 18:41:05 GMT</pubDate>
-            <description><![CDATA[Sky, formerly MakerDAO, expands its multichain reach using Wormhole's NTT, enabling seamless SKY and USDS transfers to Solana without needing wrapped tokens.]]></description>
-            <content:encoded><![CDATA[<div><div>Sky, formerly MakerDAO, expands its multichain reach using Wormhole's NTT, enabling seamless SKY and USDS transfers to Solana without needing wrapped tokens.</div></div>]]></content:encoded>
-            <author>The Crypto Times (The Crypto Times)</author>
         </item>
     </channel>
 </rss>
