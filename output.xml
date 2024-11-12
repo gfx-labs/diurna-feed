@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 12 Nov 2024 03:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 04:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[PayPal USD (PYUSD) Embraces Multichain Interoperability via Wormhole]]></title>
+            <link>https://blockchain.news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole</link>
+            <guid>rssapp_3ba95a4d98f4f8451c00d4340c04a57c</guid>
+            <pubDate>Tue, 12 Nov 2024 03:16:00 GMT</pubDate>
+            <description><![CDATA[PayPal USD (PYUSD) will now support native cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions without token wrapping.]]></description>
+            <content:encoded><![CDATA[<div><div>PayPal USD (PYUSD) will now support native cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions without token wrapping.</div></div>]]></content:encoded>
+            <author>https://blockchain news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole (https://blockchain news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole)</author>
+        </item>
         <item>
             <title><![CDATA[Flow Traders, Wormhole partner to boost cross-chain liquidity: Guest Post by Cointelegraph ]]></title>
             <link>https://coinmarketcap.com/community/articles/67228478a77f095c73815edc/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Securitize integrates Wormhole to enable cross-chain RWA token transfers, aiming for sub-second transactions and broader blockchain adoption for tokenized assets.]]></description>
             <content:encoded><![CDATA[<div><div>Securitize integrates Wormhole to enable cross-chain RWA token transfers, aiming for sub-second transactions and broader blockchain adoption for tokenized assets.</div></div>]]></content:encoded>
             <author>Cointelegraph (Cointelegraph)</author>
-        </item>
-        <item>
-            <title><![CDATA[Securitize Selects Wormhole as Official Blockchain Interoperability Provider ]]></title>
-            <link>https://news.bitcoin.com/securitize-selects-wormhole-as-official-blockchain-interoperability-provider/</link>
-            <guid>rssapp_07bf52505c1377b4a67c0ea633e2bf88</guid>
-            <pubDate>Fri, 20 Sep 2024 20:30:59 GMT</pubDate>
-            <description><![CDATA[Real-world-asset (RWA) tokenization infrastructure provider Securitize has chosen Wormhole as its official interoperability provider.]]></description>
-            <content:encoded><![CDATA[<div><div>Real-world-asset (RWA) tokenization infrastructure provider Securitize has chosen Wormhole as its official interoperability provider.</div></div>]]></content:encoded>
-            <author>Bitcoin News (Bitcoin News)</author>
         </item>
     </channel>
 </rss>
