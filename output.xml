@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 13 Nov 2024 18:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 19:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[PayPal USD (PYUSD) Expands to Solana via Wormhole Integration]]></title>
+            <link>https://blockchain.news/news/paypal-usd-pyusd-expands-to-solana-via-wormhole-integration</link>
+            <guid>rssapp_22305a78692cbfc62c6022b0b0bf119a</guid>
+            <pubDate>Wed, 13 Nov 2024 17:23:00 GMT</pubDate>
+            <description><![CDATA[PayPal USD (PYUSD) will now facilitate cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions and interoperability.]]></description>
+            <content:encoded><![CDATA[<div><div>PayPal USD (PYUSD) will now facilitate cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions and interoperability.</div></div>]]></content:encoded>
+            <author>https://blockchain news/news/paypal-usd-pyusd-expands-to-solana-via-wormhole-integration (https://blockchain news/news/paypal-usd-pyusd-expands-to-solana-via-wormhole-integration)</author>
+        </item>
         <item>
             <title><![CDATA[PayPal USD (PYUSD) Embraces Multichain Interoperability via Wormhole]]></title>
             <link>https://blockchain.news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[The partnership enables Securitize to issue tokens on 32 blockchains but doesn't address nearly 20% of the tokenized U.S. Treasuries market.]]></description>
             <content:encoded><![CDATA[<div><div>The partnership enables Securitize to issue tokens on 32 blockchains but doesn't address nearly 20% of the tokenized U.S. Treasuries market.</div></div>]]></content:encoded>
             <author>CryptoSlate (CryptoSlate)</author>
-        </item>
-        <item>
-            <title><![CDATA[Securitize adds Wormhole for multi-chain RWA tokens]]></title>
-            <link>https://cointelegraph.com/news/securitize-adds-wormhole-multi-chain-rwa-tokens</link>
-            <guid>rssapp_1f64336af059ca6ee26654b9d1c264fd</guid>
-            <pubDate>Fri, 20 Sep 2024 20:58:34 GMT</pubDate>
-            <description><![CDATA[Securitize integrates Wormhole to enable cross-chain RWA token transfers, aiming for sub-second transactions and broader blockchain adoption for tokenized assets.]]></description>
-            <content:encoded><![CDATA[<div><div>Securitize integrates Wormhole to enable cross-chain RWA token transfers, aiming for sub-second transactions and broader blockchain adoption for tokenized assets.</div></div>]]></content:encoded>
-            <author>Cointelegraph (Cointelegraph)</author>
         </item>
     </channel>
 </rss>
