@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 14 Nov 2024 03:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 04:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Transfero integrates Wormhole as interoperability provider]]></title>
+            <link>https://crypto.news/transfero-integrates-wormhole-as-interoperability-provider/</link>
+            <guid>rssapp_01fe874c39e3f377a547b4e618fa3700</guid>
+            <pubDate>Wed, 13 Nov 2024 17:48:43 GMT</pubDate>
+            <description><![CDATA[Stablecoin issuer Transfero, which has stablecoins pegged on emerging markets currencies, has integrated Wormhole as its interoperability provider]]></description>
+            <content:encoded><![CDATA[<div><div>Stablecoin issuer Transfero, which has stablecoins pegged on emerging markets currencies, has integrated Wormhole as its interoperability provider</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
+        </item>
         <item>
             <title><![CDATA[PayPal USD (PYUSD) Expands to Solana via Wormhole Integration]]></title>
             <link>https://blockchain.news/news/paypal-usd-pyusd-expands-to-solana-via-wormhole-integration</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Securitize partners with Wormhole to drive RWA and tokenization. Investors tracking Memebet presale as meme coins pick up steam]]></description>
             <content:encoded><![CDATA[<div><div>Securitize partners with Wormhole to drive RWA and tokenization. Investors tracking Memebet presale as meme coins pick up steam</div></div>]]></content:encoded>
             <author>99bitcoins (99bitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Securitize taps Wormhole to boost cross-chain tokenization for institutional assets]]></title>
-            <link>https://cryptoslate.com/securitize-taps-wormhole-to-boost-cross-chain-tokenization-for-institutional-assets/</link>
-            <guid>rssapp_d097f9b87f8f37686c0f49addd76e87e</guid>
-            <pubDate>Fri, 20 Sep 2024 22:30:09 GMT</pubDate>
-            <description><![CDATA[The partnership enables Securitize to issue tokens on 32 blockchains but doesn't address nearly 20% of the tokenized U.S. Treasuries market.]]></description>
-            <content:encoded><![CDATA[<div><div>The partnership enables Securitize to issue tokens on 32 blockchains but doesn't address nearly 20% of the tokenized U.S. Treasuries market.</div></div>]]></content:encoded>
-            <author>CryptoSlate (CryptoSlate)</author>
         </item>
     </channel>
 </rss>
