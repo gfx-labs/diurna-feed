@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 18 Nov 2024 15:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 16:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Tidus Wallet Brings Wormhole Integration For Ethereum-Solana Transfers]]></title>
+            <link>https://www.benzinga.com/markets/cryptocurrency/24/11/42036066/tidus-wallet-brings-wormhole-integration-for-ethereum-solana-transfers</link>
+            <guid>rssapp_c07b8d83117db87c15c726b4eced21f1</guid>
+            <pubDate>Mon, 18 Nov 2024 13:52:25 GMT</pubDate>
+            <description><![CDATA[Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.]]></description>
+            <content:encoded><![CDATA[<div><div>Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.</div></div>]]></content:encoded>
+            <author>Benzinga (Benzinga)</author>
+        </item>
         <item>
             <title><![CDATA[Transfero integrates Wormhole as interoperability provider]]></title>
             <link>https://crypto.news/transfero-integrates-wormhole-as-interoperability-provider/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[The price of Wormhole (W) has been on the rise for several days after a prolonged period of trading sideways. Over the last 48 hours, the token has experienced approximately a 30% increase, aligning with the bullish trends observed among many altcoins in the cryptocurrency market...]]></description>
             <content:encoded><![CDATA[<div><div>The price of Wormhole (W) has been on the rise for several days after a prolonged period of trading sideways. Over the last 48 hours, the token has experienced approximately a 30% increase, aligning with the bullish trends observed among many altcoins in the cryptocurrency market...</div></div>]]></content:encoded>
             <author>coinmarketcap (coinmarketcap)</author>
-        </item>
-        <item>
-            <title><![CDATA[Will Wormhole Crypto Deliver RWA Narrative? Blackrock Institutions Believe So]]></title>
-            <link>https://99bitcoins.com/news/will-wormhole-crypto-deliver-rwa-narrative-blackrock-institutions-believe-so/</link>
-            <guid>rssapp_909df0c605d89ae314feb35f6b1a9766</guid>
-            <pubDate>Tue, 24 Sep 2024 10:19:42 GMT</pubDate>
-            <description><![CDATA[Securitize partners with Wormhole to drive RWA and tokenization. Investors tracking Memebet presale as meme coins pick up steam]]></description>
-            <content:encoded><![CDATA[<div><div>Securitize partners with Wormhole to drive RWA and tokenization. Investors tracking Memebet presale as meme coins pick up steam</div></div>]]></content:encoded>
-            <author>99bitcoins (99bitcoins)</author>
         </item>
     </channel>
 </rss>
