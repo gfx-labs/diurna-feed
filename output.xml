@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 21 Nov 2024 14:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 15:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[Tidus Wallet Brings Wormhole Integration For Ethereum-Solana Transfers]]></title>
             <link>https://www.benzinga.com/markets/cryptocurrency/24/11/42036066/tidus-wallet-brings-wormhole-integration-for-ethereum-solana-transfers</link>
             <guid>rssapp_c07b8d83117db87c15c726b4eced21f1</guid>
-            <pubDate>Mon, 18 Nov 2024 13:52:25 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 13:52:08 GMT</pubDate>
             <description><![CDATA[Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.]]></description>
             <content:encoded><![CDATA[<div><div>Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.</div></div>]]></content:encoded>
             <author>Benzinga (Benzinga)</author>
