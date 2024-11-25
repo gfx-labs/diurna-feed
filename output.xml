@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 25 Nov 2024 19:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 20:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Debuts at $3B Valuation in 617M Token Airdrop]]></title>
+            <link>https://www.coindesk.com/business/2024/04/03/wormhole-debuts-at-3b-valuation-in-617m-token-airdrop</link>
+            <guid>rssapp_7f0210a34346dc6422530ea3ce1f471b</guid>
+            <pubDate>Mon, 25 Nov 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[Cross-chain bridge Wormhole initiated an airdrop that will see early users rewarded with 617 million of its newly issued governance token, W]]></description>
+            <content:encoded><![CDATA[<div><div>Cross-chain bridge Wormhole initiated an airdrop that will see early users rewarded with 617 million of its newly issued governance token, W</div></div>]]></content:encoded>
+            <author>CoinDesk (CoinDesk)</author>
         </item>
         <item>
             <title><![CDATA[Tidus Wallet Brings Wormhole Integration For Ethereum-Solana Transfers]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Cryptocurrency price on October 2 quick take: The global market cap dipped to $2.17 trillion.]]></description>
             <content:encoded><![CDATA[<div><div>Cryptocurrency price on October 2 quick take: The global market cap dipped to $2.17 trillion.</div></div>]]></content:encoded>
             <author>english (english)</author>
-        </item>
-        <item>
-            <title><![CDATA[Floki, Wormhole, Pepe pumps as US PCE inflation nears 2%]]></title>
-            <link>https://crypto.news/floki-wormhole-pepe-pumps-as-us-pce-inflation-nears-2/</link>
-            <guid>rssapp_a1c8da6ba360d40d336e1b8bfd642f12</guid>
-            <pubDate>Fri, 27 Sep 2024 13:18:02 GMT</pubDate>
-            <description><![CDATA[Bitcoin, Wormhole, Floki, Pepe, and Shiba Inu pumped on Friday after the US published encouraging PCE inflation report]]></description>
-            <content:encoded><![CDATA[<div><div>Bitcoin, Wormhole, Floki, Pepe, and Shiba Inu pumped on Friday after the US published encouraging PCE inflation report</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
