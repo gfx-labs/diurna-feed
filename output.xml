@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 25 Nov 2024 12:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 13:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole (W) Price Builds Momentum in Horizontal Zone, Breakout Could Be Imminent]]></title>
+            <link>https://www.ccn.com/analysis/crypto/wormhole-horizontal-zone-breakout-expected/</link>
+            <guid>rssapp_c614d70a770d850122e2fdb1f1c8cf3e</guid>
+            <pubDate>Mon, 25 Nov 2024 12:27:31 GMT</pubDate>
+            <description><![CDATA[Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.</div></div>]]></content:encoded>
+            <author>ccn (ccn)</author>
+        </item>
         <item>
             <title><![CDATA[Tidus Wallet Brings Wormhole Integration For Ethereum-Solana Transfers]]></title>
             <link>https://www.benzinga.com/markets/cryptocurrency/24/11/42036066/tidus-wallet-brings-wormhole-integration-for-ethereum-solana-transfers</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Bitcoin, Wormhole, Floki, Pepe, and Shiba Inu pumped on Friday after the US published encouraging PCE inflation report]]></description>
             <content:encoded><![CDATA[<div><div>Bitcoin, Wormhole, Floki, Pepe, and Shiba Inu pumped on Friday after the US published encouraging PCE inflation report</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Here’s Why Wormhole (W) Price Is Pumping: Guest Post by CaptainAltcoin ]]></title>
-            <link>https://coinmarketcap.com/community/articles/66f66e23132f5e3325b0cd5d/</link>
-            <guid>rssapp_44db6133b1ce30f399d1fd0c19f08159</guid>
-            <pubDate>Fri, 27 Sep 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[The price of Wormhole (W) has been on the rise for several days after a prolonged period of trading sideways. Over the last 48 hours, the token has experienced approximately a 30% increase, aligning with the bullish trends observed among many altcoins in the cryptocurrency market...]]></description>
-            <content:encoded><![CDATA[<div><div>The price of Wormhole (W) has been on the rise for several days after a prolonged period of trading sideways. Over the last 48 hours, the token has experienced approximately a 30% increase, aligning with the bullish trends observed among many altcoins in the cryptocurrency market...</div></div>]]></content:encoded>
-            <author>coinmarketcap (coinmarketcap)</author>
         </item>
     </channel>
 </rss>
