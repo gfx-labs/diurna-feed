@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 27 Nov 2024 02:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 03:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price Prediction 2025: W Price Analysis]]></title>
+            <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
+            <guid>rssapp_1f7f0759ddbc39ea6a074ac974989b1a</guid>
+            <pubDate>Mon, 25 Nov 2024 13:47:03 GMT</pubDate>
+            <description><![CDATA[Wormhole price predictions from our experts estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole price predictions from our experts estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.</div></div>]]></content:encoded>
+            <author>ccn (ccn)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole (W) Price Builds Momentum in Horizontal Zone, Breakout Could Be Imminent]]></title>
             <link>https://www.ccn.com/analysis/crypto/wormhole-horizontal-zone-breakout-expected/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[The Wormhole price broke out from a long-term resistance trend line but failed to confirm a bullish trend reversal.]]></description>
             <content:encoded><![CDATA[<div><div>The Wormhole price broke out from a long-term resistance trend line but failed to confirm a bullish trend reversal.</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
-        </item>
-        <item>
-            <title><![CDATA[Cryptocurrency Price Today (October 2): Bitcoin Dips Below $62,000 As Top Coins See Bloodbath]]></title>
-            <link>https://news.abplive.com/business/crypto/crypto-price-today-october-2-check-global-market-cap-bitcoin-btc-ethereum-doge-solana-litecoin-wormhole-arweave-live-tv-1721450</link>
-            <guid>rssapp_b6f1fc2d2be0577c14a063f64270412f</guid>
-            <pubDate>Wed, 02 Oct 2024 07:15:11 GMT</pubDate>
-            <description><![CDATA[Cryptocurrency price on October 2 quick take: The global market cap dipped to $2.17 trillion.]]></description>
-            <content:encoded><![CDATA[<div><div>Cryptocurrency price on October 2 quick take: The global market cap dipped to $2.17 trillion.</div></div>]]></content:encoded>
-            <author>english (english)</author>
         </item>
     </channel>
 </rss>
