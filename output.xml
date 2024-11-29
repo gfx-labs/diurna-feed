@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 29 Nov 2024 10:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 11:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Unraveling The $325 Million Wormhole Hack: How CRE’s Expertise Came To The Rescue]]></title>
+            <link>https://techbullion.com/unraveling-the-325-million-wormhole-hack-how-cres-expertise-came-to-the-rescue/</link>
+            <guid>rssapp_2561bf05d0ae90529fa5827d6753c28f</guid>
+            <pubDate>Fri, 29 Nov 2024 09:51:41 GMT</pubDate>
+            <description><![CDATA[Understanding The Wormhole Hack: How it Happened The cryptocurrency world was rocked by a major security breach in February 2022 when the Wormhole bridge, a popular cross-chain bridge protocol, fell victim to a sophisticated hack. The attack, which has been dubbed one of the largest crypto heists in history, saw cybercriminals make off with a […]]]></description>
+            <content:encoded><![CDATA[<div><div>Understanding The Wormhole Hack: How it Happened The cryptocurrency world was rocked by a major security breach in February 2022 when the Wormhole bridge, a popular cross-chain bridge protocol, fell victim to a sophisticated hack. The attack, which has been dubbed one of the largest crypto heists in history, saw cybercriminals make off with a […]</div></div>]]></content:encoded>
+            <author>TechBullion (TechBullion)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price Prediction 2025: W Price Analysis]]></title>
             <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole's token went up by 20% after South Korean cryptocurrency exchange Upbit announced that the W token has been listed for trading on the KRW, BTC, and USDT markets]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole's token went up by 20% after South Korean cryptocurrency exchange Upbit announced that the W token has been listed for trading on the KRW, BTC, and USDT markets</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormwhole (W) Breaks 172-Day Trendline After 125% Price Increase]]></title>
-            <link>https://www.ccn.com/analysis/crypto/wormwhole-w-trendline-price-increase/</link>
-            <guid>rssapp_ec8f1c66e4a10d7cad916c8b761a78da</guid>
-            <pubDate>Wed, 02 Oct 2024 10:40:44 GMT</pubDate>
-            <description><![CDATA[The Wormhole price broke out from a long-term resistance trend line but failed to confirm a bullish trend reversal.]]></description>
-            <content:encoded><![CDATA[<div><div>The Wormhole price broke out from a long-term resistance trend line but failed to confirm a bullish trend reversal.</div></div>]]></content:encoded>
-            <author>ccn (ccn)</author>
         </item>
     </channel>
 </rss>
