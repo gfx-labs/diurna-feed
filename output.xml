@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 04 Dec 2024 16:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 17:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -136,6 +136,15 @@
             <author>The Daily Hodl (The Daily Hodl)</author>
         </item>
         <item>
+            <title><![CDATA[Analysts Notice Profits Rotating From Solana Memecoins As Utility Tokens Wormhole and Rollblock Skyrocket ]]></title>
+            <link>https://bitcoinist.com/analysts-notice-profits-rotating-from-solana-memecoins-as-utility-tokens-wormhole-and-rollblock-skyrocket/</link>
+            <guid>rssapp_e9cbb238224777ddd4942f6928e276dd</guid>
+            <pubDate>Mon, 07 Oct 2024 07:49:51 GMT</pubDate>
+            <description><![CDATA[Analysts are observing a notable shift in profits from Solana-based memecoins to utility tokens like Wormhole (W) and Rollblock (RBLK). These altcoins have]]></description>
+            <content:encoded><![CDATA[<div><div>Analysts are observing a notable shift in profits from Solana-based memecoins to utility tokens like Wormhole (W) and Rollblock (RBLK). These altcoins have</div></div>]]></content:encoded>
+            <author>bitcoinist (bitcoinist)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole Launches Significant Upgrade to Portal V2]]></title>
             <link>https://blockchain.news/news/wormhole-launches-significant-upgrade-to-portal-v2</link>
             <guid>rssapp_290eaeb85e8ed035273541aa43df578a</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Earning significant ROI in a bull market could mean paying attention to the meme coins and Altcoins with explosive potential. However, identifying the next cryptocurrencies [...]]]></description>
             <content:encoded><![CDATA[<div><div>Earning significant ROI in a bull market could mean paying attention to the meme coins and Altcoins with explosive potential. However, identifying the next cryptocurrencies [...]</div></div>]]></content:encoded>
             <author>coinmarketcap (coinmarketcap)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole token soars 20% in 24 hour trading after Upbit listing]]></title>
-            <link>https://crypto.news/wormhole-token-soars-20-in-24-hour-trading-after-upbit-listing/</link>
-            <guid>rssapp_eb8c395004fd941fef4b9090e48b3e84</guid>
-            <pubDate>Wed, 02 Oct 2024 11:00:55 GMT</pubDate>
-            <description><![CDATA[Wormhole's token went up by 20% after South Korean cryptocurrency exchange Upbit announced that the W token has been listed for trading on the KRW, BTC, and USDT markets]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole's token went up by 20% after South Korean cryptocurrency exchange Upbit announced that the W token has been listed for trading on the KRW, BTC, and USDT markets</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
