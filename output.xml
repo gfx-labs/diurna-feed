@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 05 Dec 2024 10:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 11:06:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Launches Staking Rewards Program for W Holders ]]></title>
+            <link>https://www.altcoinbuzz.io/cryptocurrency-news/wormhole-launches-staking-rewards-program-for-w-holders/</link>
+            <guid>rssapp_a61495dde6c972af2ad6511bbb54d3fa</guid>
+            <pubDate>Thu, 05 Dec 2024 09:51:54 GMT</pubDate>
+            <description><![CDATA[Staking your W tokens is more than just earning rewards; it’s about actively participating in the future of the Wormhole platform.]]></description>
+            <content:encoded><![CDATA[<div><div>Staking your W tokens is more than just earning rewards; it’s about actively participating in the future of the Wormhole platform.</div></div>]]></content:encoded>
+            <author>Altcoin Buzz (Altcoin Buzz)</author>
+        </item>
         <item>
             <title><![CDATA[Unraveling The $325 Million Wormhole Hack: How CRE’s Expertise Came To The Rescue]]></title>
             <link>https://techbullion.com/unraveling-the-325-million-wormhole-hack-how-cres-expertise-came-to-the-rescue/</link>
@@ -223,15 +232,6 @@
             <pubDate>Wed, 02 Oct 2024 12:00:00 GMT</pubDate>
             <description><![CDATA[South Korean cryptocurrency exchange Upbit announced to its users on its blog the new altcoin that it will list on its platform. Continue Reading: South Korean Cryptocurrency Exchange Upbit Announced That It Will List This Altcoin!]]></description>
             <content:encoded><![CDATA[<div><div>South Korean cryptocurrency exchange Upbit announced to its users on its blog the new altcoin that it will list on its platform. Continue Reading: South Korean Cryptocurrency Exchange Upbit Announced That It Will List This Altcoin!</div></div>]]></content:encoded>
-            <author>coinmarketcap (coinmarketcap)</author>
-        </item>
-        <item>
-            <title><![CDATA[Next Cryptocurrency to Explode, October 2 — Wormhole, Dego Finance, Mask Network, Conflux: Guest Post by Inside Bitcoins ]]></title>
-            <link>https://coinmarketcap.com/community/articles/66fd4ac8d8cc820e3711e3f6/</link>
-            <guid>rssapp_7b6cd6394a5414e7eccf8c24577941c9</guid>
-            <pubDate>Wed, 02 Oct 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[Earning significant ROI in a bull market could mean paying attention to the meme coins and Altcoins with explosive potential. However, identifying the next cryptocurrencies [...]]]></description>
-            <content:encoded><![CDATA[<div><div>Earning significant ROI in a bull market could mean paying attention to the meme coins and Altcoins with explosive potential. However, identifying the next cryptocurrencies [...]</div></div>]]></content:encoded>
             <author>coinmarketcap (coinmarketcap)</author>
         </item>
     </channel>
