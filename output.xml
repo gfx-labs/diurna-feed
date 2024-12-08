@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 08 Dec 2024 01:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 02:35:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -62,6 +62,15 @@
             <description><![CDATA[Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.]]></description>
             <content:encoded><![CDATA[<div><div>Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.</div></div>]]></content:encoded>
             <author>Benzinga (Benzinga)</author>
+        </item>
+        <item>
+            <title><![CDATA[Transfero Partners with Wormhole to Revolutionize Multichain Stablecoin Transactions]]></title>
+            <link>https://www.cointrust.com/market-news/transfero-partners-with-wormhole-to-revolutionize-multichain-stablecoin-transactions</link>
+            <guid>rssapp_da4ffe8ae5b3935690b42dadb5839d5c</guid>
+            <pubDate>Thu, 14 Nov 2024 14:25:57 GMT</pubDate>
+            <description><![CDATA[Transfero, a leading stablecoin issuer in Latin America, has announced a strategic collaboration with Wormhole to implement its Native Token Transfers (NTT) framework.]]></description>
+            <content:encoded><![CDATA[<div><div>Transfero, a leading stablecoin issuer in Latin America, has announced a strategic collaboration with Wormhole to implement its Native Token Transfers (NTT) framework.</div></div>]]></content:encoded>
+            <author>CoinTrust (CoinTrust)</author>
         </item>
         <item>
             <title><![CDATA[Transfero integrates Wormhole as interoperability provider]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.</div></div>]]></content:encoded>
             <author>Crypto News Flash (Crypto News Flash)</author>
-        </item>
-        <item>
-            <title><![CDATA[South Korean Cryptocurrency Exchange Upbit Announced That It Will List This Altcoin!: Guest Post by Bitcoin Sistemi EN ]]></title>
-            <link>https://coinmarketcap.com/community/articles/66fcf079e2dd454b9475434a/</link>
-            <guid>rssapp_a97442cc8a85fdb54c0b2081c185bf15</guid>
-            <pubDate>Wed, 02 Oct 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[South Korean cryptocurrency exchange Upbit announced to its users on its blog the new altcoin that it will list on its platform. Continue Reading: South Korean Cryptocurrency Exchange Upbit Announced That It Will List This Altcoin!]]></description>
-            <content:encoded><![CDATA[<div><div>South Korean cryptocurrency exchange Upbit announced to its users on its blog the new altcoin that it will list on its platform. Continue Reading: South Korean Cryptocurrency Exchange Upbit Announced That It Will List This Altcoin!</div></div>]]></content:encoded>
-            <author>coinmarketcap (coinmarketcap)</author>
         </item>
     </channel>
 </rss>
