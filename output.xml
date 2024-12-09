@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 09 Dec 2024 18:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 19:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -145,6 +145,15 @@
             <author>BeInCrypto (BeInCrypto)</author>
         </item>
         <item>
+            <title><![CDATA[Dragonfly-backed Agora to use Wormhole for AUSD cross-chain expansion]]></title>
+            <link>https://crypto.news/dragonfly-backed-agora-to-use-wormhole-for-ausd-cross-chain-expansion/</link>
+            <guid>rssapp_abfc70114fb09497fb15d6d2a703f273</guid>
+            <pubDate>Thu, 10 Oct 2024 07:32:20 GMT</pubDate>
+            <description><![CDATA[Stablecoin issuer Agora has selected Wormhole as the interoperability hub for its stablecoin AUSD]]></description>
+            <content:encoded><![CDATA[<div><div>Stablecoin issuer Agora has selected Wormhole as the interoperability hub for its stablecoin AUSD</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
+        </item>
+        <item>
             <title><![CDATA[Trader Michaël van de Poppe Predicts New All-Time Highs for Two Altcoins, Updates Outlook on Bitcoin and Wormhole ]]></title>
             <link>https://dailyhodl.com/2024/10/07/trader-michael-van-de-poppe-predicts-new-all-time-highs-for-two-altcoins-updates-outlook-on-bitcoin-and-wormhole/</link>
             <guid>rssapp_bfa98aed2f6ceee930ab007012b764a8</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[A cross-chain protocol's altcoin is soaring after Korea's biggest crypto exchange announced support for trading.]]></description>
             <content:encoded><![CDATA[<div><div>A cross-chain protocol's altcoin is soaring after Korea's biggest crypto exchange announced support for trading.</div></div>]]></content:encoded>
             <author>The Daily Hodl (The Daily Hodl)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Token Surges After Upbit Listing Boosts Market Visibility]]></title>
-            <link>https://www.crypto-news-flash.com/wormhole-token-surges-after-upbit-listing-boosts-market-visibility/</link>
-            <guid>rssapp_55d39d40a092e80b656fb814a800d1d4</guid>
-            <pubDate>Wed, 02 Oct 2024 14:00:22 GMT</pubDate>
-            <description><![CDATA[Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole token gains significant attention after its Upbit listing, increasing accessibility and attracting investor interest.</div></div>]]></content:encoded>
-            <author>Crypto News Flash (Crypto News Flash)</author>
         </item>
     </channel>
 </rss>
