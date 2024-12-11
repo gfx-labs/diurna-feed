@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 11 Dec 2024 22:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 23:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Airdrop ($W Token) - Eligibility & How to Claim]]></title>
+            <link>https://cryptonews.com/cryptocurrency/wormhole-airdrop/</link>
+            <guid>rssapp_48b9aa3ee384ade48bfe7cf33333aae6</guid>
+            <pubDate>Fri, 06 Dec 2024 16:25:01 GMT</pubDate>
+            <description><![CDATA[The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.]]></description>
+            <content:encoded><![CDATA[<div><div>The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.</div></div>]]></content:encoded>
+            <author>Cryptonews (Cryptonews)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Launches Staking Rewards Program for W Holders ]]></title>
             <link>https://www.altcoinbuzz.io/cryptocurrency-news/wormhole-launches-staking-rewards-program-for-w-holders/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[As major cryptos stabilize on Tuesday following significant geopolitical angst, investors are looking for the best crypto to buy now.]]></description>
             <content:encoded><![CDATA[<div><div>As major cryptos stabilize on Tuesday following significant geopolitical angst, investors are looking for the best crypto to buy now.</div></div>]]></content:encoded>
             <author>Cryptonews (Cryptonews)</author>
-        </item>
-        <item>
-            <title><![CDATA[Cross-Chain Altcoin Rallies 33% After Earning Suprise Support From South Korea’s Largest Crypto Exchange ]]></title>
-            <link>https://dailyhodl.com/2024/10/02/cross-chain-altcoin-rallies-33-after-earning-suprise-support-from-south-koreas-largest-crypto-exchange/</link>
-            <guid>rssapp_24c94a76962c80510a9fb672ea165c3d</guid>
-            <pubDate>Wed, 02 Oct 2024 18:05:57 GMT</pubDate>
-            <description><![CDATA[A cross-chain protocol's altcoin is soaring after Korea's biggest crypto exchange announced support for trading.]]></description>
-            <content:encoded><![CDATA[<div><div>A cross-chain protocol's altcoin is soaring after Korea's biggest crypto exchange announced support for trading.</div></div>]]></content:encoded>
-            <author>The Daily Hodl (The Daily Hodl)</author>
         </item>
     </channel>
 </rss>
