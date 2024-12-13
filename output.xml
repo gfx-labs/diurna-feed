@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 13 Dec 2024 09:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 10:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -62,6 +62,15 @@
             <description><![CDATA[Cross-chain bridge Wormhole initiated an airdrop that will see early users rewarded with 617 million of its newly issued governance token, W]]></description>
             <content:encoded><![CDATA[<div><div>Cross-chain bridge Wormhole initiated an airdrop that will see early users rewarded with 617 million of its newly issued governance token, W</div></div>]]></content:encoded>
             <author>CoinDesk (CoinDesk)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sky's Flagship Stablecoin USDS Goes Live On Solana With Wormhole’s NTT Framework]]></title>
+            <link>https://coinpedia.org/crypto-live-news/skys-flagship-stablecoin-usds-goes-live-on-solana-with-wormholes-ntt-framework/</link>
+            <guid>rssapp_d6164d1f0bb9ef7057893cd30e4a63f1</guid>
+            <pubDate>Tue, 19 Nov 2024 16:18:12 GMT</pubDate>
+            <description><![CDATA[USDS, Sky’s flagship stablecoin (formerly DAI) and the third-largest stablecoin by market cap, is now live on Solana with Wormhole’s NTT framework. This]]></description>
+            <content:encoded><![CDATA[<div><div>USDS, Sky’s flagship stablecoin (formerly DAI) and the third-largest stablecoin by market cap, is now live on Solana with Wormhole’s NTT framework. This</div></div>]]></content:encoded>
+            <author>Coinpedia Fintech News (Coinpedia Fintech News)</author>
         </item>
         <item>
             <title><![CDATA[Tidus Wallet Brings Wormhole Integration For Ethereum-Solana Transfers]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole (W) surged 25% after its Upbit listing, with $550M in trading volume. Positive sentiment may push W toward $0.45 or $0.52.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole (W) surged 25% after its Upbit listing, with $550M in trading volume. Positive sentiment may push W toward $0.45 or $0.52.</div></div>]]></content:encoded>
             <author>BeInCrypto (BeInCrypto)</author>
-        </item>
-        <item>
-            <title><![CDATA[Best Crypto to Buy Now October 2 ]]></title>
-            <link>https://cryptonews.com/news/best-crypto-to-buy-now-october-2-wormhole-conflux-sui/</link>
-            <guid>rssapp_36e554a70f5e619d5bad71335dd8c9b6</guid>
-            <pubDate>Wed, 02 Oct 2024 19:12:18 GMT</pubDate>
-            <description><![CDATA[As major cryptos stabilize on Tuesday following significant geopolitical angst, investors are looking for the best crypto to buy now.]]></description>
-            <content:encoded><![CDATA[<div><div>As major cryptos stabilize on Tuesday following significant geopolitical angst, investors are looking for the best crypto to buy now.</div></div>]]></content:encoded>
-            <author>Cryptonews (Cryptonews)</author>
         </item>
     </channel>
 </rss>
