@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 13 Dec 2024 13:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 14:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Airdrop Analysis: Wormhole Edition]]></title>
+            <link>https://medium.com/@AobosUtasupyk/airdrop-analysis-wormhole-edition-761139c871f2</link>
+            <guid>rssapp_987cc0b1a40710eb3d4d197ffcb0034f</guid>
+            <pubDate>Fri, 13 Dec 2024 07:08:59 GMT</pubDate>
+            <description><![CDATA[An Wormhole airdrop is a distribution of free tokens to the digital wallets of active Wormhole users. It serves as a promotional strategy…]]></description>
+            <content:encoded><![CDATA[<div><div>An Wormhole airdrop is a distribution of free tokens to the digital wallets of active Wormhole users. It serves as a promotional strategy…</div></div>]]></content:encoded>
+            <author>Medium (Medium)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Airdrop ($W Token) - Eligibility & How to Claim]]></title>
             <link>https://cryptonews.com/cryptocurrency/wormhole-airdrop/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[The Open Interest increased by nearly 50% to stand at $64.8 million in 24 hours, showing firm bullish conviction.]]></description>
             <content:encoded><![CDATA[<div><div>The Open Interest increased by nearly 50% to stand at $64.8 million in 24 hours, showing firm bullish conviction.</div></div>]]></content:encoded>
             <author>AMBCrypto (AMBCrypto)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole (W) Price Climbs By 25% Following  Debut on South Korean Exchange]]></title>
-            <link>https://beincrypto.com/wormhole-price-volume-upbit-listing/</link>
-            <guid>rssapp_7660b0328f954e4accde340cda96a8f5</guid>
-            <pubDate>Wed, 02 Oct 2024 22:00:00 GMT</pubDate>
-            <description><![CDATA[Wormhole (W) surged 25% after its Upbit listing, with $550M in trading volume. Positive sentiment may push W toward $0.45 or $0.52.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole (W) surged 25% after its Upbit listing, with $550M in trading volume. Positive sentiment may push W toward $0.45 or $0.52.</div></div>]]></content:encoded>
-            <author>BeInCrypto (BeInCrypto)</author>
         </item>
     </channel>
 </rss>
