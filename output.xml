@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 14 Dec 2024 00:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 01:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[An Wormhole airdrop is a distribution of free tokens to the digital wallets of active Wormhole users. It serves as a promotional strategy…]]></description>
             <content:encoded><![CDATA[<div><div>An Wormhole airdrop is a distribution of free tokens to the digital wallets of active Wormhole users. It serves as a promotional strategy…</div></div>]]></content:encoded>
             <author>Medium (Medium)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Fri, 13 Dec 2024 00:34:07 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Airdrop ($W Token) - Eligibility & How to Claim]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole’s W token sharply climbed by 25% to a $0.3979 top today as its trading volume spiked by 414%. Although]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole’s W token sharply climbed by 25% to a $0.3979 top today as its trading volume spiked by 414%. Although</div></div>]]></content:encoded>
             <author>Blockzeit (Blockzeit)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole crypto breaks weekly resistance, rallies 40.8% ]]></title>
-            <link>https://ambcrypto.com/wormhole-crypto-breaks-weekly-resistance-rallies-40-8-what-now/</link>
-            <guid>rssapp_9cf156fae3cb8552152745ba71cd902e</guid>
-            <pubDate>Thu, 03 Oct 2024 02:00:40 GMT</pubDate>
-            <description><![CDATA[The Open Interest increased by nearly 50% to stand at $64.8 million in 24 hours, showing firm bullish conviction.]]></description>
-            <content:encoded><![CDATA[<div><div>The Open Interest increased by nearly 50% to stand at $64.8 million in 24 hours, showing firm bullish conviction.</div></div>]]></content:encoded>
-            <author>AMBCrypto (AMBCrypto)</author>
         </item>
     </channel>
 </rss>
