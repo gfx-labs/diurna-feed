@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 17 Dec 2024 18:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 19:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -26,6 +26,15 @@
             <description><![CDATA[Wormhole Poised for a Potential Breakout: Can It Hit the $1 Mark? - Bitcoin Perfect]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole Poised for a Potential Breakout: Can It Hit the $1 Mark? - Bitcoin Perfect</div></div>]]></content:encoded>
             <author>Bitcoin Perfect (Bitcoin Perfect)</author>
+        </item>
+        <item>
+            <title><![CDATA[Robinson Burkey, Co-Founder of Wormhole, on Bridges, The Liquidity Fragmentation Problem, and Cross Chain Communication ]]></title>
+            <link>https://cryptonews.com/exclusives/robinson-burkey-co-founder-of-wormhole-on-bridges-the-liquidity-fragmentation-problem-and-cross-chain-communication-ep-395/</link>
+            <guid>rssapp_733388ed87e17d491c4c7cab8dce64a5</guid>
+            <pubDate>Fri, 13 Dec 2024 11:20:52 GMT</pubDate>
+            <description><![CDATA[Robinson Burkey shares how Wormhole solves liquidity fragmentation, enabling cross-chain communication and blockchain interoperability.]]></description>
+            <content:encoded><![CDATA[<div><div>Robinson Burkey shares how Wormhole solves liquidity fragmentation, enabling cross-chain communication and blockchain interoperability.</div></div>]]></content:encoded>
+            <author>Cryptonews (Cryptonews)</author>
         </item>
         <item>
             <title><![CDATA[Airdrop Analysis: Wormhole Edition]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[A widely followed crypto trader is predicting that two altcoins will rally to fresh all-time highs while updating his outlook on Bitcoin (BTC) and cross-chain protocol Wormhole (W).]]></description>
             <content:encoded><![CDATA[<div><div>A widely followed crypto trader is predicting that two altcoins will rally to fresh all-time highs while updating his outlook on Bitcoin (BTC) and cross-chain protocol Wormhole (W).</div></div>]]></content:encoded>
             <author>The Daily Hodl (The Daily Hodl)</author>
-        </item>
-        <item>
-            <title><![CDATA[Analysts Notice Profits Rotating From Solana Memecoins As Utility Tokens Wormhole and Rollblock Skyrocket ]]></title>
-            <link>https://bitcoinist.com/analysts-notice-profits-rotating-from-solana-memecoins-as-utility-tokens-wormhole-and-rollblock-skyrocket/</link>
-            <guid>rssapp_e9cbb238224777ddd4942f6928e276dd</guid>
-            <pubDate>Mon, 07 Oct 2024 07:49:51 GMT</pubDate>
-            <description><![CDATA[Analysts are observing a notable shift in profits from Solana-based memecoins to utility tokens like Wormhole (W) and Rollblock (RBLK). These altcoins have]]></description>
-            <content:encoded><![CDATA[<div><div>Analysts are observing a notable shift in profits from Solana-based memecoins to utility tokens like Wormhole (W) and Rollblock (RBLK). These altcoins have</div></div>]]></content:encoded>
-            <author>bitcoinist (bitcoinist)</author>
         </item>
     </channel>
 </rss>
