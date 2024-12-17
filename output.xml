@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 16 Dec 2024 23:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 00:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions ]]></title>
+            <link>https://hackernoon.com/eip-7503-zero-knowledge-wormholes-for-private-ethereum-transactions</link>
+            <guid>rssapp_4e2557b64bea7753e31769a4cb3c1d62</guid>
+            <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.]]></description>
+            <content:encoded><![CDATA[<div><div>EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.</div></div>]]></content:encoded>
+            <author>hackernoon (hackernoon)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Poised for a Potential Breakout: Can It Hit the $1 Mark?]]></title>
             <link>https://bitperfect.pe/en/wormhole-poised-for-a-potential-breakout-can-it-hit-the-1-mark/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole's Portal V2 upgrade enhances user experience with new transfer routes, faster transactions, and improved UI, facilitating seamless cross-chain asset transfers.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole's Portal V2 upgrade enhances user experience with new transfer routes, faster transactions, and improved UI, facilitating seamless cross-chain asset transfers.</div></div>]]></content:encoded>
             <author>https://blockchain news/news/wormhole-launches-significant-upgrade-to-portal-v2 (https://blockchain news/news/wormhole-launches-significant-upgrade-to-portal-v2)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole, Sui, Mantra: Why These Cryptocurrencies Are Skyrocketing Now]]></title>
-            <link>https://watcher.guru/news/wormhole-sui-mantra-why-these-cryptocurrencies-are-skyrocketing-now</link>
-            <guid>rssapp_0ee2b786c21f80328a2c176d0fa1260e</guid>
-            <pubDate>Thu, 03 Oct 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[Find out why Wormhole, Sui, and Mantra are skyrocketing. Learn about market trends, security, and investment potential in cryptocurrencies.]]></description>
-            <content:encoded><![CDATA[<div><div>Find out why Wormhole, Sui, and Mantra are skyrocketing. Learn about market trends, security, and investment potential in cryptocurrencies.</div></div>]]></content:encoded>
-            <author>Watcher Guru (Watcher Guru)</author>
         </item>
     </channel>
 </rss>
