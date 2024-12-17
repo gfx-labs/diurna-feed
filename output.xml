@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 17 Dec 2024 09:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 10:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -154,6 +154,15 @@
             <author>https://blockchain news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole (https://blockchain news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole)</author>
         </item>
         <item>
+            <title><![CDATA[5 Best Cheap Cryptocurrencies to Buy Under 1 Dollar November 8 – Tezos, EOS, 0x Protocol, Wormhole]]></title>
+            <link>https://insidebitcoins.com/news/5-best-cheap-cryptocurrencies-to-buy-under-1-dollar-november-8-tezos-eos-0x-protocol-wormhole</link>
+            <guid>rssapp_ad85d07df226c1d8e0c146feb45dbc9b</guid>
+            <pubDate>Fri, 08 Nov 2024 16:53:40 GMT</pubDate>
+            <description><![CDATA[This article offers various selections of the best cheap crypto to buy now under 1 dollar. Traders can leverage this information.]]></description>
+            <content:encoded><![CDATA[<div><div>This article offers various selections of the best cheap crypto to buy now under 1 dollar. Traders can leverage this information.</div></div>]]></content:encoded>
+            <author>insidebitcoins (insidebitcoins)</author>
+        </item>
+        <item>
             <title><![CDATA[Flow Traders, Wormhole partner to boost cross-chain liquidity: Guest Post by Cointelegraph ]]></title>
             <link>https://coinmarketcap.com/community/articles/67228478a77f095c73815edc/</link>
             <guid>rssapp_81302a9c3b01cbebd9dbbbd51ffb60e6</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Analysts are observing a notable shift in profits from Solana-based memecoins to utility tokens like Wormhole (W) and Rollblock (RBLK). These altcoins have]]></description>
             <content:encoded><![CDATA[<div><div>Analysts are observing a notable shift in profits from Solana-based memecoins to utility tokens like Wormhole (W) and Rollblock (RBLK). These altcoins have</div></div>]]></content:encoded>
             <author>bitcoinist (bitcoinist)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Launches Significant Upgrade to Portal V2]]></title>
-            <link>https://blockchain.news/news/wormhole-launches-significant-upgrade-to-portal-v2</link>
-            <guid>rssapp_290eaeb85e8ed035273541aa43df578a</guid>
-            <pubDate>Sun, 06 Oct 2024 15:10:00 GMT</pubDate>
-            <description><![CDATA[Wormhole's Portal V2 upgrade enhances user experience with new transfer routes, faster transactions, and improved UI, facilitating seamless cross-chain asset transfers.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole's Portal V2 upgrade enhances user experience with new transfer routes, faster transactions, and improved UI, facilitating seamless cross-chain asset transfers.</div></div>]]></content:encoded>
-            <author>https://blockchain news/news/wormhole-launches-significant-upgrade-to-portal-v2 (https://blockchain news/news/wormhole-launches-significant-upgrade-to-portal-v2)</author>
         </item>
     </channel>
 </rss>
