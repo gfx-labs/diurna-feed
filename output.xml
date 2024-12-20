@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 20 Dec 2024 00:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 01:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions ]]></title>
+            <link>https://research.2077.xyz/eip-7503-zero-knowledge-wormholes-for-private-ethereum-transactions</link>
+            <guid>rssapp_88e6b691e1477c30bd9561d569fd2bd3</guid>
+            <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.]]></description>
+            <content:encoded><![CDATA[<div><div>EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.</div></div>]]></content:encoded>
+            <author>hackernoon (hackernoon)</author>
+        </item>
         <item>
             <title><![CDATA[EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions ]]></title>
             <link>https://hackernoon.com/eip-7503-zero-knowledge-wormholes-for-private-ethereum-transactions</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Stablecoin issuer Agora has selected Wormhole as the interoperability hub for its stablecoin AUSD]]></description>
             <content:encoded><![CDATA[<div><div>Stablecoin issuer Agora has selected Wormhole as the interoperability hub for its stablecoin AUSD</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Trader Michaël van de Poppe Predicts New All-Time Highs for Two Altcoins, Updates Outlook on Bitcoin and Wormhole ]]></title>
-            <link>https://dailyhodl.com/2024/10/07/trader-michael-van-de-poppe-predicts-new-all-time-highs-for-two-altcoins-updates-outlook-on-bitcoin-and-wormhole/</link>
-            <guid>rssapp_bfa98aed2f6ceee930ab007012b764a8</guid>
-            <pubDate>Mon, 07 Oct 2024 20:00:00 GMT</pubDate>
-            <description><![CDATA[A widely followed crypto trader is predicting that two altcoins will rally to fresh all-time highs while updating his outlook on Bitcoin (BTC) and cross-chain protocol Wormhole (W).]]></description>
-            <content:encoded><![CDATA[<div><div>A widely followed crypto trader is predicting that two altcoins will rally to fresh all-time highs while updating his outlook on Bitcoin (BTC) and cross-chain protocol Wormhole (W).</div></div>]]></content:encoded>
-            <author>The Daily Hodl (The Daily Hodl)</author>
         </item>
     </channel>
 </rss>
