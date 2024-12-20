@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 20 Dec 2024 01:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 02:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -71,6 +71,15 @@
             <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
             <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
             <author>CoinGecko (CoinGecko)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole paves the way for World ID’s arrival on Solana after receiving a $70,000 grant in June ]]></title>
+            <link>https://www.cryptopolitan.com/wormhole-paves-the-way-for-world-ids-june/</link>
+            <guid>rssapp_50043a980cb9b0ef670967aad21257c2</guid>
+            <pubDate>Fri, 06 Dec 2024 09:37:39 GMT</pubDate>
+            <description><![CDATA[Blockchain interoperability protocol Wormhole has successfully paved the way for World IDs on the Solana blockchain. Solana builders and developers will have the capacity to integrate World ID on Solana-based protocols.]]></description>
+            <content:encoded><![CDATA[<div><div>Blockchain interoperability protocol Wormhole has successfully paved the way for World IDs on the Solana blockchain. Solana builders and developers will have the capacity to integrate World ID on Solana-based protocols.</div></div>]]></content:encoded>
+            <author>Cryptopolitan (Cryptopolitan)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Launches Staking Rewards Program for W Holders ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Discover which altcoins whales are buying in the second week of October 2024. What happens to these cryptos after this?]]></description>
             <content:encoded><![CDATA[<div><div>Discover which altcoins whales are buying in the second week of October 2024. What happens to these cryptos after this?</div></div>]]></content:encoded>
             <author>BeInCrypto (BeInCrypto)</author>
-        </item>
-        <item>
-            <title><![CDATA[Dragonfly-backed Agora to use Wormhole for AUSD cross-chain expansion]]></title>
-            <link>https://crypto.news/dragonfly-backed-agora-to-use-wormhole-for-ausd-cross-chain-expansion/</link>
-            <guid>rssapp_abfc70114fb09497fb15d6d2a703f273</guid>
-            <pubDate>Thu, 10 Oct 2024 07:32:20 GMT</pubDate>
-            <description><![CDATA[Stablecoin issuer Agora has selected Wormhole as the interoperability hub for its stablecoin AUSD]]></description>
-            <content:encoded><![CDATA[<div><div>Stablecoin issuer Agora has selected Wormhole as the interoperability hub for its stablecoin AUSD</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
