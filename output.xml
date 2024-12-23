@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 23 Dec 2024 02:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 03:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Sun, 22 Dec 2024 02:38:31 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
         <item>
             <title><![CDATA[EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions ]]></title>
             <link>https://research.2077.xyz/eip-7503-zero-knowledge-wormholes-for-private-ethereum-transactions</link>
@@ -62,15 +71,6 @@
             <description><![CDATA[The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.]]></description>
             <content:encoded><![CDATA[<div><div>The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.</div></div>]]></content:encoded>
             <author>Cryptonews (Cryptonews)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Fri, 06 Dec 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole paves the way for World ID’s arrival on Solana after receiving a $70,000 grant in June ]]></title>
