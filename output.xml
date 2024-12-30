@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 30 Dec 2024 13:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 14:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
             <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
             <author>CoinGecko (CoinGecko)</author>
+        </item>
+        <item>
+            <title><![CDATA[Next Cryptocurrency to Explode, 27 December — Wormhole, Thena, DYDX, GMT]]></title>
+            <link>https://insidebitcoins.com/news/next-cryptocurrency-to-explode-27-december-wormhole-thena-dydx-gmt</link>
+            <guid>rssapp_8445435a427244fa13caabdf7bb5c09b</guid>
+            <pubDate>Fri, 27 Dec 2024 19:19:01 GMT</pubDate>
+            <description><![CDATA[Discover the next crypto to explode for today, 27 December. Using today's market data, find out what makes these tokens promising.]]></description>
+            <content:encoded><![CDATA[<div><div>Discover the next crypto to explode for today, 27 December. Using today's market data, find out what makes these tokens promising.</div></div>]]></content:encoded>
+            <author>insidebitcoins (insidebitcoins)</author>
         </item>
         <item>
             <title><![CDATA[EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain? - Bitcoin Perfect]]></description>
             <content:encoded><![CDATA[<div><div>Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain? - Bitcoin Perfect</div></div>]]></content:encoded>
             <author>Bitcoin Perfect (Bitcoin Perfect)</author>
-        </item>
-        <item>
-            <title><![CDATA[Crypto Whales Bought These Altcoins in the Second Week of October 2024]]></title>
-            <link>https://beincrypto.com/whales-bought-these-altcoins-second-week-october/</link>
-            <guid>rssapp_96918887c358abe5018ebf309099db42</guid>
-            <pubDate>Fri, 11 Oct 2024 19:30:00 GMT</pubDate>
-            <description><![CDATA[Discover which altcoins whales are buying in the second week of October 2024. What happens to these cryptos after this?]]></description>
-            <content:encoded><![CDATA[<div><div>Discover which altcoins whales are buying in the second week of October 2024. What happens to these cryptos after this?</div></div>]]></content:encoded>
-            <author>BeInCrypto (BeInCrypto)</author>
         </item>
     </channel>
 </rss>
