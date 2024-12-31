@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 31 Dec 2024 04:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 05:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -154,6 +154,15 @@
             <author>Benzinga (Benzinga)</author>
         </item>
         <item>
+            <title><![CDATA[Tidus Wallet Unleashes 3-click Cross-Chain Transfers with Mayan Swift and Wormhole Integration]]></title>
+            <link>https://www.globenewswire.com/news-release/2024/11/18/2983020/0/en/Tidus-Wallet-Unleashes-3-click-Cross-Chain-Transfers-with-Mayan-Swift-and-Wormhole-Integration.html</link>
+            <guid>rssapp_963cec5542485ec8ebd63e67c67dc7e9</guid>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tidus is Bridging Ethereum and Solana for Seamless DeFi Access...]]></description>
+            <content:encoded><![CDATA[<div><div>Tidus is Bridging Ethereum and Solana for Seamless DeFi Access...</div></div>]]></content:encoded>
+            <author>GlobeNewswire News Room (GlobeNewswire News Room)</author>
+        </item>
+        <item>
             <title><![CDATA[Transfero Partners with Wormhole to Revolutionize Multichain Stablecoin Transactions]]></title>
             <link>https://www.cointrust.com/market-news/transfero-partners-with-wormhole-to-revolutionize-multichain-stablecoin-transactions</link>
             <guid>rssapp_da4ffe8ae5b3935690b42dadb5839d5c</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Flow Traders joins Google Cloud and AMD among others as a Wormhole solver, with this integration aimed at boosting multichain token swaps]]></description>
             <content:encoded><![CDATA[<div><div>Flow Traders joins Google Cloud and AMD among others as a Wormhole solver, with this integration aimed at boosting multichain token swaps</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain?]]></title>
-            <link>https://bitperfect.pe/en/unlocking-the-mysteries-of-wormhole-crypto-a-new-doorway-in-blockchain/</link>
-            <guid>rssapp_f7dc1ff2b2c8eeb9dd933cf23c612fb9</guid>
-            <pubDate>Tue, 29 Oct 2024 13:54:25 GMT</pubDate>
-            <description><![CDATA[Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain? - Bitcoin Perfect]]></description>
-            <content:encoded><![CDATA[<div><div>Unlocking the Mysteries of Wormhole Crypto: A New Doorway in Blockchain? - Bitcoin Perfect</div></div>]]></content:encoded>
-            <author>Bitcoin Perfect (Bitcoin Perfect)</author>
         </item>
     </channel>
 </rss>
