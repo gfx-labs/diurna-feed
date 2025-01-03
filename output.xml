@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 03 Jan 2025 18:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 19:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[How to Buy Wormhole | Buy W in 4 Steps (January 2025)]]></title>
+            <link>https://www.securities.io/buy-wormhole-w/</link>
+            <guid>rssapp_77083381c0f349816babdd819e2ed2d1</guid>
+            <pubDate>Thu, 02 Jan 2025 14:06:40 GMT</pubDate>
+            <description><![CDATA[Wormhole is a decentralized, cross-chain messaging protocol that facilitates seamless communication and asset transfers between various blockchain networks.  By enabling interoperability across over 30 blockchains, including Ethereum, Solana, and Binance Smart Chain, Wormhole empowers developers to build multichain applications and bridges, enhancing the interconnectedness of the blockchain ecosystem. In 2024, Wormhole introduced the W token […]]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole is a decentralized, cross-chain messaging protocol that facilitates seamless communication and asset transfers between various blockchain networks.  By enabling interoperability across over 30 blockchains, including Ethereum, Solana, and Binance Smart Chain, Wormhole empowers developers to build multichain applications and bridges, enhancing the interconnectedness of the blockchain ecosystem. In 2024, Wormhole introduced the W token […]</div></div>]]></content:encoded>
+            <author>securities (securities)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Institutional market maker Flow Traders has partnered with Wormhole, an interoperability protocol, to improve cross-chain liquidity and performance.]]></description>
             <content:encoded><![CDATA[<div><div>Institutional market maker Flow Traders has partnered with Wormhole, an interoperability protocol, to improve cross-chain liquidity and performance.</div></div>]]></content:encoded>
             <author>Cointelegraph (Cointelegraph)</author>
-        </item>
-        <item>
-            <title><![CDATA[Flow Traders joins Wormhole’s solver network]]></title>
-            <link>https://crypto.news/flow-traders-joins-wormholes-solver-network/</link>
-            <guid>rssapp_dc71f7615c0ca9bd2e4cc7a9881da3ab</guid>
-            <pubDate>Wed, 30 Oct 2024 14:50:18 GMT</pubDate>
-            <description><![CDATA[Flow Traders joins Google Cloud and AMD among others as a Wormhole solver, with this integration aimed at boosting multichain token swaps]]></description>
-            <content:encoded><![CDATA[<div><div>Flow Traders joins Google Cloud and AMD among others as a Wormhole solver, with this integration aimed at boosting multichain token swaps</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
