@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 04 Jan 2025 05:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 06:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Fri, 03 Jan 2025 05:20:20 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
         <item>
             <title><![CDATA[How to Buy Wormhole | Buy W in 4 Steps (January 2025)]]></title>
             <link>https://www.securities.io/buy-wormhole-w/</link>
@@ -17,15 +26,6 @@
             <description><![CDATA[Wormhole is a decentralized, cross-chain messaging protocol that facilitates seamless communication and asset transfers between various blockchain networks.  By enabling interoperability across over 30 blockchains, including Ethereum, Solana, and Binance Smart Chain, Wormhole empowers developers to build multichain applications and bridges, enhancing the interconnectedness of the blockchain ecosystem. In 2024, Wormhole introduced the W token […]]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole is a decentralized, cross-chain messaging protocol that facilitates seamless communication and asset transfers between various blockchain networks.  By enabling interoperability across over 30 blockchains, including Ethereum, Solana, and Binance Smart Chain, Wormhole empowers developers to build multichain applications and bridges, enhancing the interconnectedness of the blockchain ecosystem. In 2024, Wormhole introduced the W token […]</div></div>]]></content:encoded>
             <author>securities (securities)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Tue, 31 Dec 2024 04:11:46 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Next Cryptocurrency to Explode, 27 December — Wormhole, Thena, DYDX, GMT]]></title>
