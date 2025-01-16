@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 16 Jan 2025 15:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 16:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -44,6 +44,15 @@
             <description><![CDATA[Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!]]></description>
             <content:encoded><![CDATA[<div><div>Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
+        </item>
+        <item>
+            <title><![CDATA[Nuffle Labs and Wormhole launch cross-chain restaking solution]]></title>
+            <link>https://crypto.news/nuffle-labs-and-wormhole-launch-cross-chain-restaking-solution/</link>
+            <guid>rssapp_48723fd3a52965480741571f2e8dccc7</guid>
+            <pubDate>Tue, 17 Dec 2024 14:56:12 GMT</pubDate>
+            <description><![CDATA[Nuffle Labs and Wormhole have announced a new solution to connect different blockchain networks through native cross-chain restaking]]></description>
+            <content:encoded><![CDATA[<div><div>Nuffle Labs and Wormhole have announced a new solution to connect different blockchain networks through native cross-chain restaking</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
         </item>
         <item>
             <title><![CDATA[EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[PayPal USD (PYUSD) will now support native cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions without token wrapping.]]></description>
             <content:encoded><![CDATA[<div><div>PayPal USD (PYUSD) will now support native cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions without token wrapping.</div></div>]]></content:encoded>
             <author>https://blockchain news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole (https://blockchain news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole)</author>
-        </item>
-        <item>
-            <title><![CDATA[5 Best Cheap Cryptocurrencies to Buy Under 1 Dollar November 8 – Tezos, EOS, 0x Protocol, Wormhole]]></title>
-            <link>https://insidebitcoins.com/news/5-best-cheap-cryptocurrencies-to-buy-under-1-dollar-november-8-tezos-eos-0x-protocol-wormhole</link>
-            <guid>rssapp_ad85d07df226c1d8e0c146feb45dbc9b</guid>
-            <pubDate>Fri, 08 Nov 2024 16:53:40 GMT</pubDate>
-            <description><![CDATA[This article offers various selections of the best cheap crypto to buy now under 1 dollar. Traders can leverage this information.]]></description>
-            <content:encoded><![CDATA[<div><div>This article offers various selections of the best cheap crypto to buy now under 1 dollar. Traders can leverage this information.</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
         </item>
     </channel>
 </rss>
