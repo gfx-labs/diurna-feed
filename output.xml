@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 17 Jan 2025 21:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 22:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Trump ushers in new age for crypto, Wormhole Foundation’s Cathy Yoon says]]></title>
+            <link>https://crypto.news/trump-ushers-in-new-age-for-crypto-wormhole-foundations-cathy-yoon-says/</link>
+            <guid>rssapp_ff62e21a6a3afc03bfd91f0045f08eae</guid>
+            <pubDate>Fri, 17 Jan 2025 20:59:20 GMT</pubDate>
+            <description><![CDATA[Donald Trump’s inauguration portends a new age for crypto, Cathy Yoon, General Counsel at Wormhole Foundation says]]></description>
+            <content:encoded><![CDATA[<div><div>Donald Trump’s inauguration portends a new age for crypto, Cathy Yoon, General Counsel at Wormhole Foundation says</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[PayPal USD (PYUSD) will now facilitate cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions and interoperability.]]></description>
             <content:encoded><![CDATA[<div><div>PayPal USD (PYUSD) will now facilitate cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions and interoperability.</div></div>]]></content:encoded>
             <author>https://blockchain news/news/paypal-usd-pyusd-expands-to-solana-via-wormhole-integration (https://blockchain news/news/paypal-usd-pyusd-expands-to-solana-via-wormhole-integration)</author>
-        </item>
-        <item>
-            <title><![CDATA[PayPal USD (PYUSD) Embraces Multichain Interoperability via Wormhole]]></title>
-            <link>https://blockchain.news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole</link>
-            <guid>rssapp_3ba95a4d98f4f8451c00d4340c04a57c</guid>
-            <pubDate>Tue, 12 Nov 2024 03:16:00 GMT</pubDate>
-            <description><![CDATA[PayPal USD (PYUSD) will now support native cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions without token wrapping.]]></description>
-            <content:encoded><![CDATA[<div><div>PayPal USD (PYUSD) will now support native cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions without token wrapping.</div></div>]]></content:encoded>
-            <author>https://blockchain news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole (https://blockchain news/news/paypal-usd-pyusd-embraces-multichain-interoperability-via-wormhole)</author>
         </item>
     </channel>
 </rss>
