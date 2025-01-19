@@ -4,11 +4,32 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 19 Jan 2025 09:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 10:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole (W): Riding the Bull Wave 🐂]]></title>
+            <link>https://www.binance.com/en/square/post/19128406584217</link>
+            <guid>rssapp_a1f9888e934812fb2cf8b70836bcb329</guid>
+            <pubDate>Sun, 19 Jan 2025 01:49:29 GMT</pubDate>
+            <description><![CDATA[$W 
+
+ 
+
+Hey crypto friends! 👋 Wormhole (W) has been on a bullish run lately, and it looks like it might be ready for another wave of growth! 📈
+What's the Big Picture?
+If you look at the bigger pictu]]></description>
+            <content:encoded><![CDATA[<div><div>$W 
+
+ 
+
+Hey crypto friends! 👋 Wormhole (W) has been on a bullish run lately, and it looks like it might be ready for another wave of growth! 📈
+What's the Big Picture?
+If you look at the bigger pictu</div></div>]]></content:encoded>
+            <author>Binance Square (Binance Square)</author>
+        </item>
         <item>
             <title><![CDATA[Trump ushers in new age for crypto, Wormhole Foundation’s Cathy Yoon says]]></title>
             <link>https://crypto.news/trump-ushers-in-new-age-for-crypto-wormhole-foundations-cathy-yoon-says/</link>
@@ -224,15 +245,6 @@
             <description><![CDATA[Stablecoin issuer Transfero, which has stablecoins pegged on emerging markets currencies, has integrated Wormhole as its interoperability provider]]></description>
             <content:encoded><![CDATA[<div><div>Stablecoin issuer Transfero, which has stablecoins pegged on emerging markets currencies, has integrated Wormhole as its interoperability provider</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[PayPal USD (PYUSD) Expands to Solana via Wormhole Integration]]></title>
-            <link>https://blockchain.news/news/paypal-usd-pyusd-expands-to-solana-via-wormhole-integration</link>
-            <guid>rssapp_22305a78692cbfc62c6022b0b0bf119a</guid>
-            <pubDate>Wed, 13 Nov 2024 17:23:00 GMT</pubDate>
-            <description><![CDATA[PayPal USD (PYUSD) will now facilitate cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions and interoperability.]]></description>
-            <content:encoded><![CDATA[<div><div>PayPal USD (PYUSD) will now facilitate cross-chain transfers between Ethereum and Solana through Wormhole, enhancing stablecoin transactions and interoperability.</div></div>]]></content:encoded>
-            <author>https://blockchain news/news/paypal-usd-pyusd-expands-to-solana-via-wormhole-integration (https://blockchain news/news/paypal-usd-pyusd-expands-to-solana-via-wormhole-integration)</author>
         </item>
     </channel>
 </rss>
