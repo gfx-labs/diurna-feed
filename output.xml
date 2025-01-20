@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 20 Jan 2025 04:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 05:06:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -74,6 +74,15 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!]]></description>
             <content:encoded><![CDATA[<div><div>Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Enhances Cross-Chain USDC Transfers with Circle's Protocol]]></title>
+            <link>https://blockchain.news/news/wormhole-enhances-cross-chain-usdc-transfers</link>
+            <guid>rssapp_b715e0a0ca22b8d434a76211edc76f63</guid>
+            <pubDate>Tue, 17 Dec 2024 15:49:00 GMT</pubDate>
+            <description><![CDATA[Wormhole extends support for Circle's Cross-Chain Transfer Protocol, enabling seamless USDC transfers across major blockchains with enhanced liquidity and developer integration.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole extends support for Circle's Cross-Chain Transfer Protocol, enabling seamless USDC transfers across major blockchains with enhanced liquidity and developer integration.</div></div>]]></content:encoded>
+            <author>https://blockchain news/news/wormhole-enhances-cross-chain-usdc-transfers (https://blockchain news/news/wormhole-enhances-cross-chain-usdc-transfers)</author>
         </item>
         <item>
             <title><![CDATA[Nuffle Labs and Wormhole launch cross-chain restaking solution]]></title>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Transfero, a leading stablecoin issuer in Latin America, has announced a strategic collaboration with Wormhole to implement its Native Token Transfers (NTT) framework.]]></description>
             <content:encoded><![CDATA[<div><div>Transfero, a leading stablecoin issuer in Latin America, has announced a strategic collaboration with Wormhole to implement its Native Token Transfers (NTT) framework.</div></div>]]></content:encoded>
             <author>CoinTrust (CoinTrust)</author>
-        </item>
-        <item>
-            <title><![CDATA[Transfero integrates Wormhole as interoperability provider]]></title>
-            <link>https://crypto.news/transfero-integrates-wormhole-as-interoperability-provider/</link>
-            <guid>rssapp_01fe874c39e3f377a547b4e618fa3700</guid>
-            <pubDate>Wed, 13 Nov 2024 17:48:43 GMT</pubDate>
-            <description><![CDATA[Stablecoin issuer Transfero, which has stablecoins pegged on emerging markets currencies, has integrated Wormhole as its interoperability provider]]></description>
-            <content:encoded><![CDATA[<div><div>Stablecoin issuer Transfero, which has stablecoins pegged on emerging markets currencies, has integrated Wormhole as its interoperability provider</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
