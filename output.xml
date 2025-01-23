@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 23 Jan 2025 17:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 18:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -47,6 +47,15 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
             <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
             <author>CoinGecko (CoinGecko)</author>
+        </item>
+        <item>
+            <title><![CDATA[4 Ethereum-Based Tokens Poised to Turn $500 Into $50,000 Ahead of ETH’s Surge to $10,000]]></title>
+            <link>https://www.analyticsinsight.net/cryptocurrency-analytics-insight/4-ethereum-based-tokens-poised-to-turn-500-into-50000-ahead-of-eths-surge-to-10000</link>
+            <guid>rssapp_67e4808432dd66d7c69270a288739312</guid>
+            <pubDate>Fri, 03 Jan 2025 06:48:00 GMT</pubDate>
+            <description><![CDATA[With Ethereum (ETH) making preparations for a massive price surge to the $10,000 region, certain tokens within its ecosystem are looking primed for one of the b]]></description>
+            <content:encoded><![CDATA[<div><div>With Ethereum (ETH) making preparations for a massive price surge to the $10,000 region, certain tokens within its ecosystem are looking primed for one of the b</div></div>]]></content:encoded>
+            <author>Analytics Insight (Analytics Insight)</author>
         </item>
         <item>
             <title><![CDATA[How to Buy Wormhole | Buy W in 4 Steps (January 2025)]]></title>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.]]></description>
             <content:encoded><![CDATA[<div><div>Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.</div></div>]]></content:encoded>
             <author>Benzinga (Benzinga)</author>
-        </item>
-        <item>
-            <title><![CDATA[Tidus Wallet Unleashes 3-click Cross-Chain Transfers with Mayan Swift and Wormhole Integration]]></title>
-            <link>https://www.globenewswire.com/news-release/2024/11/18/2983020/0/en/Tidus-Wallet-Unleashes-3-click-Cross-Chain-Transfers-with-Mayan-Swift-and-Wormhole-Integration.html</link>
-            <guid>rssapp_963cec5542485ec8ebd63e67c67dc7e9</guid>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tidus is Bridging Ethereum and Solana for Seamless DeFi Access...]]></description>
-            <content:encoded><![CDATA[<div><div>Tidus is Bridging Ethereum and Solana for Seamless DeFi Access...</div></div>]]></content:encoded>
-            <author>GlobeNewswire News Room (GlobeNewswire News Room)</author>
         </item>
     </channel>
 </rss>
