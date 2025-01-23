@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 23 Jan 2025 13:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 14:06:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -185,6 +185,15 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Wormhole Price Prediction 2025: Success May Take Time, but Momentum Builds]]></title>
+            <link>https://www.ccn.com/analysis/wormhole-w-price-prediction/</link>
+            <guid>rssapp_67366b92e819f465bdedb3dd99fe4c6c</guid>
+            <pubDate>Mon, 25 Nov 2024 14:40:32 GMT</pubDate>
+            <description><![CDATA[Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.]]></description>
+            <content:encoded><![CDATA[<div><div>Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.</div></div>]]></content:encoded>
+            <author>ccn (ccn)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Price Prediction 2025: Success May Take Time, but Momentum Builds]]></title>
             <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
             <guid>rssapp_1f7f0759ddbc39ea6a074ac974989b1a</guid>
             <pubDate>Mon, 25 Nov 2024 14:40:32 GMT</pubDate>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Tidus is Bridging Ethereum and Solana for Seamless DeFi Access...]]></description>
             <content:encoded><![CDATA[<div><div>Tidus is Bridging Ethereum and Solana for Seamless DeFi Access...</div></div>]]></content:encoded>
             <author>GlobeNewswire News Room (GlobeNewswire News Room)</author>
-        </item>
-        <item>
-            <title><![CDATA[Transfero Partners with Wormhole to Revolutionize Multichain Stablecoin Transactions]]></title>
-            <link>https://www.cointrust.com/market-news/transfero-partners-with-wormhole-to-revolutionize-multichain-stablecoin-transactions</link>
-            <guid>rssapp_da4ffe8ae5b3935690b42dadb5839d5c</guid>
-            <pubDate>Thu, 14 Nov 2024 14:25:57 GMT</pubDate>
-            <description><![CDATA[Transfero, a leading stablecoin issuer in Latin America, has announced a strategic collaboration with Wormhole to implement its Native Token Transfers (NTT) framework.]]></description>
-            <content:encoded><![CDATA[<div><div>Transfero, a leading stablecoin issuer in Latin America, has announced a strategic collaboration with Wormhole to implement its Native Token Transfers (NTT) framework.</div></div>]]></content:encoded>
-            <author>CoinTrust (CoinTrust)</author>
         </item>
     </channel>
 </rss>
