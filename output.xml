@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 27 Jan 2025 19:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 20:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -212,6 +212,15 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Wormhole (W) Price Builds Momentum in Horizontal Zone, Breakout Could Be Imminent]]></title>
+            <link>https://www.ccn.com/analysis/wormhole-horizontal-zone-breakout-expected/</link>
+            <guid>rssapp_033c509edbae477b8b29e57e538865b0</guid>
+            <pubDate>Mon, 25 Nov 2024 12:27:31 GMT</pubDate>
+            <description><![CDATA[Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.</div></div>]]></content:encoded>
+            <author>ccn (ccn)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole (W) Price Builds Momentum in Horizontal Zone, Breakout Could Be Imminent]]></title>
             <link>https://www.ccn.com/analysis/crypto/wormhole-horizontal-zone-breakout-expected/</link>
             <guid>rssapp_c614d70a770d850122e2fdb1f1c8cf3e</guid>
             <pubDate>Mon, 25 Nov 2024 12:27:31 GMT</pubDate>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[USDS, Sky’s flagship stablecoin (formerly DAI) and the third-largest stablecoin by market cap, is now live on Solana with Wormhole’s NTT framework. This]]></description>
             <content:encoded><![CDATA[<div><div>USDS, Sky’s flagship stablecoin (formerly DAI) and the third-largest stablecoin by market cap, is now live on Solana with Wormhole’s NTT framework. This</div></div>]]></content:encoded>
             <author>Coinpedia Fintech News (Coinpedia Fintech News)</author>
-        </item>
-        <item>
-            <title><![CDATA[Tidus Wallet Brings Wormhole Integration For Ethereum-Solana Transfers]]></title>
-            <link>https://www.benzinga.com/markets/cryptocurrency/24/11/42036066/tidus-wallet-brings-wormhole-integration-for-ethereum-solana-transfers</link>
-            <guid>rssapp_c07b8d83117db87c15c726b4eced21f1</guid>
-            <pubDate>Mon, 18 Nov 2024 13:52:08 GMT</pubDate>
-            <description><![CDATA[Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.]]></description>
-            <content:encoded><![CDATA[<div><div>Tidus, a decentralized wallet platform focused on simplifying decentralized finance (DeFi), has integrated the Wormhole-powered Mayan Swift SDK to streamline cross-chain transfers.</div></div>]]></content:encoded>
-            <author>Benzinga (Benzinga)</author>
         </item>
     </channel>
 </rss>
