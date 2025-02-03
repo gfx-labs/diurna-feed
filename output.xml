@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 03 Feb 2025 18:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 19:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -83,6 +83,15 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!]]></description>
             <content:encoded><![CDATA[<div><div>Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole, EigenLayer and NEAR-focused Nuffle Labs partner to bring restaking beyond Ethereum]]></title>
+            <link>https://www.theblock.co/post/331307/wormhole-eigenlayer-and-near-focused-nuffle-labs-partner-to-bring-restaking-beyond-ethereum</link>
+            <guid>rssapp_b3b76881df103c1318829ff3cb60a654</guid>
+            <pubDate>Tue, 17 Dec 2024 22:05:07 GMT</pubDate>
+            <description><![CDATA[Wormhole is working with Nuffle Labs on a solution to expand EigenLayer’s restaking functionality beyond the Ethereum ecosystem.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole is working with Nuffle Labs on a solution to expand EigenLayer’s restaking functionality beyond the Ethereum ecosystem.</div></div>]]></content:encoded>
+            <author>The Block (The Block)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Enhances Cross-Chain USDC Transfers with Circle's Protocol]]></title>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Cross-chain bridge Wormhole initiated an airdrop that will see early users rewarded with 617 million of its newly issued governance token, W]]></description>
             <content:encoded><![CDATA[<div><div>Cross-chain bridge Wormhole initiated an airdrop that will see early users rewarded with 617 million of its newly issued governance token, W</div></div>]]></content:encoded>
             <author>CoinDesk (CoinDesk)</author>
-        </item>
-        <item>
-            <title><![CDATA[Sky's Flagship Stablecoin USDS Goes Live On Solana With Wormhole’s NTT Framework]]></title>
-            <link>https://coinpedia.org/crypto-live-news/skys-flagship-stablecoin-usds-goes-live-on-solana-with-wormholes-ntt-framework/</link>
-            <guid>rssapp_d6164d1f0bb9ef7057893cd30e4a63f1</guid>
-            <pubDate>Tue, 19 Nov 2024 16:18:12 GMT</pubDate>
-            <description><![CDATA[USDS, Sky’s flagship stablecoin (formerly DAI) and the third-largest stablecoin by market cap, is now live on Solana with Wormhole’s NTT framework. This]]></description>
-            <content:encoded><![CDATA[<div><div>USDS, Sky’s flagship stablecoin (formerly DAI) and the third-largest stablecoin by market cap, is now live on Solana with Wormhole’s NTT framework. This</div></div>]]></content:encoded>
-            <author>Coinpedia Fintech News (Coinpedia Fintech News)</author>
         </item>
     </channel>
 </rss>
