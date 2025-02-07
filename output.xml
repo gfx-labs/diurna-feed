@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 07 Feb 2025 10:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 11:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -37,6 +37,15 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <pubDate>Fri, 17 Jan 2025 20:59:20 GMT</pubDate>
             <description><![CDATA[Donald Trump’s inauguration portends a new age for crypto, Cathy Yoon, General Counsel at Wormhole Foundation says]]></description>
             <content:encoded><![CDATA[<div><div>Donald Trump’s inauguration portends a new age for crypto, Cathy Yoon, General Counsel at Wormhole Foundation says</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bio Protocol expands to Solana as its price crash continues]]></title>
+            <link>https://crypto.news/bio-protocol-expands-to-solana-as-its-price-crash-continues/</link>
+            <guid>rssapp_9798b6c04d1d9efcada7ae460da7b0a1</guid>
+            <pubDate>Thu, 09 Jan 2025 14:29:02 GMT</pubDate>
+            <description><![CDATA[Newly launched Bio Protocol price continued its strong downtrend even after expanding to the Solana ecosystem through Wormhole]]></description>
+            <content:encoded><![CDATA[<div><div>Newly launched Bio Protocol price continued its strong downtrend even after expanding to the Solana ecosystem through Wormhole</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
         </item>
         <item>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Debuts at $3B Valuation in 617M Token Airdrop]]></title>
-            <link>https://www.coindesk.com/business/2024/04/03/wormhole-debuts-at-3b-valuation-in-617m-token-airdrop</link>
-            <guid>rssapp_7f0210a34346dc6422530ea3ce1f471b</guid>
-            <pubDate>Mon, 25 Nov 2024 01:00:00 GMT</pubDate>
-            <description><![CDATA[Cross-chain bridge Wormhole initiated an airdrop that will see early users rewarded with 617 million of its newly issued governance token, W]]></description>
-            <content:encoded><![CDATA[<div><div>Cross-chain bridge Wormhole initiated an airdrop that will see early users rewarded with 617 million of its newly issued governance token, W</div></div>]]></content:encoded>
-            <author>CoinDesk (CoinDesk)</author>
         </item>
     </channel>
 </rss>
