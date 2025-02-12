@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 12 Feb 2025 03:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 04:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[FXGuys Emerges As Top Altcoin While Wormhole And Tron Falter]]></title>
+            <link>https://www.tronweekly.com/fxguys-shatters-expectations-while-wormhole-and-tron-fizzle-out/</link>
+            <guid>rssapp_92cbb0748d21307b467680918dcc863c</guid>
+            <pubDate>Tue, 11 Feb 2025 23:30:00 GMT</pubDate>
+            <description><![CDATA[FXGuys shines with its innovative offerings, raising $3.8M in Stage 2 presale, as Wormhole and Tron fail to meet expectations.]]></description>
+            <content:encoded><![CDATA[<div><div>FXGuys shines with its innovative offerings, raising $3.8M in Stage 2 presale, as Wormhole and Tron fail to meet expectations.</div></div>]]></content:encoded>
+            <author>TronWeekly (TronWeekly)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole (W): Riding the Bull Wave 🐂]]></title>
             <link>https://www.binance.com/en/square/post/19128406584217</link>
@@ -235,15 +244,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <pubDate>Mon, 25 Nov 2024 14:40:32 GMT</pubDate>
             <description><![CDATA[Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.]]></description>
             <content:encoded><![CDATA[<div><div>Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.</div></div>]]></content:encoded>
-            <author>ccn (ccn)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole (W) Price Builds Momentum in Horizontal Zone, Breakout Could Be Imminent]]></title>
-            <link>https://www.ccn.com/analysis/wormhole-horizontal-zone-breakout-expected/</link>
-            <guid>rssapp_033c509edbae477b8b29e57e538865b0</guid>
-            <pubDate>Mon, 25 Nov 2024 12:27:31 GMT</pubDate>
-            <description><![CDATA[Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole started increasing since November low and is now at key descending resistance. Breakout above will hint at a new bull phase.</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
         </item>
     </channel>
