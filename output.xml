@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 14 Feb 2025 17:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 18:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price Prediction 2025: Further Declines on the Horizon]]></title>
+            <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
+            <guid>rssapp_1f7f0759ddbc39ea6a074ac974989b1a</guid>
+            <pubDate>Wed, 12 Feb 2025 14:18:51 GMT</pubDate>
+            <description><![CDATA[Wormhole price predictions from our experts suggest the W price could drop from $0.175 to $0.096 soon. Read on to find out more.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole price predictions from our experts suggest the W price could drop from $0.175 to $0.096 soon. Read on to find out more.</div></div>]]></content:encoded>
+            <author>ccn (ccn)</author>
+        </item>
         <item>
             <title><![CDATA[FXGuys Emerges As Top Altcoin While Wormhole And Tron Falter]]></title>
             <link>https://www.tronweekly.com/fxguys-shatters-expectations-while-wormhole-and-tron-fizzle-out/</link>
@@ -232,15 +241,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <title><![CDATA[Wormhole Price Prediction 2025: Success May Take Time, but Momentum Builds]]></title>
             <link>https://www.ccn.com/analysis/wormhole-w-price-prediction/</link>
             <guid>rssapp_67366b92e819f465bdedb3dd99fe4c6c</guid>
-            <pubDate>Mon, 25 Nov 2024 14:40:32 GMT</pubDate>
-            <description><![CDATA[Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.]]></description>
-            <content:encoded><![CDATA[<div><div>Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.</div></div>]]></content:encoded>
-            <author>ccn (ccn)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price Prediction 2025: Success May Take Time, but Momentum Builds]]></title>
-            <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
-            <guid>rssapp_1f7f0759ddbc39ea6a074ac974989b1a</guid>
             <pubDate>Mon, 25 Nov 2024 14:40:32 GMT</pubDate>
             <description><![CDATA[Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.]]></description>
             <content:encoded><![CDATA[<div><div>Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.</div></div>]]></content:encoded>
