@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 17 Feb 2025 03:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 04:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Binance Completes Integrations of Hashflow (HFT) on Arbitrum One Network and Wormhole (W) on Ethereum Network, Opens Deposits and Withdrawals ]]></title>
+            <link>https://www.binance.com/en/support/announcement/binance-completes-integrations-of-hashflow-hft-on-arbitrum-one-network-and-wormhole-w-on-ethereum-network-opens-deposits-and-withdrawals-c6e08c3fb0d84dbc8c5ed412ae345b57</link>
+            <guid>rssapp_c61cfeedae070b8ab14f49f942d843d8</guid>
+            <pubDate>Mon, 17 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.]]></description>
+            <content:encoded><![CDATA[<div><div>Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.</div></div>]]></content:encoded>
+            <author>Binance (Binance)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price Prediction 2025: Further Declines on the Horizon]]></title>
             <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Understanding The Wormhole Hack: How it Happened The cryptocurrency world was rocked by a major security breach in February 2022 when the Wormhole bridge, a popular cross-chain bridge protocol, fell victim to a sophisticated hack. The attack, which has been dubbed one of the largest crypto heists in history, saw cybercriminals make off with a […]]]></description>
             <content:encoded><![CDATA[<div><div>Understanding The Wormhole Hack: How it Happened The cryptocurrency world was rocked by a major security breach in February 2022 when the Wormhole bridge, a popular cross-chain bridge protocol, fell victim to a sophisticated hack. The attack, which has been dubbed one of the largest crypto heists in history, saw cybercriminals make off with a […]</div></div>]]></content:encoded>
             <author>TechBullion (TechBullion)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price Prediction 2025: Success May Take Time, but Momentum Builds]]></title>
-            <link>https://www.ccn.com/analysis/wormhole-w-price-prediction/</link>
-            <guid>rssapp_67366b92e819f465bdedb3dd99fe4c6c</guid>
-            <pubDate>Mon, 25 Nov 2024 14:40:32 GMT</pubDate>
-            <description><![CDATA[Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.]]></description>
-            <content:encoded><![CDATA[<div><div>Our experts' predictions for wormhole prices estimate that W could grow from $0.28 to $1.10 by the end of 2025. Read on to find out more.</div></div>]]></content:encoded>
-            <author>ccn (ccn)</author>
         </item>
     </channel>
 </rss>
