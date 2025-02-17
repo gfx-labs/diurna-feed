@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 17 Feb 2025 16:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 17:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -25,6 +25,15 @@
             <pubDate>Wed, 12 Feb 2025 14:18:51 GMT</pubDate>
             <description><![CDATA[Wormhole price predictions from our experts suggest the W price could drop from $0.175 to $0.096 soon. Read on to find out more.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole price predictions from our experts suggest the W price could drop from $0.175 to $0.096 soon. Read on to find out more.</div></div>]]></content:encoded>
+            <author>ccn (ccn)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole (W) Price Hits Historic Low, Leaving 96% of Holders in the Red]]></title>
+            <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-historic-low-holders-in-red/</link>
+            <guid>rssapp_4c603e640db63a850500e7906812af70</guid>
+            <pubDate>Wed, 12 Feb 2025 13:59:22 GMT</pubDate>
+            <description><![CDATA[Wormhole (W) price plunges 90% annually, hitting an all-time low. With only 1% of holders in profit, can it rebound or decline again?]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole (W) price plunges 90% annually, hitting an all-time low. With only 1% of holders in profit, can it rebound or decline again?</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
         </item>
         <item>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Staking your W tokens is more than just earning rewards; it’s about actively participating in the future of the Wormhole platform.]]></description>
             <content:encoded><![CDATA[<div><div>Staking your W tokens is more than just earning rewards; it’s about actively participating in the future of the Wormhole platform.</div></div>]]></content:encoded>
             <author>Altcoin Buzz (Altcoin Buzz)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unraveling The $325 Million Wormhole Hack: How CRE’s Expertise Came To The Rescue]]></title>
-            <link>https://techbullion.com/unraveling-the-325-million-wormhole-hack-how-cres-expertise-came-to-the-rescue/</link>
-            <guid>rssapp_2561bf05d0ae90529fa5827d6753c28f</guid>
-            <pubDate>Fri, 29 Nov 2024 09:51:41 GMT</pubDate>
-            <description><![CDATA[Understanding The Wormhole Hack: How it Happened The cryptocurrency world was rocked by a major security breach in February 2022 when the Wormhole bridge, a popular cross-chain bridge protocol, fell victim to a sophisticated hack. The attack, which has been dubbed one of the largest crypto heists in history, saw cybercriminals make off with a […]]]></description>
-            <content:encoded><![CDATA[<div><div>Understanding The Wormhole Hack: How it Happened The cryptocurrency world was rocked by a major security breach in February 2022 when the Wormhole bridge, a popular cross-chain bridge protocol, fell victim to a sophisticated hack. The attack, which has been dubbed one of the largest crypto heists in history, saw cybercriminals make off with a […]</div></div>]]></content:encoded>
-            <author>TechBullion (TechBullion)</author>
         </item>
     </channel>
 </rss>
