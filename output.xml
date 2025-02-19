@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 19 Feb 2025 16:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 17:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Tue, 18 Feb 2025 15:43:23 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
         <item>
             <title><![CDATA[Binance Completes Integrations of Hashflow (HFT) on Arbitrum One Network and Wormhole (W) on Ethereum Network, Opens Deposits and Withdrawals ]]></title>
             <link>https://www.binance.com/en/support/announcement/binance-completes-integrations-of-hashflow-hft-on-arbitrum-one-network-and-wormhole-w-on-ethereum-network-opens-deposits-and-withdrawals-c6e08c3fb0d84dbc8c5ed412ae345b57</link>
@@ -83,15 +92,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Newly launched Bio Protocol price continued its strong downtrend even after expanding to the Solana ecosystem through Wormhole]]></description>
             <content:encoded><![CDATA[<div><div>Newly launched Bio Protocol price continued its strong downtrend even after expanding to the Solana ecosystem through Wormhole</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Mon, 06 Jan 2025 06:58:25 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[4 Ethereum-Based Tokens Poised to Turn $500 Into $50,000 Ahead of ETH’s Surge to $10,000]]></title>
