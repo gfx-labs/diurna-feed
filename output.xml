@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 22 Feb 2025 18:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 19:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Fri, 21 Feb 2025 15:46:47 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
         <item>
             <title><![CDATA[Binance Completes Integrations of Hashflow (HFT) on Arbitrum One Network and Wormhole (W) on Ethereum Network, Opens Deposits and Withdrawals ]]></title>
             <link>https://www.binance.com/en/support/announcement/binance-completes-integrations-of-hashflow-hft-on-arbitrum-one-network-and-wormhole-w-on-ethereum-network-opens-deposits-and-withdrawals-c6e08c3fb0d84dbc8c5ed412ae345b57</link>
@@ -17,15 +26,6 @@
             <description><![CDATA[Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.]]></description>
             <content:encoded><![CDATA[<div><div>Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.</div></div>]]></content:encoded>
             <author>Binance (Binance)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Tue, 18 Feb 2025 15:43:23 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Price Prediction 2025: Further Declines on the Horizon]]></title>
