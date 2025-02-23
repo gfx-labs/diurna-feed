@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 23 Feb 2025 05:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 06:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Binance Completes Integrations of Hashflow (HFT) on Arbitrum One Network and Wormhole (W) on Ethereum Network, Opens Deposits and Withdrawals ]]></title>
+            <link>https://www.binance.com/en/support/announcement/detail/c6e08c3fb0d84dbc8c5ed412ae345b57</link>
+            <guid>rssapp_380379f1d741f2e29e08d776997c4f2e</guid>
+            <pubDate>Sun, 23 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.]]></description>
+            <content:encoded><![CDATA[<div><div>Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.</div></div>]]></content:encoded>
+            <author>Binance (Binance)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Blockchain interoperability protocol Wormhole has successfully paved the way for World IDs on the Solana blockchain. Solana builders and developers will have the capacity to integrate World ID on Solana-based protocols.]]></description>
             <content:encoded><![CDATA[<div><div>Blockchain interoperability protocol Wormhole has successfully paved the way for World IDs on the Solana blockchain. Solana builders and developers will have the capacity to integrate World ID on Solana-based protocols.</div></div>]]></content:encoded>
             <author>Cryptopolitan (Cryptopolitan)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Launches Staking Rewards Program for W Holders ]]></title>
-            <link>https://www.altcoinbuzz.io/cryptocurrency-news/wormhole-launches-staking-rewards-program-for-w-holders/</link>
-            <guid>rssapp_a61495dde6c972af2ad6511bbb54d3fa</guid>
-            <pubDate>Thu, 05 Dec 2024 09:51:54 GMT</pubDate>
-            <description><![CDATA[Staking your W tokens is more than just earning rewards; it’s about actively participating in the future of the Wormhole platform.]]></description>
-            <content:encoded><![CDATA[<div><div>Staking your W tokens is more than just earning rewards; it’s about actively participating in the future of the Wormhole platform.</div></div>]]></content:encoded>
-            <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
     </channel>
 </rss>
