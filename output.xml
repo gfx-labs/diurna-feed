@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 07 Mar 2025 03:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 04:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole’s W Token Has a 999% Weekly Return; Why VanEck Is Bullish on Ethereum Layer 2s ]]></title>
+            <link>https://www.coindesk.com/video/wormholes-w-token-has-a-999percent-weekly-return-why-vaneck-is-bullish-on-ethereum-layer-2s</link>
+            <guid>rssapp_1d4ffead102f8ce14104364ca78dc52a</guid>
+            <pubDate>Fri, 07 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA["CoinDesk Daily" host Jennifer Sanasie breaks down the biggest headlines impacting the crypto industry today, including Solana DeFi application Kamino offering a weekly yield of more than 999%, paid out in W and JTO tokens. Plus, VanEck predicts Ethereum layer 2 networks to be valued at over $1 trillion by 2030 and CFTC data shows that leveraged funds held record net short positions in CME's bitcoin futures last week. | Video]]></description>
+            <content:encoded><![CDATA[<div><div>"CoinDesk Daily" host Jennifer Sanasie breaks down the biggest headlines impacting the crypto industry today, including Solana DeFi application Kamino offering a weekly yield of more than 999%, paid out in W and JTO tokens. Plus, VanEck predicts Ethereum layer 2 networks to be valued at over $1 trillion by 2030 and CFTC data shows that leveraged funds held record net short positions in CME's bitcoin futures last week. | Video</div></div>]]></content:encoded>
+            <author>coindesk (coindesk)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[An Wormhole airdrop is a distribution of free tokens to the digital wallets of active Wormhole users. It serves as a promotional strategy…]]></description>
             <content:encoded><![CDATA[<div><div>An Wormhole airdrop is a distribution of free tokens to the digital wallets of active Wormhole users. It serves as a promotional strategy…</div></div>]]></content:encoded>
             <author>Medium (Medium)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Airdrop ($W Token) - Eligibility & How to Claim]]></title>
-            <link>https://cryptonews.com/cryptocurrency/wormhole-airdrop/</link>
-            <guid>rssapp_48b9aa3ee384ade48bfe7cf33333aae6</guid>
-            <pubDate>Fri, 06 Dec 2024 16:25:01 GMT</pubDate>
-            <description><![CDATA[The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.]]></description>
-            <content:encoded><![CDATA[<div><div>The Wormhole airdrop is offering over 600 million tokens to specific users. Check to see if you are eligible for these rewards.</div></div>]]></content:encoded>
-            <author>Cryptonews (Cryptonews)</author>
         </item>
     </channel>
 </rss>
