@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 09 Mar 2025 15:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 16:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -89,6 +89,15 @@
             <description><![CDATA[Securitize, managing over $1.5 billion in tokenized assets, has chosen Wormhole for cross-chain interoperability.]]></description>
             <content:encoded><![CDATA[<div><div>Securitize, managing over $1.5 billion in tokenized assets, has chosen Wormhole for cross-chain interoperability.</div></div>]]></content:encoded>
             <author>Coinspeaker (Coinspeaker)</author>
+        </item>
+        <item>
+            <title><![CDATA[Securitize taps Wormhole as primary interoperability solution]]></title>
+            <link>https://crypto.news/securitize-taps-wormhole-as-primary-interoperability-solution/</link>
+            <guid>rssapp_de8dd356c8d8bde0c42c00701a7b74e7</guid>
+            <pubDate>Tue, 28 Jan 2025 17:05:12 GMT</pubDate>
+            <description><![CDATA[Securitize, a tokenization platform backed by BlackRock, has integrated Wormhole as primary interoperability protocol]]></description>
+            <content:encoded><![CDATA[<div><div>Securitize, a tokenization platform backed by BlackRock, has integrated Wormhole as primary interoperability protocol</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole (W): Riding the Bull Wave 🐂]]></title>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Robinson Burkey shares how Wormhole solves liquidity fragmentation, enabling cross-chain communication and blockchain interoperability.]]></description>
             <content:encoded><![CDATA[<div><div>Robinson Burkey shares how Wormhole solves liquidity fragmentation, enabling cross-chain communication and blockchain interoperability.</div></div>]]></content:encoded>
             <author>Cryptonews (Cryptonews)</author>
-        </item>
-        <item>
-            <title><![CDATA[Airdrop Analysis: Wormhole Edition]]></title>
-            <link>https://medium.com/@AobosUtasupyk/airdrop-analysis-wormhole-edition-761139c871f2</link>
-            <guid>rssapp_987cc0b1a40710eb3d4d197ffcb0034f</guid>
-            <pubDate>Fri, 13 Dec 2024 07:08:59 GMT</pubDate>
-            <description><![CDATA[An Wormhole airdrop is a distribution of free tokens to the digital wallets of active Wormhole users. It serves as a promotional strategy…]]></description>
-            <content:encoded><![CDATA[<div><div>An Wormhole airdrop is a distribution of free tokens to the digital wallets of active Wormhole users. It serves as a promotional strategy…</div></div>]]></content:encoded>
-            <author>Medium (Medium)</author>
         </item>
     </channel>
 </rss>
