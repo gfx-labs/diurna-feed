@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 11 Mar 2025 17:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 18:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Mon, 10 Mar 2025 16:20:06 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole’s W Token Has a 999% Weekly Return; Why VanEck Is Bullish on Ethereum Layer 2s ]]></title>
             <link>https://www.coindesk.com/video/wormholes-w-token-has-a-999percent-weekly-return-why-vaneck-is-bullish-on-ethereum-layer-2s</link>
@@ -17,15 +26,6 @@
             <description><![CDATA["CoinDesk Daily" host Jennifer Sanasie breaks down the biggest headlines impacting the crypto industry today, including Solana DeFi application Kamino offering a weekly yield of more than 999%, paid out in W and JTO tokens. Plus, VanEck predicts Ethereum layer 2 networks to be valued at over $1 trillion by 2030 and CFTC data shows that leveraged funds held record net short positions in CME's bitcoin futures last week. | Video]]></description>
             <content:encoded><![CDATA[<div><div>"CoinDesk Daily" host Jennifer Sanasie breaks down the biggest headlines impacting the crypto industry today, including Solana DeFi application Kamino offering a weekly yield of more than 999%, paid out in W and JTO tokens. Plus, VanEck predicts Ethereum layer 2 networks to be valued at over $1 trillion by 2030 and CFTC data shows that leveraged funds held record net short positions in CME's bitcoin futures last week. | Video</div></div>]]></content:encoded>
             <author>coindesk (coindesk)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Sat, 01 Mar 2025 18:43:17 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Binance Completes Integrations of Hashflow (HFT) on Arbitrum One Network and Wormhole (W) on Ethereum Network, Opens Deposits and Withdrawals ]]></title>
