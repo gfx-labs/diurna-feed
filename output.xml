@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 12 Mar 2025 01:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 02:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -44,6 +44,15 @@
             <description><![CDATA[A cross-chain bridge protocol enabling seamless asset transfers between blockchain networks.]]></description>
             <content:encoded><![CDATA[<div><div>A cross-chain bridge protocol enabling seamless asset transfers between blockchain networks.</div></div>]]></content:encoded>
             <author>beraternews (beraternews)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Expands Reach by Integrating with Unichain, Uniswap Labs' Ethereum L2]]></title>
+            <link>https://blockchain.news/news/wormhole-expands-reach-integrating-unichain-uniswap-labs-ethereum-l2</link>
+            <guid>rssapp_88f3b777e605cb52aa37caf06436557b</guid>
+            <pubDate>Fri, 21 Feb 2025 07:38:00 GMT</pubDate>
+            <description><![CDATA[Wormhole integrates with Unichain, facilitating seamless asset transfers across blockchains. This partnership enhances DeFi liquidity and offers developers efficient cross-chain solutions.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole integrates with Unichain, facilitating seamless asset transfers across blockchains. This partnership enhances DeFi liquidity and offers developers efficient cross-chain solutions.</div></div>]]></content:encoded>
+            <author>https://blockchain news/news/wormhole-expands-reach-integrating-unichain-uniswap-labs-ethereum-l2 (https://blockchain news/news/wormhole-expands-reach-integrating-unichain-uniswap-labs-ethereum-l2)</author>
         </item>
         <item>
             <title><![CDATA[Binance Completes Integrations of Hashflow (HFT) on Arbitrum One Network and Wormhole (W) on Ethereum Network, Opens Deposits and Withdrawals ]]></title>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Wormhole Poised for a Potential Breakout: Can It Hit the $1 Mark? - Bitcoin Perfect]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole Poised for a Potential Breakout: Can It Hit the $1 Mark? - Bitcoin Perfect</div></div>]]></content:encoded>
             <author>Bitcoin Perfect (Bitcoin Perfect)</author>
-        </item>
-        <item>
-            <title><![CDATA[Robinson Burkey, Co-Founder of Wormhole, on Bridges, The Liquidity Fragmentation Problem, and Cross Chain Communication ]]></title>
-            <link>https://cryptonews.com/exclusives/robinson-burkey-co-founder-of-wormhole-on-bridges-the-liquidity-fragmentation-problem-and-cross-chain-communication-ep-395/</link>
-            <guid>rssapp_733388ed87e17d491c4c7cab8dce64a5</guid>
-            <pubDate>Fri, 13 Dec 2024 11:20:52 GMT</pubDate>
-            <description><![CDATA[Robinson Burkey shares how Wormhole solves liquidity fragmentation, enabling cross-chain communication and blockchain interoperability.]]></description>
-            <content:encoded><![CDATA[<div><div>Robinson Burkey shares how Wormhole solves liquidity fragmentation, enabling cross-chain communication and blockchain interoperability.</div></div>]]></content:encoded>
-            <author>Cryptonews (Cryptonews)</author>
         </item>
     </channel>
 </rss>
