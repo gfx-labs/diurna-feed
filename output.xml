@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 23 Mar 2025 14:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 15:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole jumps 42%, Dione surges 30%, Ethereum reclaims $2,000]]></title>
+            <link>https://crypto.news/wormhole-jumps-42-dione-surges-30-ethereum-reclaims-2000/</link>
+            <guid>rssapp_c6020641ecec8b85878982a633e4da58</guid>
+            <pubDate>Sun, 23 Mar 2025 14:00:00 GMT</pubDate>
+            <description><![CDATA[The crypto market shows signs of recovery while several altcoins including Wormhole (W), DIONE, and Magnetix (MAG) post double-digit gains in the past 24 hours.]]></description>
+            <content:encoded><![CDATA[<div><div>The crypto market shows signs of recovery while several altcoins including Wormhole (W), DIONE, and Magnetix (MAG) post double-digit gains in the past 24 hours.</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.]]></description>
             <content:encoded><![CDATA[<div><div>EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.</div></div>]]></content:encoded>
             <author>hackernoon (hackernoon)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Poised for a Potential Breakout: Can It Hit the $1 Mark?]]></title>
-            <link>https://bitperfect.pe/en/wormhole-poised-for-a-potential-breakout-can-it-hit-the-1-mark/</link>
-            <guid>rssapp_b9a8c1101a89e35632f405bc235b0940</guid>
-            <pubDate>Sun, 15 Dec 2024 20:09:21 GMT</pubDate>
-            <description><![CDATA[Wormhole Poised for a Potential Breakout: Can It Hit the $1 Mark? - Bitcoin Perfect]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole Poised for a Potential Breakout: Can It Hit the $1 Mark? - Bitcoin Perfect</div></div>]]></content:encoded>
-            <author>Bitcoin Perfect (Bitcoin Perfect)</author>
         </item>
     </channel>
 </rss>
