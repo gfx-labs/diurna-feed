@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 24 Mar 2025 12:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 13:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole (W) Gains 21.5%, Trading Volume Nears $700M: What's Fueling the W Price Pump?]]></title>
+            <link>https://99bitcoins.com/news/presales/wormhole-w-gains-21-5-trading-volume-nears-700m-whats-fueling-the-w-price-pump/</link>
+            <guid>rssapp_2487f0a827645fa2e80f619dcf2a7cc7</guid>
+            <pubDate>Mon, 24 Mar 2025 11:40:39 GMT</pubDate>
+            <description><![CDATA[Wormhole crypto price rose 50% in 24 hours. BTCBULL token presale dominates. Is BTC Bull one of the best meme coins to buy in 2025?]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole crypto price rose 50% in 24 hours. BTCBULL token presale dominates. Is BTC Bull one of the best meme coins to buy in 2025?</div></div>]]></content:encoded>
+            <author>99Bitcoins (99Bitcoins)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole jumps 42%, Dione surges 30%, Ethereum reclaims $2,000]]></title>
             <link>https://crypto.news/wormhole-jumps-42-dione-surges-30-ethereum-reclaims-2000/</link>
@@ -232,15 +241,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <title><![CDATA[EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions ]]></title>
             <link>https://research.2077.xyz/eip-7503-zero-knowledge-wormholes-for-private-ethereum-transactions</link>
             <guid>rssapp_88e6b691e1477c30bd9561d569fd2bd3</guid>
-            <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.]]></description>
-            <content:encoded><![CDATA[<div><div>EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.</div></div>]]></content:encoded>
-            <author>hackernoon (hackernoon)</author>
-        </item>
-        <item>
-            <title><![CDATA[EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions ]]></title>
-            <link>https://hackernoon.com/eip-7503-zero-knowledge-wormholes-for-private-ethereum-transactions</link>
-            <guid>rssapp_4e2557b64bea7753e31769a4cb3c1d62</guid>
             <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.]]></description>
             <content:encoded><![CDATA[<div><div>EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.</div></div>]]></content:encoded>
