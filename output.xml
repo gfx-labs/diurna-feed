@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 26 Mar 2025 07:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 08:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Tue, 25 Mar 2025 07:53:40 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole (W) Gains 21.5%, Trading Volume Nears $700M: What's Fueling the W Price Pump?]]></title>
             <link>https://99bitcoins.com/news/presales/wormhole-w-gains-21-5-trading-volume-nears-700m-whats-fueling-the-w-price-pump/</link>
@@ -26,15 +35,6 @@
             <description><![CDATA[The crypto market shows signs of recovery while several altcoins including Wormhole (W), DIONE, and Magnetix (MAG) post double-digit gains in the past 24 hours.]]></description>
             <content:encoded><![CDATA[<div><div>The crypto market shows signs of recovery while several altcoins including Wormhole (W), DIONE, and Magnetix (MAG) post double-digit gains in the past 24 hours.</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Sun, 16 Mar 2025 16:22:19 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole’s W Token Has a 999% Weekly Return; Why VanEck Is Bullish on Ethereum Layer 2s ]]></title>
