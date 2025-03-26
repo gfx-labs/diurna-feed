@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 26 Mar 2025 15:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 16:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -148,6 +148,15 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <author>Binance Square (Binance Square)</author>
         </item>
         <item>
+            <title><![CDATA[Trump ushers in new age for crypto, Wormhole Foundation’s Cathy Yoon says ]]></title>
+            <link>https://coinmarketcap.com/academy/article/927dcdba-181e-4351-9f6e-00f3464b1070</link>
+            <guid>rssapp_4e61b9c5dc716d8c98556cb8f34e71a6</guid>
+            <pubDate>Fri, 17 Jan 2025 21:04:48 GMT</pubDate>
+            <description><![CDATA[Donald Trump’s inauguration as the 47th U.S. president is expected to usher in a new era for cryptocurrencies, according to Wormhole Foundation general counsel Cathy Yoon. Trump officially takes office on Jan. 20, and his campaign pledges, coupled with his…]]></description>
+            <content:encoded><![CDATA[<div><div>Donald Trump’s inauguration as the 47th U.S. president is expected to usher in a new era for cryptocurrencies, according to Wormhole Foundation general counsel Cathy Yoon. Trump officially takes office on Jan. 20, and his campaign pledges, coupled with his…</div></div>]]></content:encoded>
+            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
+        </item>
+        <item>
             <title><![CDATA[Trump ushers in new age for crypto, Wormhole Foundation’s Cathy Yoon says]]></title>
             <link>https://crypto.news/trump-ushers-in-new-age-for-crypto-wormhole-foundations-cathy-yoon-says/</link>
             <guid>rssapp_ff62e21a6a3afc03bfd91f0045f08eae</guid>
@@ -202,6 +211,15 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
         </item>
         <item>
+            <title><![CDATA[Top Crypto Gainers Today Dec 27 – MX Token, TRON, Wormhole, Pax Gold ]]></title>
+            <link>https://coinmarketcap.com/academy/article/7c8d405a-e31a-4b85-a9de-39868e1a2350</link>
+            <guid>rssapp_3b7e374450f90e41a7351e4a8c65cea0</guid>
+            <pubDate>Fri, 27 Dec 2024 13:14:53 GMT</pubDate>
+            <description><![CDATA[As the crypto market grows, today’s top gainers—MX Token, TRON, Wormhole, and Pax Gold—stand out with unique opportunities for short- and long-term investors. Each token [...]]]></description>
+            <content:encoded><![CDATA[<div><div>As the crypto market grows, today’s top gainers—MX Token, TRON, Wormhole, and Pax Gold—stand out with unique opportunities for short- and long-term investors. Each token [...]</div></div>]]></content:encoded>
+            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
+        </item>
+        <item>
             <title><![CDATA[Top Crypto Gainers Today Dec 27 - MX Token, TRON, Wormhole, Pax Gold]]></title>
             <link>https://insidebitcoins.com/news/top-crypto-gainers-today-dec-27-mx-token-tron-wormhole-pax-gold</link>
             <guid>rssapp_1c1070480e2d2818dfa36acf5d978631</guid>
@@ -227,24 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Wormhole extends support for Circle's Cross-Chain Transfer Protocol, enabling seamless USDC transfers across major blockchains with enhanced liquidity and developer integration.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole extends support for Circle's Cross-Chain Transfer Protocol, enabling seamless USDC transfers across major blockchains with enhanced liquidity and developer integration.</div></div>]]></content:encoded>
             <author>https://blockchain news/news/wormhole-enhances-cross-chain-usdc-transfers (https://blockchain news/news/wormhole-enhances-cross-chain-usdc-transfers)</author>
-        </item>
-        <item>
-            <title><![CDATA[Nuffle Labs and Wormhole launch cross-chain restaking solution]]></title>
-            <link>https://crypto.news/nuffle-labs-and-wormhole-launch-cross-chain-restaking-solution/</link>
-            <guid>rssapp_48723fd3a52965480741571f2e8dccc7</guid>
-            <pubDate>Tue, 17 Dec 2024 14:56:12 GMT</pubDate>
-            <description><![CDATA[Nuffle Labs and Wormhole have announced a new solution to connect different blockchain networks through native cross-chain restaking]]></description>
-            <content:encoded><![CDATA[<div><div>Nuffle Labs and Wormhole have announced a new solution to connect different blockchain networks through native cross-chain restaking</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions ]]></title>
-            <link>https://research.2077.xyz/eip-7503-zero-knowledge-wormholes-for-private-ethereum-transactions</link>
-            <guid>rssapp_88e6b691e1477c30bd9561d569fd2bd3</guid>
-            <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.]]></description>
-            <content:encoded><![CDATA[<div><div>EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network.</div></div>]]></content:encoded>
-            <author>hackernoon (hackernoon)</author>
         </item>
     </channel>
 </rss>
