@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 31 Mar 2025 11:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 12:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Top Crypto News This Week: Trump’s Liberation Day, Mantle Q2 Roadmap, $117 Wormhole Unlocks, and More]]></title>
+            <link>https://beincrypto.com/crypto-news-this-week-trump-liberation-day/</link>
+            <guid>rssapp_bc368080a4fb019b3c711c937805636d</guid>
+            <pubDate>Mon, 31 Mar 2025 11:00:00 GMT</pubDate>
+            <description><![CDATA[Key crypto news this week: Trump’s tariffs, Sonic’s USDC upgrade, Mantle’s roadmap, and Wormhole’s token unlock. Expect volatility.]]></description>
+            <content:encoded><![CDATA[<div><div>Key crypto news this week: Trump’s tariffs, Sonic’s USDC upgrade, Mantle’s roadmap, and Wormhole’s token unlock. Expect volatility.</div></div>]]></content:encoded>
+            <author>BeInCrypto (BeInCrypto)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Wormhole is working with Nuffle Labs on a solution to expand EigenLayer’s restaking functionality beyond the Ethereum ecosystem.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole is working with Nuffle Labs on a solution to expand EigenLayer’s restaking functionality beyond the Ethereum ecosystem.</div></div>]]></content:encoded>
             <author>The Block (The Block)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Enhances Cross-Chain USDC Transfers with Circle's Protocol]]></title>
-            <link>https://blockchain.news/news/wormhole-enhances-cross-chain-usdc-transfers</link>
-            <guid>rssapp_b715e0a0ca22b8d434a76211edc76f63</guid>
-            <pubDate>Tue, 17 Dec 2024 15:49:00 GMT</pubDate>
-            <description><![CDATA[Wormhole extends support for Circle's Cross-Chain Transfer Protocol, enabling seamless USDC transfers across major blockchains with enhanced liquidity and developer integration.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole extends support for Circle's Cross-Chain Transfer Protocol, enabling seamless USDC transfers across major blockchains with enhanced liquidity and developer integration.</div></div>]]></content:encoded>
-            <author>https://blockchain news/news/wormhole-enhances-cross-chain-usdc-transfers (https://blockchain news/news/wormhole-enhances-cross-chain-usdc-transfers)</author>
         </item>
     </channel>
 </rss>
