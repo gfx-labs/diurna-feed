@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 01 Apr 2025 17:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 18:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Mon, 31 Mar 2025 16:04:07 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
         <item>
             <title><![CDATA[Top Crypto News This Week: Trump’s Liberation Day, Mantle Q2 Roadmap, $117 Wormhole Unlocks, and More]]></title>
             <link>https://beincrypto.com/crypto-news-this-week-trump-liberation-day/</link>
@@ -17,15 +26,6 @@
             <description><![CDATA[Key crypto news this week: Trump’s tariffs, Sonic’s USDC upgrade, Mantle’s roadmap, and Wormhole’s token unlock. Expect volatility.]]></description>
             <content:encoded><![CDATA[<div><div>Key crypto news this week: Trump’s tariffs, Sonic’s USDC upgrade, Mantle’s roadmap, and Wormhole’s token unlock. Expect volatility.</div></div>]]></content:encoded>
             <author>BeInCrypto (BeInCrypto)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Fri, 28 Mar 2025 15:13:19 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole (W) Gains 21.5%, Trading Volume Nears $700M: What's Fueling the W Price Pump?]]></title>
