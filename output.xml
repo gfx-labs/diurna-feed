@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 01 Apr 2025 04:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 05:07:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -127,6 +127,15 @@
             <author>Coinspeaker (Coinspeaker)</author>
         </item>
         <item>
+            <title><![CDATA[Securitize taps Wormhole as primary interoperability solution ]]></title>
+            <link>https://coinmarketcap.com/academy/article/710cf8df-1aa3-455d-87d2-d66d2e4d8212</link>
+            <guid>rssapp_4e979b0dea8ef1c7e8a64aa83fa9ecad</guid>
+            <pubDate>Tue, 28 Jan 2025 17:09:24 GMT</pubDate>
+            <description><![CDATA[Securitize, a real-world asset tokenization platform partnered with BlackRock and Hamilton Lane, has announced its integration with the interoperability protocol Wormhole. Integrating Wormhole (W) as its primary interoperability solution, Securitize can now offer cross-chain supp...]]></description>
+            <content:encoded><![CDATA[<div><div>Securitize, a real-world asset tokenization platform partnered with BlackRock and Hamilton Lane, has announced its integration with the interoperability protocol Wormhole. Integrating Wormhole (W) as its primary interoperability solution, Securitize can now offer cross-chain supp...</div></div>]]></content:encoded>
+            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
+        </item>
+        <item>
             <title><![CDATA[Securitize taps Wormhole as primary interoperability solution]]></title>
             <link>https://crypto.news/securitize-taps-wormhole-as-primary-interoperability-solution/</link>
             <guid>rssapp_de8dd356c8d8bde0c42c00701a7b74e7</guid>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!]]></description>
             <content:encoded><![CDATA[<div><div>Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole, EigenLayer and NEAR-focused Nuffle Labs partner to bring restaking beyond Ethereum]]></title>
-            <link>https://www.theblock.co/post/331307/wormhole-eigenlayer-and-near-focused-nuffle-labs-partner-to-bring-restaking-beyond-ethereum</link>
-            <guid>rssapp_b3b76881df103c1318829ff3cb60a654</guid>
-            <pubDate>Tue, 17 Dec 2024 22:05:07 GMT</pubDate>
-            <description><![CDATA[Wormhole is working with Nuffle Labs on a solution to expand EigenLayer’s restaking functionality beyond the Ethereum ecosystem.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole is working with Nuffle Labs on a solution to expand EigenLayer’s restaking functionality beyond the Ethereum ecosystem.</div></div>]]></content:encoded>
-            <author>The Block (The Block)</author>
         </item>
     </channel>
 </rss>
