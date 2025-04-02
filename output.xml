@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 02 Apr 2025 10:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 11:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -116,6 +116,15 @@
             <description><![CDATA[FXGuys shines with its innovative offerings, raising $3.8M in Stage 2 presale, as Wormhole and Tron fail to meet expectations.]]></description>
             <content:encoded><![CDATA[<div><div>FXGuys shines with its innovative offerings, raising $3.8M in Stage 2 presale, as Wormhole and Tron fail to meet expectations.</div></div>]]></content:encoded>
             <author>TronWeekly (TronWeekly)</author>
+        </item>
+        <item>
+            <title><![CDATA[Next Cryptocurrency to Explode, 29 January — Wormhole, dogwifhat, Jito, Bio Protocol ]]></title>
+            <link>https://coinmarketcap.com/academy/article/af24949d-3f91-48d7-bbb9-e502d5f38f52</link>
+            <guid>rssapp_741549e8e27e6c7717037dedde36b406</guid>
+            <pubDate>Wed, 29 Jan 2025 16:04:38 GMT</pubDate>
+            <description><![CDATA[The overall feeling in the market was positive from the close of October 2024 until the beginning of this year. Last month, Bitcoin (BTC) rose [...]]]></description>
+            <content:encoded><![CDATA[<div><div>The overall feeling in the market was positive from the close of October 2024 until the beginning of this year. Last month, Bitcoin (BTC) rose [...]</div></div>]]></content:encoded>
+            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
         </item>
         <item>
             <title><![CDATA[Securitize Adopts Wormhole for Tokenized Assets Cross-Chain Interoperability]]></title>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[As the crypto market grows, today’s top gainers—MX Token, TRON, Wormhole, and Pax Gold—stand out with unique opportunities for short- and long-term investors. Each token [...]]]></description>
             <content:encoded><![CDATA[<div><div>As the crypto market grows, today’s top gainers—MX Token, TRON, Wormhole, and Pax Gold—stand out with unique opportunities for short- and long-term investors. Each token [...]</div></div>]]></content:encoded>
             <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
-        </item>
-        <item>
-            <title><![CDATA[Top Crypto Gainers Today Dec 27 - MX Token, TRON, Wormhole, Pax Gold]]></title>
-            <link>https://insidebitcoins.com/news/top-crypto-gainers-today-dec-27-mx-token-tron-wormhole-pax-gold</link>
-            <guid>rssapp_1c1070480e2d2818dfa36acf5d978631</guid>
-            <pubDate>Fri, 27 Dec 2024 13:12:05 GMT</pubDate>
-            <description><![CDATA[Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!]]></description>
-            <content:encoded><![CDATA[<div><div>Discover today’s top crypto gainers Dec 27, including MX Token, TRON, Wormhole, and Pax Gold. Seize these investor opportunities now!</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
         </item>
     </channel>
 </rss>
