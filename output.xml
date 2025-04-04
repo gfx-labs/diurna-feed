@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 04 Apr 2025 01:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 02:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -154,6 +154,15 @@
             <author>crypto news (crypto news)</author>
         </item>
         <item>
+            <title><![CDATA[Wormhole Overview ]]></title>
+            <link>https://coinmarketcap.com/academy/article/fd8821cb-df97-4ae8-bdb6-ae019c48f829</link>
+            <guid>rssapp_c74a02ce50a7afdfe636dd742d22595a</guid>
+            <pubDate>Mon, 20 Jan 2025 20:32:31 GMT</pubDate>
+            <description><![CDATA[Overview of Wormhole's cross chain infrastructure solution and ecosystem activity]]></description>
+            <content:encoded><![CDATA[<div><div>Overview of Wormhole's cross chain infrastructure solution and ecosystem activity</div></div>]]></content:encoded>
+            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole (W): Riding the Bull Wave 🐂]]></title>
             <link>https://www.binance.com/en/square/post/19128406584217</link>
             <guid>rssapp_a1f9888e934812fb2cf8b70836bcb329</guid>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Discover the next crypto to explode for today, 27 December. Using today's market data, find out what makes these tokens promising.]]></description>
             <content:encoded><![CDATA[<div><div>Discover the next crypto to explode for today, 27 December. Using today's market data, find out what makes these tokens promising.</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Top Crypto Gainers Today Dec 27 – MX Token, TRON, Wormhole, Pax Gold ]]></title>
-            <link>https://coinmarketcap.com/academy/article/7c8d405a-e31a-4b85-a9de-39868e1a2350</link>
-            <guid>rssapp_3b7e374450f90e41a7351e4a8c65cea0</guid>
-            <pubDate>Fri, 27 Dec 2024 13:14:53 GMT</pubDate>
-            <description><![CDATA[As the crypto market grows, today’s top gainers—MX Token, TRON, Wormhole, and Pax Gold—stand out with unique opportunities for short- and long-term investors. Each token [...]]]></description>
-            <content:encoded><![CDATA[<div><div>As the crypto market grows, today’s top gainers—MX Token, TRON, Wormhole, and Pax Gold—stand out with unique opportunities for short- and long-term investors. Each token [...]</div></div>]]></content:encoded>
-            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
         </item>
     </channel>
 </rss>
