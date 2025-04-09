@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 09 Apr 2025 14:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 15:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -89,6 +89,15 @@
             <description><![CDATA[Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.]]></description>
             <content:encoded><![CDATA[<div><div>Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.</div></div>]]></content:encoded>
             <author>Binance (Binance)</author>
+        </item>
+        <item>
+            <title><![CDATA["Van de Poppe: Solana Altcoin Wormhole Poised for Breakout, Bitcoin's Explosive Move Awaits PPI Report"]]></title>
+            <link>https://www.ainvest.com/news/van-de-poppe-solana-altcoin-wormhole-poised-breakout-bitcoin-explosive-move-awaits-ppi-report-2502/</link>
+            <guid>rssapp_06fe53d70a5a31c1a6c8e10752e19459</guid>
+            <pubDate>Fri, 14 Feb 2025 20:36:45 GMT</pubDate>
+            <description><![CDATA["Van de Poppe: Solana Altcoin Wormhole Poised for Breakout, Bitcoin's Explosive Move Awaits PPI Report"]]></description>
+            <content:encoded><![CDATA[<div><div>"Van de Poppe: Solana Altcoin Wormhole Poised for Breakout, Bitcoin's Explosive Move Awaits PPI Report"</div></div>]]></content:encoded>
+            <author>Ainvest (Ainvest)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Price Prediction 2025: Further Declines on the Horizon]]></title>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[With Ethereum (ETH) making preparations for a massive price surge to the $10,000 region, certain tokens within its ecosystem are looking primed for one of the]]></description>
             <content:encoded><![CDATA[<div><div>With Ethereum (ETH) making preparations for a massive price surge to the $10,000 region, certain tokens within its ecosystem are looking primed for one of the</div></div>]]></content:encoded>
             <author>TronWeekly (TronWeekly)</author>
-        </item>
-        <item>
-            <title><![CDATA[Next Cryptocurrency to Explode, 27 December — Wormhole, Thena, DYDX, GMT]]></title>
-            <link>https://insidebitcoins.com/news/next-cryptocurrency-to-explode-27-december-wormhole-thena-dydx-gmt</link>
-            <guid>rssapp_8445435a427244fa13caabdf7bb5c09b</guid>
-            <pubDate>Fri, 27 Dec 2024 19:19:01 GMT</pubDate>
-            <description><![CDATA[Discover the next crypto to explode for today, 27 December. Using today's market data, find out what makes these tokens promising.]]></description>
-            <content:encoded><![CDATA[<div><div>Discover the next crypto to explode for today, 27 December. Using today's market data, find out what makes these tokens promising.</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
         </item>
     </channel>
 </rss>
