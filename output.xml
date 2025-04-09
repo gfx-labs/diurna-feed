@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 09 Apr 2025 08:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 09:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -127,7 +127,7 @@
             <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
         </item>
         <item>
-            <title><![CDATA[Securitize Adopts Wormhole for Tokenized Assets Cross-Chain Interoperability]]></title>
+            <title><![CDATA[Securitize Adopts Wormhole for Tokenized Assets Cross-Chain Interoperability ]]></title>
             <link>https://www.coinspeaker.com/securitize-adopts-wormhole-for-tokenized-assets-cross-chain-interoperability/</link>
             <guid>rssapp_8dfe145b33a7811a37a2e7df3867f544</guid>
             <pubDate>Tue, 28 Jan 2025 19:17:19 GMT</pubDate>
