@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 30 Apr 2025 17:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 18:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Mercado Bitcoin taps Wormhole to scale $200m in tokenized assets]]></title>
+            <link>https://crypto.news/mercado-bitcoin-taps-wormhole-to-scale-200m-in-tokenized-assets/</link>
+            <guid>rssapp_6d57594e72f5e2dfb292dff5c1cff1b6</guid>
+            <pubDate>Wed, 30 Apr 2025 15:58:00 GMT</pubDate>
+            <description><![CDATA[Mercado Bitcoin, Brazil’s largest crypto exchange, announced on Wednesday a new partnership with Wormhole to expand the reach of its tokenized financial assets.]]></description>
+            <content:encoded><![CDATA[<div><div>Mercado Bitcoin, Brazil’s largest crypto exchange, announced on Wednesday a new partnership with Wormhole to expand the reach of its tokenized financial assets.</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
@@ -235,15 +244,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <pubDate>Fri, 17 Jan 2025 20:59:20 GMT</pubDate>
             <description><![CDATA[Donald Trump’s inauguration portends a new age for crypto, Cathy Yoon, General Counsel at Wormhole Foundation says]]></description>
             <content:encoded><![CDATA[<div><div>Donald Trump’s inauguration portends a new age for crypto, Cathy Yoon, General Counsel at Wormhole Foundation says</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Bio Protocol expands to Solana as its price crash continues]]></title>
-            <link>https://crypto.news/bio-protocol-expands-to-solana-as-its-price-crash-continues/</link>
-            <guid>rssapp_9798b6c04d1d9efcada7ae460da7b0a1</guid>
-            <pubDate>Thu, 09 Jan 2025 14:29:02 GMT</pubDate>
-            <description><![CDATA[Newly launched Bio Protocol price continued its strong downtrend even after expanding to the Solana ecosystem through Wormhole]]></description>
-            <content:encoded><![CDATA[<div><div>Newly launched Bio Protocol price continued its strong downtrend even after expanding to the Solana ecosystem through Wormhole</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
         </item>
     </channel>
