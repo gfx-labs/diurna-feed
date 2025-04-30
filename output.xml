@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 30 Apr 2025 21:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 22:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -26,6 +26,15 @@
             <description><![CDATA[Mercado Bitcoin, Brazil’s largest crypto exchange, announced on Wednesday a new partnership with Wormhole to expand the reach of its tokenized financial assets.]]></description>
             <content:encoded><![CDATA[<div><div>Mercado Bitcoin, Brazil’s largest crypto exchange, announced on Wednesday a new partnership with Wormhole to expand the reach of its tokenized financial assets.</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
+        </item>
+        <item>
+            <title><![CDATA[Mercado Bitcoin and Wormhole Form Exclusive Partnership to Scale $200M+ Tokenized Asset Platform Globally]]></title>
+            <link>https://www.prnewswire.com/news-releases/mercado-bitcoin-and-wormhole-form-exclusive-partnership-to-scale-200m-tokenized-asset-platform-globally-302442088.html</link>
+            <guid>rssapp_2771436b23d98f08a077db69251b95f7</guid>
+            <pubDate>Wed, 30 Apr 2025 15:30:00 GMT</pubDate>
+            <description><![CDATA[/PRNewswire/ -- MB | Mercado Bitcoin, the largest crypto exchange in Brazil and one of the leading digital asset platforms in Latin America, has selected...]]></description>
+            <content:encoded><![CDATA[<div><div>/PRNewswire/ -- MB | Mercado Bitcoin, the largest crypto exchange in Brazil and one of the leading digital asset platforms in Latin America, has selected...</div></div>]]></content:encoded>
+            <author>PRNewswire (PRNewswire)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
@@ -236,15 +245,6 @@ Hey crypto friends! 👋 Wormhole (W) has been on a bullish run lately, and it l
 What's the Big Picture?
 If you look at the bigger pictu</div></div>]]></content:encoded>
             <author>Binance Square (Binance Square)</author>
-        </item>
-        <item>
-            <title><![CDATA[Trump ushers in new age for crypto, Wormhole Foundation’s Cathy Yoon says ]]></title>
-            <link>https://coinmarketcap.com/academy/article/927dcdba-181e-4351-9f6e-00f3464b1070</link>
-            <guid>rssapp_4e61b9c5dc716d8c98556cb8f34e71a6</guid>
-            <pubDate>Fri, 17 Jan 2025 21:04:48 GMT</pubDate>
-            <description><![CDATA[Donald Trump’s inauguration as the 47th U.S. president is expected to usher in a new era for cryptocurrencies, according to Wormhole Foundation general counsel Cathy Yoon. Trump officially takes office on Jan. 20, and his campaign pledges, coupled with his…]]></description>
-            <content:encoded><![CDATA[<div><div>Donald Trump’s inauguration as the 47th U.S. president is expected to usher in a new era for cryptocurrencies, according to Wormhole Foundation general counsel Cathy Yoon. Trump officially takes office on Jan. 20, and his campaign pledges, coupled with his…</div></div>]]></content:encoded>
-            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
         </item>
     </channel>
 </rss>
