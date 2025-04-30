@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 30 Apr 2025 20:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 21:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Brazilian Crypto Exchange Mercado Bitcoin Integrates Wormhole]]></title>
+            <link>https://www.cryptotimes.io/2025/05/01/brazilian-crypto-exchange-mercado-bitcoin-integrates-wormhole/</link>
+            <guid>rssapp_d0bc985586d24353b2cc1009914f0cc7</guid>
+            <pubDate>Wed, 30 Apr 2025 19:16:55 GMT</pubDate>
+            <description><![CDATA[Brazil’s largest crypto exchange Mercado Bitcoin has partnered with Wormhole to expand its tokenized asset offering and cross-chain capabilities.]]></description>
+            <content:encoded><![CDATA[<div><div>Brazil’s largest crypto exchange Mercado Bitcoin has partnered with Wormhole to expand its tokenized asset offering and cross-chain capabilities.</div></div>]]></content:encoded>
+            <author>The Crypto Times (The Crypto Times)</author>
+        </item>
         <item>
             <title><![CDATA[Mercado Bitcoin taps Wormhole to scale $200m in tokenized assets]]></title>
             <link>https://crypto.news/mercado-bitcoin-taps-wormhole-to-scale-200m-in-tokenized-assets/</link>
@@ -236,15 +245,6 @@ If you look at the bigger pictu</div></div>]]></content:encoded>
             <description><![CDATA[Donald Trump’s inauguration as the 47th U.S. president is expected to usher in a new era for cryptocurrencies, according to Wormhole Foundation general counsel Cathy Yoon. Trump officially takes office on Jan. 20, and his campaign pledges, coupled with his…]]></description>
             <content:encoded><![CDATA[<div><div>Donald Trump’s inauguration as the 47th U.S. president is expected to usher in a new era for cryptocurrencies, according to Wormhole Foundation general counsel Cathy Yoon. Trump officially takes office on Jan. 20, and his campaign pledges, coupled with his…</div></div>]]></content:encoded>
             <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
-        </item>
-        <item>
-            <title><![CDATA[Trump ushers in new age for crypto, Wormhole Foundation’s Cathy Yoon says]]></title>
-            <link>https://crypto.news/trump-ushers-in-new-age-for-crypto-wormhole-foundations-cathy-yoon-says/</link>
-            <guid>rssapp_ff62e21a6a3afc03bfd91f0045f08eae</guid>
-            <pubDate>Fri, 17 Jan 2025 20:59:20 GMT</pubDate>
-            <description><![CDATA[Donald Trump’s inauguration portends a new age for crypto, Cathy Yoon, General Counsel at Wormhole Foundation says]]></description>
-            <content:encoded><![CDATA[<div><div>Donald Trump’s inauguration portends a new age for crypto, Cathy Yoon, General Counsel at Wormhole Foundation says</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
