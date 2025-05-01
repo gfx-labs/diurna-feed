@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 01 May 2025 16:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 17:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -37,6 +37,15 @@
             <author>The Crypto Times (The Crypto Times)</author>
         </item>
         <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Wed, 30 Apr 2025 16:20:08 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
+        <item>
             <title><![CDATA[Mercado Bitcoin taps Wormhole to scale $200m in tokenized assets]]></title>
             <link>https://crypto.news/mercado-bitcoin-taps-wormhole-to-scale-200m-in-tokenized-assets/</link>
             <guid>rssapp_6d57594e72f5e2dfb292dff5c1cff1b6</guid>
@@ -53,15 +62,6 @@
             <description><![CDATA[/PRNewswire/ -- MB | Mercado Bitcoin, the largest crypto exchange in Brazil and one of the leading digital asset platforms in Latin America, has selected...]]></description>
             <content:encoded><![CDATA[<div><div>/PRNewswire/ -- MB | Mercado Bitcoin, the largest crypto exchange in Brazil and one of the leading digital asset platforms in Latin America, has selected...</div></div>]]></content:encoded>
             <author>PRNewswire (PRNewswire)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Sun, 27 Apr 2025 15:23:30 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Top Crypto Gainers Today Apr 3 - DeXe, Story, Wormhole, dForce ]]></title>
