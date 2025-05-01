@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 01 May 2025 12:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 13:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
+            <link>https://www.msn.com/en-us/money/other/wormhole-backed-tokenized-assets-touch-3b-as-mercado-bitcoin-readies-to-onboard-200m/ar-AA1DZ8xW?ocid</link>
+            <guid>rssapp_7046ddfa9be4b674f5c810c74e7df20f</guid>
+            <pubDate>Thu, 01 May 2025 11:55:43 GMT</pubDate>
+            <description><![CDATA[Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]</div></div>]]></content:encoded>
+            <author>msn (msn)</author>
+        </item>
         <item>
             <title><![CDATA[Mercado Bitcoin Partners With Wormhole To Scale $200M Tokenized Assets]]></title>
             <link>https://www.tronweekly.com/mercado-bitcoin-partners-with-wormhole/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Securitize, a tokenization platform backed by BlackRock, has integrated Wormhole as primary interoperability protocol]]></description>
             <content:encoded><![CDATA[<div><div>Securitize, a tokenization platform backed by BlackRock, has integrated Wormhole as primary interoperability protocol</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Overview ]]></title>
-            <link>https://coinmarketcap.com/academy/article/fd8821cb-df97-4ae8-bdb6-ae019c48f829</link>
-            <guid>rssapp_c74a02ce50a7afdfe636dd742d22595a</guid>
-            <pubDate>Mon, 20 Jan 2025 20:32:31 GMT</pubDate>
-            <description><![CDATA[Overview of Wormhole's cross chain infrastructure solution and ecosystem activity]]></description>
-            <content:encoded><![CDATA[<div><div>Overview of Wormhole's cross chain infrastructure solution and ecosystem activity</div></div>]]></content:encoded>
-            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
         </item>
     </channel>
 </rss>
