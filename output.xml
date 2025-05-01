@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 01 May 2025 03:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 04:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Mercado Bitcoin Partners With Wormhole To Scale $200M Tokenized Assets]]></title>
+            <link>https://www.tronweekly.com/mercado-bitcoin-partners-with-wormhole/</link>
+            <guid>rssapp_361d127b17a8cc5b04d8a49ab9b73755</guid>
+            <pubDate>Thu, 01 May 2025 01:30:00 GMT</pubDate>
+            <description><![CDATA[Mercado Bitcoin partners with Wormhole to scale over $200M in tokenized assets, unlock fresh liquidity and boost blockchain access.]]></description>
+            <content:encoded><![CDATA[<div><div>Mercado Bitcoin partners with Wormhole to scale over $200M in tokenized assets, unlock fresh liquidity and boost blockchain access.</div></div>]]></content:encoded>
+            <author>TronWeekly (TronWeekly)</author>
+        </item>
         <item>
             <title><![CDATA[Brazilian Crypto Exchange Mercado Bitcoin Integrates Wormhole]]></title>
             <link>https://www.cryptotimes.io/2025/05/01/brazilian-crypto-exchange-mercado-bitcoin-integrates-wormhole/</link>
@@ -224,27 +233,6 @@
             <description><![CDATA[Overview of Wormhole's cross chain infrastructure solution and ecosystem activity]]></description>
             <content:encoded><![CDATA[<div><div>Overview of Wormhole's cross chain infrastructure solution and ecosystem activity</div></div>]]></content:encoded>
             <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole (W): Riding the Bull Wave 🐂]]></title>
-            <link>https://www.binance.com/en/square/post/19128406584217</link>
-            <guid>rssapp_a1f9888e934812fb2cf8b70836bcb329</guid>
-            <pubDate>Sun, 19 Jan 2025 01:49:29 GMT</pubDate>
-            <description><![CDATA[$W 
-
- 
-
-Hey crypto friends! 👋 Wormhole (W) has been on a bullish run lately, and it looks like it might be ready for another wave of growth! 📈
-What's the Big Picture?
-If you look at the bigger pictu]]></description>
-            <content:encoded><![CDATA[<div><div>$W 
-
- 
-
-Hey crypto friends! 👋 Wormhole (W) has been on a bullish run lately, and it looks like it might be ready for another wave of growth! 📈
-What's the Big Picture?
-If you look at the bigger pictu</div></div>]]></content:encoded>
-            <author>Binance Square (Binance Square)</author>
         </item>
     </channel>
 </rss>
