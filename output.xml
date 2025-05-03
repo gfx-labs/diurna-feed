@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 03 May 2025 05:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 06:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -35,6 +35,15 @@
             <description><![CDATA[Brazil’s largest crypto exchange Mercado Bitcoin has partnered with Wormhole to expand its tokenized asset offering and cross-chain capabilities.]]></description>
             <content:encoded><![CDATA[<div><div>Brazil’s largest crypto exchange Mercado Bitcoin has partnered with Wormhole to expand its tokenized asset offering and cross-chain capabilities.</div></div>]]></content:encoded>
             <author>The Crypto Times (The Crypto Times)</author>
+        </item>
+        <item>
+            <title><![CDATA[Mercado Bitcoin partners with Wormhole to expand tokenized asset reach ]]></title>
+            <link>https://invezz.com/news/2025/04/30/mercado-bitcoin-partners-with-wormhole-to-expand-tokenized-asset-reach/</link>
+            <guid>rssapp_a938ff8ba1223d76df4ddeb64d2acfb8</guid>
+            <pubDate>Wed, 30 Apr 2025 17:11:42 GMT</pubDate>
+            <description><![CDATA[Mercado Bitcoin has announced a partnership with Wormhole to drive the expansion of more than $200 million in tokenised financial assets.]]></description>
+            <content:encoded><![CDATA[<div><div>Mercado Bitcoin has announced a partnership with Wormhole to drive the expansion of more than $200 million in tokenised financial assets.</div></div>]]></content:encoded>
+            <author>Invezz (Invezz)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Securitize, a real-world asset tokenization platform partnered with BlackRock and Hamilton Lane, has announced its integration with the interoperability protocol Wormhole. Integrating Wormhole (W) as its primary interoperability solution, Securitize can now offer cross-chain supp...]]></description>
             <content:encoded><![CDATA[<div><div>Securitize, a real-world asset tokenization platform partnered with BlackRock and Hamilton Lane, has announced its integration with the interoperability protocol Wormhole. Integrating Wormhole (W) as its primary interoperability solution, Securitize can now offer cross-chain supp...</div></div>]]></content:encoded>
             <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
-        </item>
-        <item>
-            <title><![CDATA[Securitize taps Wormhole as primary interoperability solution]]></title>
-            <link>https://crypto.news/securitize-taps-wormhole-as-primary-interoperability-solution/</link>
-            <guid>rssapp_de8dd356c8d8bde0c42c00701a7b74e7</guid>
-            <pubDate>Tue, 28 Jan 2025 17:05:12 GMT</pubDate>
-            <description><![CDATA[Securitize, a tokenization platform backed by BlackRock, has integrated Wormhole as primary interoperability protocol]]></description>
-            <content:encoded><![CDATA[<div><div>Securitize, a tokenization platform backed by BlackRock, has integrated Wormhole as primary interoperability protocol</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
