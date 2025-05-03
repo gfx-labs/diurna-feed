@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 03 May 2025 11:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 12:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -172,6 +172,15 @@
             <author>Ainvest (Ainvest)</author>
         </item>
         <item>
+            <title><![CDATA[Crypto Trader Says One Solana-Based Altcoin Primed for a Breakout in Coming Weeks, Updates Outlook on Bitcoin ]]></title>
+            <link>https://dailyhodl.com/2025/02/14/crypto-trader-says-one-solana-based-altcoin-primed-for-a-breakout-in-coming-weeks-updates-outlook-on-bitcoin/</link>
+            <guid>rssapp_e06a34db64898100e5513f6ae9f1453b</guid>
+            <pubDate>Fri, 14 Feb 2025 15:30:46 GMT</pubDate>
+            <description><![CDATA[Analyst and trader Michaël van de Poppe says one Solana (SOL)-based altcoin may be gearing up for a breakout.]]></description>
+            <content:encoded><![CDATA[<div><div>Analyst and trader Michaël van de Poppe says one Solana (SOL)-based altcoin may be gearing up for a breakout.</div></div>]]></content:encoded>
+            <author>The Daily Hodl (The Daily Hodl)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole Price Prediction 2025: Further Declines on the Horizon]]></title>
             <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
             <guid>rssapp_1f7f0759ddbc39ea6a074ac974989b1a</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Securitize, managing over $1.5 billion in tokenized assets, has chosen Wormhole for cross-chain interoperability.]]></description>
             <content:encoded><![CDATA[<div><div>Securitize, managing over $1.5 billion in tokenized assets, has chosen Wormhole for cross-chain interoperability.</div></div>]]></content:encoded>
             <author>Coinspeaker (Coinspeaker)</author>
-        </item>
-        <item>
-            <title><![CDATA[Securitize taps Wormhole as primary interoperability solution ]]></title>
-            <link>https://coinmarketcap.com/academy/article/710cf8df-1aa3-455d-87d2-d66d2e4d8212</link>
-            <guid>rssapp_4e979b0dea8ef1c7e8a64aa83fa9ecad</guid>
-            <pubDate>Tue, 28 Jan 2025 17:09:24 GMT</pubDate>
-            <description><![CDATA[Securitize, a real-world asset tokenization platform partnered with BlackRock and Hamilton Lane, has announced its integration with the interoperability protocol Wormhole. Integrating Wormhole (W) as its primary interoperability solution, Securitize can now offer cross-chain supp...]]></description>
-            <content:encoded><![CDATA[<div><div>Securitize, a real-world asset tokenization platform partnered with BlackRock and Hamilton Lane, has announced its integration with the interoperability protocol Wormhole. Integrating Wormhole (W) as its primary interoperability solution, Securitize can now offer cross-chain supp...</div></div>]]></content:encoded>
-            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
         </item>
     </channel>
 </rss>
