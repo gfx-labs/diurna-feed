@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 03 May 2025 16:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 17:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -59,8 +59,8 @@
             <link>https://crypto.news/mercado-bitcoin-taps-wormhole-to-scale-200m-in-tokenized-assets/</link>
             <guid>rssapp_6d57594e72f5e2dfb292dff5c1cff1b6</guid>
             <pubDate>Wed, 30 Apr 2025 15:58:00 GMT</pubDate>
-            <description><![CDATA[Mercado Bitcoin, Brazil’s largest crypto exchange, announced on Wednesday a new partnership with Wormhole to expand the reach of its tokenized financial assets.]]></description>
-            <content:encoded><![CDATA[<div><div>Mercado Bitcoin, Brazil’s largest crypto exchange, announced on Wednesday a new partnership with Wormhole to expand the reach of its tokenized financial assets.</div></div>]]></content:encoded>
+            <description><![CDATA[Mercado Bitcoin teams up with Wormhole to scale $200m in tokenized financial assets across 30+ chains, targeting greater liquidity, transparency, and global reach for private credit markets]]></description>
+            <content:encoded><![CDATA[<div><div>Mercado Bitcoin teams up with Wormhole to scale $200m in tokenized financial assets across 30+ chains, targeting greater liquidity, transparency, and global reach for private credit markets</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
         </item>
         <item>
