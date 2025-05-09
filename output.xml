@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 09 May 2025 07:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 08:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole (W) Shows Bullish W Pattern: Trading Setup and Fundamentals Analysis ]]></title>
+            <link>https://blockchain.news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis</link>
+            <guid>rssapp_b57fb73a593642aa975458c8a242efe9</guid>
+            <pubDate>Fri, 09 May 2025 06:21:07 GMT</pubDate>
+            <description><![CDATA[According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro]]></description>
+            <content:encoded><![CDATA[<div><div>According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro</div></div>]]></content:encoded>
+            <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis (https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
             <link>https://www.msn.com/en-us/money/other/wormhole-backed-tokenized-assets-touch-3b-as-mercado-bitcoin-readies-to-onboard-200m/ar-AA1DZ8xW?ocid</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[The overall feeling in the market was positive from the close of October 2024 until the beginning of this year. Last month, Bitcoin (BTC) rose [...]]]></description>
             <content:encoded><![CDATA[<div><div>The overall feeling in the market was positive from the close of October 2024 until the beginning of this year. Last month, Bitcoin (BTC) rose [...]</div></div>]]></content:encoded>
             <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
-        </item>
-        <item>
-            <title><![CDATA[Securitize Adopts Wormhole for Tokenized Assets Cross-Chain Interoperability ]]></title>
-            <link>https://www.coinspeaker.com/securitize-adopts-wormhole-for-tokenized-assets-cross-chain-interoperability/</link>
-            <guid>rssapp_8dfe145b33a7811a37a2e7df3867f544</guid>
-            <pubDate>Tue, 28 Jan 2025 19:17:19 GMT</pubDate>
-            <description><![CDATA[Securitize, managing over $1.5 billion in tokenized assets, has chosen Wormhole for cross-chain interoperability.]]></description>
-            <content:encoded><![CDATA[<div><div>Securitize, managing over $1.5 billion in tokenized assets, has chosen Wormhole for cross-chain interoperability.</div></div>]]></content:encoded>
-            <author>Coinspeaker (Coinspeaker)</author>
         </item>
     </channel>
 </rss>
