@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 09 May 2025 17:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 18:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro]]></description>
             <content:encoded><![CDATA[<div><div>According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro</div></div>]]></content:encoded>
             <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis (https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Thu, 08 May 2025 17:47:52 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
@@ -53,15 +62,6 @@
             <description><![CDATA[Mercado Bitcoin has announced a partnership with Wormhole to drive the expansion of more than $200 million in tokenised financial assets.]]></description>
             <content:encoded><![CDATA[<div><div>Mercado Bitcoin has announced a partnership with Wormhole to drive the expansion of more than $200 million in tokenised financial assets.</div></div>]]></content:encoded>
             <author>Invezz (Invezz)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Wed, 30 Apr 2025 16:20:08 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Mercado Bitcoin taps Wormhole to scale $200m in tokenized assets]]></title>
