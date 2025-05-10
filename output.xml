@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 10 May 2025 02:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 May 2025 03:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[SEC's Hester Peirce wants crypto sandbox: Wormhole legal chief has concerns]]></title>
+            <link>https://crypto.news/secs-hester-peirce-wants-crypto-sandbox-wormhole-legal-chief-has-concerns/</link>
+            <guid>rssapp_5d01d7c74292b6ad15f895e6519c0c28</guid>
+            <pubDate>Fri, 09 May 2025 19:57:13 GMT</pubDate>
+            <description><![CDATA[Hester Pierce has long been an advocate of regulatory sandboxes for crypto. However, Wormhole legal chief believes there are risks.]]></description>
+            <content:encoded><![CDATA[<div><div>Hester Pierce has long been an advocate of regulatory sandboxes for crypto. However, Wormhole legal chief believes there are risks.</div></div>]]></content:encoded>
+            <author>crypto news (crypto news)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole (W) Shows Bullish W Pattern: Trading Setup and Fundamentals Analysis ]]></title>
             <link>https://blockchain.news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole (W) is sitting at $0.2505, but that might not last much longer. Some predictions say it could updive 223.37% to $0.796091...]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole (W) is sitting at $0.2505, but that might not last much longer. Some predictions say it could updive 223.37% to $0.796091...</div></div>]]></content:encoded>
             <author>Coinfomania (Coinfomania)</author>
-        </item>
-        <item>
-            <title><![CDATA[Next Cryptocurrency to Explode, 29 January — Wormhole, dogwifhat, Jito, Bio Protocol ]]></title>
-            <link>https://coinmarketcap.com/academy/article/af24949d-3f91-48d7-bbb9-e502d5f38f52</link>
-            <guid>rssapp_741549e8e27e6c7717037dedde36b406</guid>
-            <pubDate>Wed, 29 Jan 2025 16:04:38 GMT</pubDate>
-            <description><![CDATA[The overall feeling in the market was positive from the close of October 2024 until the beginning of this year. Last month, Bitcoin (BTC) rose [...]]]></description>
-            <content:encoded><![CDATA[<div><div>The overall feeling in the market was positive from the close of October 2024 until the beginning of this year. Last month, Bitcoin (BTC) rose [...]</div></div>]]></content:encoded>
-            <author>CoinMarketCap Academy (CoinMarketCap Academy)</author>
         </item>
     </channel>
 </rss>
