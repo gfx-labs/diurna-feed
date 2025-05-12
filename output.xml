@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 12 May 2025 18:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 19:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
+            <link>https://www.coingecko.com/en/coins/wormhole</link>
+            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
+            <pubDate>Sun, 11 May 2025 18:28:23 GMT</pubDate>
+            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
+            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
+            <author>CoinGecko (CoinGecko)</author>
+        </item>
         <item>
             <title><![CDATA[SEC's Hester Peirce wants crypto sandbox: Wormhole legal chief has concerns]]></title>
             <link>https://crypto.news/secs-hester-peirce-wants-crypto-sandbox-wormhole-legal-chief-has-concerns/</link>
@@ -26,15 +35,6 @@
             <description><![CDATA[According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro]]></description>
             <content:encoded><![CDATA[<div><div>According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro</div></div>]]></content:encoded>
             <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis (https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
-            <link>https://www.coingecko.com/en/coins/wormhole</link>
-            <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Thu, 08 May 2025 17:47:52 GMT</pubDate>
-            <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
-            <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
-            <author>CoinGecko (CoinGecko)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
@@ -89,6 +89,15 @@
             <description><![CDATA[/PRNewswire/ -- MB | Mercado Bitcoin, the largest crypto exchange in Brazil and one of the leading digital asset platforms in Latin America, has selected...]]></description>
             <content:encoded><![CDATA[<div><div>/PRNewswire/ -- MB | Mercado Bitcoin, the largest crypto exchange in Brazil and one of the leading digital asset platforms in Latin America, has selected...</div></div>]]></content:encoded>
             <author>PRNewswire (PRNewswire)</author>
+        </item>
+        <item>
+            <title><![CDATA[Centrifuge Taps Wormhole to Launch Multichain Tokenization Platform]]></title>
+            <link>https://www.coindesk.com/markets/2025/04/10/centrifuge-taps-wormhole-to-launch-multichain-tokenization-platform</link>
+            <guid>rssapp_db69b841954fa647553ba0b3f182c32c</guid>
+            <pubDate>Thu, 10 Apr 2025 15:27:26 GMT</pubDate>
+            <description><![CDATA[Centrifuge V3 aims to unify real-world asset tokenization across blockchains, and is starting with the $230 million Janus Henderson Anemoy Treasury Fund.]]></description>
+            <content:encoded><![CDATA[<div><div>Centrifuge V3 aims to unify real-world asset tokenization across blockchains, and is starting with the $230 million Janus Henderson Anemoy Treasury Fund.</div></div>]]></content:encoded>
+            <author>CoinDesk (CoinDesk)</author>
         </item>
         <item>
             <title><![CDATA[Top Crypto Gainers Today Apr 3 - DeXe, Story, Wormhole, dForce ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[FXGuys shines with its innovative offerings, raising $3.8M in Stage 2 presale, as Wormhole and Tron fail to meet expectations.]]></description>
             <content:encoded><![CDATA[<div><div>FXGuys shines with its innovative offerings, raising $3.8M in Stage 2 presale, as Wormhole and Tron fail to meet expectations.</div></div>]]></content:encoded>
             <author>TronWeekly (TronWeekly)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole (W) Price Prediction for 2025: Will Wormhole Explode Past $1 This Year?]]></title>
-            <link>https://coinfomania.com/wormhole-w-price-prediction-for-2025-will-wormhole-explode-past-1-this-year/</link>
-            <guid>rssapp_27acd3b73de1305d9e1e1a1b95c3e5c9</guid>
-            <pubDate>Fri, 31 Jan 2025 16:27:58 GMT</pubDate>
-            <description><![CDATA[Wormhole (W) is sitting at $0.2505, but that might not last much longer. Some predictions say it could updive 223.37% to $0.796091...]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole (W) is sitting at $0.2505, but that might not last much longer. Some predictions say it could updive 223.37% to $0.796091...</div></div>]]></content:encoded>
-            <author>Coinfomania (Coinfomania)</author>
         </item>
     </channel>
 </rss>
