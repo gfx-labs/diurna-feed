@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 19 May 2025 01:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 02:38:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -35,6 +35,15 @@
             <description><![CDATA[According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro]]></description>
             <content:encoded><![CDATA[<div><div>According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro</div></div>]]></content:encoded>
             <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis (https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
+            <link>https://www.msn.com/en-us/money/other/wormhole-backed-tokenized-assets-touch-3b-as-mercado-bitcoin-readies-to-onboard-200m/ar-AA1DZ8xW</link>
+            <guid>rssapp_59f17a35b4669b9374809fca8f2edd57</guid>
+            <pubDate>Thu, 01 May 2025 11:55:43 GMT</pubDate>
+            <description><![CDATA[Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]</div></div>]]></content:encoded>
+            <author>msn (msn)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole (W) price plunges 90% annually, hitting an all-time low. With only 1% of holders in profit, can it rebound or decline again?]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole (W) price plunges 90% annually, hitting an all-time low. With only 1% of holders in profit, can it rebound or decline again?</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
-        </item>
-        <item>
-            <title><![CDATA[FXGuys Emerges As Top Altcoin While Wormhole And Tron Falter]]></title>
-            <link>https://www.tronweekly.com/fxguys-shatters-expectations-while-wormhole-and-tron-fizzle-out/</link>
-            <guid>rssapp_92cbb0748d21307b467680918dcc863c</guid>
-            <pubDate>Tue, 11 Feb 2025 23:30:00 GMT</pubDate>
-            <description><![CDATA[FXGuys shines with its innovative offerings, raising $3.8M in Stage 2 presale, as Wormhole and Tron fail to meet expectations.]]></description>
-            <content:encoded><![CDATA[<div><div>FXGuys shines with its innovative offerings, raising $3.8M in Stage 2 presale, as Wormhole and Tron fail to meet expectations.</div></div>]]></content:encoded>
-            <author>TronWeekly (TronWeekly)</author>
         </item>
     </channel>
 </rss>
