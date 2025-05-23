@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 23 May 2025 09:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 10:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Integrates $36B Dogecoin to Solana: Details]]></title>
+            <link>https://thecryptobasic.com/2025/05/23/wormhole-integrates-36b-dogecoin-to-solana-details/</link>
+            <guid>rssapp_bdff89b6a4da11396a324686eea120f4</guid>
+            <pubDate>Fri, 23 May 2025 09:21:20 GMT</pubDate>
+            <description><![CDATA[Leading cross-chain interoperability network Wormhole has developed the first trustless bridge linking Dogecoin to the Solana ecosystem.]]></description>
+            <content:encoded><![CDATA[<div><div>Leading cross-chain interoperability network Wormhole has developed the first trustless bridge linking Dogecoin to the Solana ecosystem.</div></div>]]></content:encoded>
+            <author>The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News (The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
@@ -223,15 +232,6 @@
             <pubDate>Wed, 12 Feb 2025 14:18:51 GMT</pubDate>
             <description><![CDATA[Wormhole price predictions from our experts suggest the W price could drop from $0.175 to $0.096 soon. Read on to find out more.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole price predictions from our experts suggest the W price could drop from $0.175 to $0.096 soon. Read on to find out more.</div></div>]]></content:encoded>
-            <author>ccn (ccn)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole (W) Price Hits Historic Low, Leaving 96% of Holders in the Red]]></title>
-            <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-historic-low-holders-in-red/</link>
-            <guid>rssapp_4c603e640db63a850500e7906812af70</guid>
-            <pubDate>Wed, 12 Feb 2025 13:59:22 GMT</pubDate>
-            <description><![CDATA[Wormhole (W) price plunges 90% annually, hitting an all-time low. With only 1% of holders in profit, can it rebound or decline again?]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole (W) price plunges 90% annually, hitting an all-time low. With only 1% of holders in profit, can it rebound or decline again?</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
         </item>
     </channel>
