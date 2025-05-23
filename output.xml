@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 23 May 2025 18:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 19:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Integrates DOGE into Solana’s Crypto Ecosystem]]></title>
+            <link>https://www.cryptotimes.io/2025/05/23/wormhole-integrates-doge-into-solanas-crypto-ecosystem/</link>
+            <guid>rssapp_693a26027a6c1be765f4a15307879251</guid>
+            <pubDate>Fri, 23 May 2025 12:14:25 GMT</pubDate>
+            <description><![CDATA[Wormhole connects Dogecoin to Solana, evolving liquidity &amp; growth potential in a $35B ecosystem with seamless blockchain integration.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole connects Dogecoin to Solana, evolving liquidity &amp; growth potential in a $35B ecosystem with seamless blockchain integration.</div></div>]]></content:encoded>
+            <author>The Crypto Times (The Crypto Times)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Integrates $36B Dogecoin to Solana: Details]]></title>
             <link>https://thecryptobasic.com/2025/05/23/wormhole-integrates-36b-dogecoin-to-solana-details/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Analyst and trader Michaël van de Poppe says one Solana (SOL)-based altcoin may be gearing up for a breakout.]]></description>
             <content:encoded><![CDATA[<div><div>Analyst and trader Michaël van de Poppe says one Solana (SOL)-based altcoin may be gearing up for a breakout.</div></div>]]></content:encoded>
             <author>The Daily Hodl (The Daily Hodl)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price Prediction 2025: Further Declines on the Horizon]]></title>
-            <link>https://www.ccn.com/analysis/crypto/wormhole-w-price-prediction/</link>
-            <guid>rssapp_1f7f0759ddbc39ea6a074ac974989b1a</guid>
-            <pubDate>Wed, 12 Feb 2025 14:18:51 GMT</pubDate>
-            <description><![CDATA[Wormhole price predictions from our experts suggest the W price could drop from $0.175 to $0.096 soon. Read on to find out more.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole price predictions from our experts suggest the W price could drop from $0.175 to $0.096 soon. Read on to find out more.</div></div>]]></content:encoded>
-            <author>ccn (ccn)</author>
         </item>
     </channel>
 </rss>
