@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 24 May 2025 20:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 21:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -118,6 +118,15 @@
             <author>PRNewswire (PRNewswire)</author>
         </item>
         <item>
+            <title><![CDATA[Top Crypto in 2025: Is AurealOne’s $DLUME the Next Big Token?]]></title>
+            <link>https://www.cryptotimes.io/sponsored/top-crypto-in-2025-is-aurealones-dlume-the-next-big-token/</link>
+            <guid>rssapp_1d7892613a414473cddb51ff8542541a</guid>
+            <pubDate>Fri, 18 Apr 2025 11:31:31 GMT</pubDate>
+            <description><![CDATA[Explore the top crypto projects of 2025—AurealOne, DexBoss, Wormhole, and Ronin—shaping the future of gaming, DeFi, and blockchain connectivity.]]></description>
+            <content:encoded><![CDATA[<div><div>Explore the top crypto projects of 2025—AurealOne, DexBoss, Wormhole, and Ronin—shaping the future of gaming, DeFi, and blockchain connectivity.</div></div>]]></content:encoded>
+            <author>The Crypto Times (The Crypto Times)</author>
+        </item>
+        <item>
             <title><![CDATA[Centrifuge Taps Wormhole to Launch Multichain Tokenization Platform]]></title>
             <link>https://www.coindesk.com/markets/2025/04/10/centrifuge-taps-wormhole-to-launch-multichain-tokenization-platform</link>
             <guid>rssapp_db69b841954fa647553ba0b3f182c32c</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA["Van de Poppe: Solana Altcoin Wormhole Poised for Breakout, Bitcoin's Explosive Move Awaits PPI Report"]]></description>
             <content:encoded><![CDATA[<div><div>"Van de Poppe: Solana Altcoin Wormhole Poised for Breakout, Bitcoin's Explosive Move Awaits PPI Report"</div></div>]]></content:encoded>
             <author>Ainvest (Ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Crypto Trader Says One Solana-Based Altcoin Primed for a Breakout in Coming Weeks, Updates Outlook on Bitcoin ]]></title>
-            <link>https://dailyhodl.com/2025/02/14/crypto-trader-says-one-solana-based-altcoin-primed-for-a-breakout-in-coming-weeks-updates-outlook-on-bitcoin/</link>
-            <guid>rssapp_e06a34db64898100e5513f6ae9f1453b</guid>
-            <pubDate>Fri, 14 Feb 2025 15:30:46 GMT</pubDate>
-            <description><![CDATA[Analyst and trader Michaël van de Poppe says one Solana (SOL)-based altcoin may be gearing up for a breakout.]]></description>
-            <content:encoded><![CDATA[<div><div>Analyst and trader Michaël van de Poppe says one Solana (SOL)-based altcoin may be gearing up for a breakout.</div></div>]]></content:encoded>
-            <author>The Daily Hodl (The Daily Hodl)</author>
         </item>
     </channel>
 </rss>
