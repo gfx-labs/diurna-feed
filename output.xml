@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 27 May 2025 21:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 22:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -181,6 +181,15 @@
             <author>BeInCrypto (BeInCrypto)</author>
         </item>
         <item>
+            <title><![CDATA[The future of finance is built on Bitcoin — Ethereum was just the testnet]]></title>
+            <link>https://www.tradingview.com/news/cointelegraph:5976c2d60094b:0-the-future-of-finance-is-built-on-bitcoin-ethereum-was-just-the-testnet/</link>
+            <guid>rssapp_36f1d4e201b14db90e4cac05f9ae8889</guid>
+            <pubDate>Sat, 29 Mar 2025 15:00:00 GMT</pubDate>
+            <description><![CDATA[Opinion by: Alisia Painter, chief operating officer of Botanix LabsWithout Ethereum, the industry wouldn’t be where it is today in terms of bringing decentralized finance (DeFi) to life, making programmability a key feature of blockchains and proving the value of smart contracts at scale. The Ether…]]></description>
+            <content:encoded><![CDATA[<div><div>Opinion by: Alisia Painter, chief operating officer of Botanix LabsWithout Ethereum, the industry wouldn’t be where it is today in terms of bringing decentralized finance (DeFi) to life, making programmability a key feature of blockchains and proving the value of smart contracts at scale. The Ether…</div></div>]]></content:encoded>
+            <author>TradingView (TradingView)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole Crypto Surges 21.5%, BTCBull Token Presale on Fire]]></title>
             <link>https://99bitcoins.com/news/presales/wormhole-w-gains-21-5-trading-volume-nears-700m-whats-fueling-the-w-price-pump/</link>
             <guid>rssapp_2487f0a827645fa2e80f619dcf2a7cc7</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA["CoinDesk Daily" host Jennifer Sanasie breaks down the biggest headlines impacting the crypto industry today, including Solana DeFi application Kamino offering a weekly yield of more than 999%, paid out in W and JTO tokens. Plus, VanEck predicts Ethereum layer 2 networks to be valued at over $1 trillion by 2030 and CFTC data shows that leveraged funds held record net short positions in CME's bitcoin futures last week. | Video]]></description>
             <content:encoded><![CDATA[<div><div>"CoinDesk Daily" host Jennifer Sanasie breaks down the biggest headlines impacting the crypto industry today, including Solana DeFi application Kamino offering a weekly yield of more than 999%, paid out in W and JTO tokens. Plus, VanEck predicts Ethereum layer 2 networks to be valued at over $1 trillion by 2030 and CFTC data shows that leveraged funds held record net short positions in CME's bitcoin futures last week. | Video</div></div>]]></content:encoded>
             <author>coindesk (coindesk)</author>
-        </item>
-        <item>
-            <title><![CDATA[Binance Completes Integrations of Hashflow (HFT) on Arbitrum One Network and Wormhole (W) on Ethereum Network, Opens Deposits and Withdrawals ]]></title>
-            <link>https://www.binance.com/en/support/announcement/detail/c6e08c3fb0d84dbc8c5ed412ae345b57</link>
-            <guid>rssapp_380379f1d741f2e29e08d776997c4f2e</guid>
-            <pubDate>Wed, 26 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.]]></description>
-            <content:encoded><![CDATA[<div><div>Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.</div></div>]]></content:encoded>
-            <author>Binance (Binance)</author>
         </item>
     </channel>
 </rss>
