@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 27 May 2025 07:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 08:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
             <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
             <author>CoinGecko (CoinGecko)</author>
+        </item>
+        <item>
+            <title><![CDATA[DOGE Comes to Solana via Wormhole ]]></title>
+            <link>https://www.altcoinbuzz.io/cryptocurrency-news/doge-comes-to-solana-via-wormhole/</link>
+            <guid>rssapp_be94e63186c1137ed0548ec4862f8db3</guid>
+            <pubDate>Fri, 23 May 2025 12:27:10 GMT</pubDate>
+            <description><![CDATA[Wormhole’s integration of DOGE into Solana isn’t just about adding another coin—it’s about leveling up utility and access across the board.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole’s integration of DOGE into Solana isn’t just about adding another coin—it’s about leveling up utility and access across the board.</div></div>]]></content:encoded>
+            <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Integrates DOGE into Solana’s Crypto Ecosystem]]></title>
@@ -35,6 +44,24 @@
             <description><![CDATA[Leading cross-chain interoperability network Wormhole has developed the first trustless bridge linking Dogecoin to the Solana ecosystem.]]></description>
             <content:encoded><![CDATA[<div><div>Leading cross-chain interoperability network Wormhole has developed the first trustless bridge linking Dogecoin to the Solana ecosystem.</div></div>]]></content:encoded>
             <author>The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News (The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News)</author>
+        </item>
+        <item>
+            <title><![CDATA[5 Best Cheap Cryptocurrencies to Buy Under 1 Dollar - Wormhole, Kusama, Arbitrum ]]></title>
+            <link>https://insidebitcoins.com/sponsored/5-best-cheap-cryptocurrencies-to-buy-under-1-dollar-wormhole-kusama-arbitrum</link>
+            <guid>rssapp_8f19e70cad4900bffff040be3650a566</guid>
+            <pubDate>Thu, 22 May 2025 11:01:30 GMT</pubDate>
+            <description><![CDATA[Discover the 5 best cryptocurrencies under 1 dollar with real potential, including Wormhole, Kusama, and Arbitrum rising through the noise.]]></description>
+            <content:encoded><![CDATA[<div><div>Discover the 5 best cryptocurrencies under 1 dollar with real potential, including Wormhole, Kusama, and Arbitrum rising through the noise.</div></div>]]></content:encoded>
+            <author>insidebitcoins (insidebitcoins)</author>
+        </item>
+        <item>
+            <title><![CDATA[Top Crypto Gainers Today May 14 - Wormhole, LayerZero, Axie Infinity, Vana ]]></title>
+            <link>https://insidebitcoins.com/sponsored/top-crypto-gainers-today-may-14-wormhole-layerzero-axie-infinity-vana</link>
+            <guid>rssapp_8ede864db1e82150e84c810cd30aded8</guid>
+            <pubDate>Wed, 14 May 2025 07:51:03 GMT</pubDate>
+            <description><![CDATA[Update your market knowledge with today's top crypto gainers: Wormhole, LayerZero, Axie Infinity, and Vana. Stay tuned as we dive in.]]></description>
+            <content:encoded><![CDATA[<div><div>Update your market knowledge with today's top crypto gainers: Wormhole, LayerZero, Axie Infinity, and Vana. Stay tuned as we dive in.</div></div>]]></content:encoded>
+            <author>insidebitcoins (insidebitcoins)</author>
         </item>
         <item>
             <title><![CDATA[SEC's Hester Peirce wants crypto sandbox: Wormhole legal chief has concerns]]></title>
@@ -172,6 +199,15 @@
             <author>crypto news (crypto news)</author>
         </item>
         <item>
+            <title><![CDATA[Next Cryptocurrency to See Explode, 13 March — Toshi, Brett (Based), aelf, Wormhole ]]></title>
+            <link>https://insidebitcoins.com/sponsored/next-cryptocurrency-to-see-explode-13-march-toshi-brett-based-aelf-wormhole</link>
+            <guid>rssapp_2c2de0a3b8b01076fb1ab69093d5b9e1</guid>
+            <pubDate>Thu, 13 Mar 2025 13:15:03 GMT</pubDate>
+            <description><![CDATA[Discover the next cryptocurrency to explode today, 13 March. Using today’s market data, find out what makes these tokens promising.]]></description>
+            <content:encoded><![CDATA[<div><div>Discover the next cryptocurrency to explode today, 13 March. Using today’s market data, find out what makes these tokens promising.</div></div>]]></content:encoded>
+            <author>insidebitcoins (insidebitcoins)</author>
+        </item>
+        <item>
             <title><![CDATA[Top Crypto Gainers Today March 13 - LayerZero, Berachain, Wormhole, Stacks ]]></title>
             <link>https://insidebitcoins.com/sponsored/top-crypto-gainers-today-march-13-layerzero-berachain-wormhole-stacks</link>
             <guid>rssapp_24d29a2a003856dbda80a29456d78255</guid>
@@ -197,42 +233,6 @@
             <description><![CDATA[Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.]]></description>
             <content:encoded><![CDATA[<div><div>Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.</div></div>]]></content:encoded>
             <author>Binance (Binance)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Crypto: Bridge the Gap in Cross-Chain Interoperability ]]></title>
-            <link>https://www.beraternews.net/news/wormhole-crypto-bridge-the-gap-in-cross-chain-interoperability/326/</link>
-            <guid>rssapp_74dcacad642d5bc51daba32f40497903</guid>
-            <pubDate>Tue, 25 Feb 2025 15:03:02 GMT</pubDate>
-            <description><![CDATA[A cross-chain bridge protocol enabling seamless asset transfers between blockchain networks.]]></description>
-            <content:encoded><![CDATA[<div><div>A cross-chain bridge protocol enabling seamless asset transfers between blockchain networks.</div></div>]]></content:encoded>
-            <author>beraternews (beraternews)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Expands Reach by Integrating with Unichain, Uniswap Labs' Ethereum L2]]></title>
-            <link>https://blockchain.news/news/wormhole-expands-reach-integrating-unichain-uniswap-labs-ethereum-l2</link>
-            <guid>rssapp_88f3b777e605cb52aa37caf06436557b</guid>
-            <pubDate>Fri, 21 Feb 2025 07:38:00 GMT</pubDate>
-            <description><![CDATA[Wormhole integrates with Unichain, facilitating seamless asset transfers across blockchains. This partnership enhances DeFi liquidity and offers developers efficient cross-chain solutions.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole integrates with Unichain, facilitating seamless asset transfers across blockchains. This partnership enhances DeFi liquidity and offers developers efficient cross-chain solutions.</div></div>]]></content:encoded>
-            <author>https://blockchain news/news/wormhole-expands-reach-integrating-unichain-uniswap-labs-ethereum-l2 (https://blockchain news/news/wormhole-expands-reach-integrating-unichain-uniswap-labs-ethereum-l2)</author>
-        </item>
-        <item>
-            <title><![CDATA[Binance Completes Integrations of Hashflow (HFT) on Arbitrum One Network and Wormhole (W) on Ethereum Network, Opens Deposits and Withdrawals ]]></title>
-            <link>https://www.binance.com/en/support/announcement/binance-completes-integrations-of-hashflow-hft-on-arbitrum-one-network-and-wormhole-w-on-ethereum-network-opens-deposits-and-withdrawals-c6e08c3fb0d84dbc8c5ed412ae345b57</link>
-            <guid>rssapp_c61cfeedae070b8ab14f49f942d843d8</guid>
-            <pubDate>Thu, 20 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.]]></description>
-            <content:encoded><![CDATA[<div><div>Binance has completed the integrations of Hashflow (HFT) on Arbitrum One network and Wormhole (W) on Ethereum (ERC20) network.</div></div>]]></content:encoded>
-            <author>Binance (Binance)</author>
-        </item>
-        <item>
-            <title><![CDATA["Van de Poppe: Solana Altcoin Wormhole Poised for Breakout, Bitcoin's Explosive Move Awaits PPI Report"]]></title>
-            <link>https://www.ainvest.com/news/van-de-poppe-solana-altcoin-wormhole-poised-breakout-bitcoin-explosive-move-awaits-ppi-report-2502/</link>
-            <guid>rssapp_06fe53d70a5a31c1a6c8e10752e19459</guid>
-            <pubDate>Fri, 14 Feb 2025 20:36:45 GMT</pubDate>
-            <description><![CDATA["Van de Poppe: Solana Altcoin Wormhole Poised for Breakout, Bitcoin's Explosive Move Awaits PPI Report"]]></description>
-            <content:encoded><![CDATA[<div><div>"Van de Poppe: Solana Altcoin Wormhole Poised for Breakout, Bitcoin's Explosive Move Awaits PPI Report"</div></div>]]></content:encoded>
-            <author>Ainvest (Ainvest)</author>
         </item>
     </channel>
 </rss>
