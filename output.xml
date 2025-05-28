@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 28 May 2025 04:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 05:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole ($W) Shows Bullish Divergence After Securing BlackRock, Apollo, and VanEck Partnerships – Key Altcoin Trading Insights ]]></title>
+            <link>https://blockchain.news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights</link>
+            <guid>rssapp_4bc18e73bd9a9fd9ec2ed0ece648a4e0</guid>
+            <pubDate>Tue, 27 May 2025 08:55:00 GMT</pubDate>
+            <description><![CDATA[According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The]]></description>
+            <content:encoded><![CDATA[<div><div>According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The</div></div>]]></content:encoded>
+            <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights (https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[LayerZero, Berachain, Wormhole, and Stacks lead today's top crypto gainers, surging as they reshape blockchain interoperability and DeFi.]]></description>
             <content:encoded><![CDATA[<div><div>LayerZero, Berachain, Wormhole, and Stacks lead today's top crypto gainers, surging as they reshape blockchain interoperability and DeFi.</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole’s W Token Has a 999% Weekly Return; Why VanEck Is Bullish on Ethereum Layer 2s ]]></title>
-            <link>https://www.coindesk.com/video/wormholes-w-token-has-a-999percent-weekly-return-why-vaneck-is-bullish-on-ethereum-layer-2s</link>
-            <guid>rssapp_1d4ffead102f8ce14104364ca78dc52a</guid>
-            <pubDate>Fri, 07 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA["CoinDesk Daily" host Jennifer Sanasie breaks down the biggest headlines impacting the crypto industry today, including Solana DeFi application Kamino offering a weekly yield of more than 999%, paid out in W and JTO tokens. Plus, VanEck predicts Ethereum layer 2 networks to be valued at over $1 trillion by 2030 and CFTC data shows that leveraged funds held record net short positions in CME's bitcoin futures last week. | Video]]></description>
-            <content:encoded><![CDATA[<div><div>"CoinDesk Daily" host Jennifer Sanasie breaks down the biggest headlines impacting the crypto industry today, including Solana DeFi application Kamino offering a weekly yield of more than 999%, paid out in W and JTO tokens. Plus, VanEck predicts Ethereum layer 2 networks to be valued at over $1 trillion by 2030 and CFTC data shows that leveraged funds held record net short positions in CME's bitcoin futures last week. | Video</div></div>]]></content:encoded>
-            <author>coindesk (coindesk)</author>
         </item>
     </channel>
 </rss>
