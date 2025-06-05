@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 05 Jun 2025 00:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 01:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -136,6 +136,15 @@
             <author>Invezz (Invezz)</author>
         </item>
         <item>
+            <title><![CDATA[Brazil’s largest crypto exchange Mercado Bitcoin taps Wormhole to bring tokenized products cross-chain]]></title>
+            <link>https://www.theblock.co/post/352596/crypto-exchange-mercado-bitcoin-wormhole-tokenized-assets-cross-chain</link>
+            <guid>rssapp_7f9475a7a46216d874952485f9d7556b</guid>
+            <pubDate>Wed, 30 Apr 2025 16:26:37 GMT</pubDate>
+            <description><![CDATA[Cross-chain bridge Wormhole will enable Mercado Bitcoin to bring its suite of tokenized products to over 30 blockchains.]]></description>
+            <content:encoded><![CDATA[<div><div>Cross-chain bridge Wormhole will enable Mercado Bitcoin to bring its suite of tokenized products to over 30 blockchains.</div></div>]]></content:encoded>
+            <author>The Block (The Block)</author>
+        </item>
+        <item>
             <title><![CDATA[Mercado Bitcoin taps Wormhole to scale $200m in tokenized assets]]></title>
             <link>https://crypto.news/mercado-bitcoin-taps-wormhole-to-scale-200m-in-tokenized-assets/</link>
             <guid>rssapp_6d57594e72f5e2dfb292dff5c1cff1b6</guid>
@@ -223,15 +232,6 @@
             <pubDate>Thu, 13 Mar 2025 13:15:03 GMT</pubDate>
             <description><![CDATA[Discover the next cryptocurrency to explode today, 13 March. Using today’s market data, find out what makes these tokens promising.]]></description>
             <content:encoded><![CDATA[<div><div>Discover the next cryptocurrency to explode today, 13 March. Using today’s market data, find out what makes these tokens promising.</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Top Crypto Gainers Today March 13 - LayerZero, Berachain, Wormhole, Stacks ]]></title>
-            <link>https://insidebitcoins.com/sponsored/top-crypto-gainers-today-march-13-layerzero-berachain-wormhole-stacks</link>
-            <guid>rssapp_24d29a2a003856dbda80a29456d78255</guid>
-            <pubDate>Thu, 13 Mar 2025 10:37:42 GMT</pubDate>
-            <description><![CDATA[LayerZero, Berachain, Wormhole, and Stacks lead today's top crypto gainers, surging as they reshape blockchain interoperability and DeFi.]]></description>
-            <content:encoded><![CDATA[<div><div>LayerZero, Berachain, Wormhole, and Stacks lead today's top crypto gainers, surging as they reshape blockchain interoperability and DeFi.</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
         </item>
     </channel>
