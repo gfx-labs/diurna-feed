@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 06 Jun 2025 11:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jun 2025 12:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -89,6 +89,15 @@
             <description><![CDATA[According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro]]></description>
             <content:encoded><![CDATA[<div><div>According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro</div></div>]]></content:encoded>
             <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis (https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
+            <link>https://www.mitrade.com/insights/news/live-news/article-3-794774-20250501</link>
+            <guid>rssapp_f1c5d7ae85f917cbaf95f44f3c0fdfe2</guid>
+            <pubDate>Thu, 01 May 2025 11:55:43 GMT</pubDate>
+            <description><![CDATA[Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]</div></div>]]></content:encoded>
+            <author>mitrade (mitrade)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[The crypto market shows signs of recovery while several altcoins including Wormhole (W), DIONE, and Magnetix (MAG) post double-digit gains in the past 24 hours.]]></description>
             <content:encoded><![CDATA[<div><div>The crypto market shows signs of recovery while several altcoins including Wormhole (W), DIONE, and Magnetix (MAG) post double-digit gains in the past 24 hours.</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Next Cryptocurrency to See Explode, 13 March — Toshi, Brett (Based), aelf, Wormhole ]]></title>
-            <link>https://insidebitcoins.com/sponsored/next-cryptocurrency-to-see-explode-13-march-toshi-brett-based-aelf-wormhole</link>
-            <guid>rssapp_2c2de0a3b8b01076fb1ab69093d5b9e1</guid>
-            <pubDate>Thu, 13 Mar 2025 13:15:03 GMT</pubDate>
-            <description><![CDATA[Discover the next cryptocurrency to explode today, 13 March. Using today’s market data, find out what makes these tokens promising.]]></description>
-            <content:encoded><![CDATA[<div><div>Discover the next cryptocurrency to explode today, 13 March. Using today’s market data, find out what makes these tokens promising.</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
         </item>
     </channel>
 </rss>
