@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 13 Jun 2025 06:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 07:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -172,6 +172,15 @@
             <author>PRNewswire (PRNewswire)</author>
         </item>
         <item>
+            <title><![CDATA[Next Cryptocurrency to Explode, 21 April — Conflux, Wormhole, Enjin Coin, EOS ]]></title>
+            <link>https://insidebitcoins.com/sponsored/next-cryptocurrency-to-explode-21-april-conflux-wormhole-enjin-coin-eos</link>
+            <guid>rssapp_0411a029e32551d9103b1cc7ac759a65</guid>
+            <pubDate>Mon, 21 Apr 2025 14:07:56 GMT</pubDate>
+            <description><![CDATA[Uncover the next cryptocurrency to explode shortly. Using the latest market data, discover what makes the tokens in our list promising.]]></description>
+            <content:encoded><![CDATA[<div><div>Uncover the next cryptocurrency to explode shortly. Using the latest market data, discover what makes the tokens in our list promising.</div></div>]]></content:encoded>
+            <author>insidebitcoins (insidebitcoins)</author>
+        </item>
+        <item>
             <title><![CDATA[Top Crypto in 2025: Is AurealOne’s $DLUME the Next Big Token?]]></title>
             <link>https://www.cryptotimes.io/sponsored/top-crypto-in-2025-is-aurealones-dlume-the-next-big-token/</link>
             <guid>rssapp_1d7892613a414473cddb51ff8542541a</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole crypto price rose 50% in 24 hours. BTCBULL token presale dominates. Is BTC Bull one of the best meme coins to buy in 2025?]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole crypto price rose 50% in 24 hours. BTCBULL token presale dominates. Is BTC Bull one of the best meme coins to buy in 2025?</div></div>]]></content:encoded>
             <author>99Bitcoins (99Bitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole jumps 42%, Dione surges 30%, Ethereum reclaims $2,000]]></title>
-            <link>https://crypto.news/wormhole-jumps-42-dione-surges-30-ethereum-reclaims-2000/</link>
-            <guid>rssapp_c6020641ecec8b85878982a633e4da58</guid>
-            <pubDate>Sun, 23 Mar 2025 14:00:00 GMT</pubDate>
-            <description><![CDATA[The crypto market shows signs of recovery while several altcoins including Wormhole (W), DIONE, and Magnetix (MAG) post double-digit gains in the past 24 hours.]]></description>
-            <content:encoded><![CDATA[<div><div>The crypto market shows signs of recovery while several altcoins including Wormhole (W), DIONE, and Magnetix (MAG) post double-digit gains in the past 24 hours.</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
