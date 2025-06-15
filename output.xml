@@ -4,16 +4,25 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 15 Jun 2025 03:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 04:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
         <item>
+            <title><![CDATA[Polygon Bridges POL Token to Solana with Wormhole Integration]]></title>
+            <link>https://www.cointrust.com/market-news/polygon-bridges-pol-token-to-solana-with-wormhole-integration</link>
+            <guid>rssapp_fe9f6bc680a345abc244d07fa2093bb9</guid>
+            <pubDate>Fri, 13 Jun 2025 09:40:43 GMT</pubDate>
+            <description><![CDATA[Polygon, a leading Layer 2 scaling solution for Ethereum, has announced plans to extend the functionality of its native POL token to the Solana blockchain.]]></description>
+            <content:encoded><![CDATA[<div><div>Polygon, a leading Layer 2 scaling solution for Ethereum, has announced plans to extend the functionality of its native POL token to the Solana blockchain.</div></div>]]></content:encoded>
+            <author>CoinTrust (CoinTrust)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole Price: W Live Price Chart, Market Cap & News Today ]]></title>
             <link>https://www.coingecko.com/en/coins/wormhole</link>
             <guid>rssapp_cf0377a2ba45ad34466a1e241e0b3131</guid>
-            <pubDate>Tue, 10 Jun 2025 17:48:01 GMT</pubDate>
+            <pubDate>Fri, 30 May 2025 12:00:00 GMT</pubDate>
             <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
             <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
             <author>CoinGecko (CoinGecko)</author>
@@ -224,15 +233,6 @@
             <description><![CDATA[Opinion by: Alisia Painter, chief operating officer of Botanix LabsWithout Ethereum, the industry wouldn’t be where it is today in terms of bringing decentralized finance (DeFi) to life, making programmability a key feature of blockchains and proving the value of smart contracts at scale. The Ether…]]></description>
             <content:encoded><![CDATA[<div><div>Opinion by: Alisia Painter, chief operating officer of Botanix LabsWithout Ethereum, the industry wouldn’t be where it is today in terms of bringing decentralized finance (DeFi) to life, making programmability a key feature of blockchains and proving the value of smart contracts at scale. The Ether…</div></div>]]></content:encoded>
             <author>TradingView (TradingView)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Crypto Surges 21.5%, BTCBull Token Presale on Fire]]></title>
-            <link>https://99bitcoins.com/news/presales/wormhole-w-gains-21-5-trading-volume-nears-700m-whats-fueling-the-w-price-pump/</link>
-            <guid>rssapp_2487f0a827645fa2e80f619dcf2a7cc7</guid>
-            <pubDate>Mon, 24 Mar 2025 11:40:39 GMT</pubDate>
-            <description><![CDATA[Wormhole crypto price rose 50% in 24 hours. BTCBULL token presale dominates. Is BTC Bull one of the best meme coins to buy in 2025?]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole crypto price rose 50% in 24 hours. BTCBULL token presale dominates. Is BTC Bull one of the best meme coins to buy in 2025?</div></div>]]></content:encoded>
-            <author>99Bitcoins (99Bitcoins)</author>
         </item>
     </channel>
 </rss>
