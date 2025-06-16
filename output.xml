@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 16 Jun 2025 22:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 23:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -35,6 +35,15 @@
             <description><![CDATA[According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The]]></description>
             <content:encoded><![CDATA[<div><div>According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The</div></div>]]></content:encoded>
             <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights (https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Brings Dogecoin To Solana, Unlocking $37B Asset Utility]]></title>
+            <link>https://www.tronweekly.com/wormhole-brings-dogecoin-to-solana/</link>
+            <guid>rssapp_53a7cf7a27ad084161ecd1499f32c98d</guid>
+            <pubDate>Fri, 23 May 2025 14:00:00 GMT</pubDate>
+            <description><![CDATA[Dogecoin joins Solana via Wormhole, enabling faster transfers and smart contract use across chains with Native Token Transfers and zero-knowledge tech.]]></description>
+            <content:encoded><![CDATA[<div><div>Dogecoin joins Solana via Wormhole, enabling faster transfers and smart contract use across chains with Native Token Transfers and zero-knowledge tech.</div></div>]]></content:encoded>
+            <author>TronWeekly (TronWeekly)</author>
         </item>
         <item>
             <title><![CDATA[DOGE Comes to Solana via Wormhole ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Key crypto news this week: Trump’s tariffs, Sonic’s USDC upgrade, Mantle’s roadmap, and Wormhole’s token unlock. Expect volatility.]]></description>
             <content:encoded><![CDATA[<div><div>Key crypto news this week: Trump’s tariffs, Sonic’s USDC upgrade, Mantle’s roadmap, and Wormhole’s token unlock. Expect volatility.</div></div>]]></content:encoded>
             <author>BeInCrypto (BeInCrypto)</author>
-        </item>
-        <item>
-            <title><![CDATA[The future of finance is built on Bitcoin — Ethereum was just the testnet]]></title>
-            <link>https://www.tradingview.com/news/cointelegraph:5976c2d60094b:0-the-future-of-finance-is-built-on-bitcoin-ethereum-was-just-the-testnet/</link>
-            <guid>rssapp_36f1d4e201b14db90e4cac05f9ae8889</guid>
-            <pubDate>Sat, 29 Mar 2025 15:00:00 GMT</pubDate>
-            <description><![CDATA[Opinion by: Alisia Painter, chief operating officer of Botanix LabsWithout Ethereum, the industry wouldn’t be where it is today in terms of bringing decentralized finance (DeFi) to life, making programmability a key feature of blockchains and proving the value of smart contracts at scale. The Ether…]]></description>
-            <content:encoded><![CDATA[<div><div>Opinion by: Alisia Painter, chief operating officer of Botanix LabsWithout Ethereum, the industry wouldn’t be where it is today in terms of bringing decentralized finance (DeFi) to life, making programmability a key feature of blockchains and proving the value of smart contracts at scale. The Ether…</div></div>]]></content:encoded>
-            <author>TradingView (TradingView)</author>
         </item>
     </channel>
 </rss>
