@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 21 Jun 2025 05:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jun 2025 06:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Sui gets cross-chain liquidity boost from key Momentum DEX, Wormhole and OKX partnership]]></description>
             <content:encoded><![CDATA[<div><div>Sui gets cross-chain liquidity boost from key Momentum DEX, Wormhole and OKX partnership</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
+        </item>
+        <item>
+            <title><![CDATA[SPX6900 (Wormhole): Coin Price, Market Cap, News & Key Metrics Explained]]></title>
+            <link>https://www.okx.com/learn/spx6900-wormhole-coin-price-market-cap-news</link>
+            <guid>rssapp_81f7ea586034cf21ff0890af389a535e</guid>
+            <pubDate>Thu, 19 Jun 2025 09:10:49 GMT</pubDate>
+            <description><![CDATA[OKX - SPX6900 ($SPX) is a meme-based cryptocurrency that has captured the attention of the crypto community with its playful branding and community-driven approach.]]></description>
+            <content:encoded><![CDATA[<div><div>OKX - SPX6900 ($SPX) is a meme-based cryptocurrency that has captured the attention of the crypto community with its playful branding and community-driven approach.</div></div>]]></content:encoded>
+            <author>OKX (OKX)</author>
         </item>
         <item>
             <title><![CDATA[Polygon Bridges POL Token to Solana with Wormhole Integration]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Centrifuge V3 aims to unify real-world asset tokenization across blockchains, and is starting with the $230 million Janus Henderson Anemoy Treasury Fund.]]></description>
             <content:encoded><![CDATA[<div><div>Centrifuge V3 aims to unify real-world asset tokenization across blockchains, and is starting with the $230 million Janus Henderson Anemoy Treasury Fund.</div></div>]]></content:encoded>
             <author>CoinDesk (CoinDesk)</author>
-        </item>
-        <item>
-            <title><![CDATA[Top Crypto Gainers Today Apr 3 - DeXe, Story, Wormhole, dForce ]]></title>
-            <link>https://insidebitcoins.com/sponsored/top-crypto-gainers-today-apr-3-dexe-story-wormhole-dforce</link>
-            <guid>rssapp_adce56db7066360ed3257eea061728c7</guid>
-            <pubDate>Thu, 03 Apr 2025 10:00:29 GMT</pubDate>
-            <description><![CDATA[Market Trends Unfolding! DeXe, Story, Wormhole, and dForce are today’s top crypto gainers. Get insights and stay ahead of the market!]]></description>
-            <content:encoded><![CDATA[<div><div>Market Trends Unfolding! DeXe, Story, Wormhole, and dForce are today’s top crypto gainers. Get insights and stay ahead of the market!</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
         </item>
     </channel>
 </rss>
