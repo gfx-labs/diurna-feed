@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 22 Jun 2025 13:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jun 2025 14:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -127,6 +127,15 @@
             <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis (https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis)</author>
         </item>
         <item>
+            <title><![CDATA[6 Best Altcoins to Watch Today, May 08 - Berachain, Wormhole, QTUM, Ronin ]]></title>
+            <link>https://insidebitcoins.com/sponsored/6-best-altcoins-to-watch-today-may-08-berachain-wormhole-qtum-ronin</link>
+            <guid>rssapp_30c1c4bc19d28b7ff86d87c68cc6aaae</guid>
+            <pubDate>Thu, 08 May 2025 11:43:24 GMT</pubDate>
+            <description><![CDATA[Here are six promising altcoins gaining momentum today, May 08, including BERA, W, QTUM, and RON, which have made strong market moves.]]></description>
+            <content:encoded><![CDATA[<div><div>Here are six promising altcoins gaining momentum today, May 08, including BERA, W, QTUM, and RON, which have made strong market moves.</div></div>]]></content:encoded>
+            <author>insidebitcoins (insidebitcoins)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
             <link>https://www.mitrade.com/insights/news/live-news/article-3-794774-20250501</link>
             <guid>rssapp_f1c5d7ae85f917cbaf95f44f3c0fdfe2</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Explore the top crypto projects of 2025—AurealOne, DexBoss, Wormhole, and Ronin—shaping the future of gaming, DeFi, and blockchain connectivity.]]></description>
             <content:encoded><![CDATA[<div><div>Explore the top crypto projects of 2025—AurealOne, DexBoss, Wormhole, and Ronin—shaping the future of gaming, DeFi, and blockchain connectivity.</div></div>]]></content:encoded>
             <author>The Crypto Times (The Crypto Times)</author>
-        </item>
-        <item>
-            <title><![CDATA[Centrifuge Taps Wormhole to Launch Multichain Tokenization Platform]]></title>
-            <link>https://www.coindesk.com/markets/2025/04/10/centrifuge-taps-wormhole-to-launch-multichain-tokenization-platform</link>
-            <guid>rssapp_db69b841954fa647553ba0b3f182c32c</guid>
-            <pubDate>Thu, 10 Apr 2025 15:27:26 GMT</pubDate>
-            <description><![CDATA[Centrifuge V3 aims to unify real-world asset tokenization across blockchains, and is starting with the $230 million Janus Henderson Anemoy Treasury Fund.]]></description>
-            <content:encoded><![CDATA[<div><div>Centrifuge V3 aims to unify real-world asset tokenization across blockchains, and is starting with the $230 million Janus Henderson Anemoy Treasury Fund.</div></div>]]></content:encoded>
-            <author>CoinDesk (CoinDesk)</author>
         </item>
     </channel>
 </rss>
