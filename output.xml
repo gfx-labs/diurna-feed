@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 24 Jun 2025 04:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 05:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Sui gets cross-chain liquidity boost from key Momentum DEX, Wormhole and OKX partnership]]></description>
             <content:encoded><![CDATA[<div><div>Sui gets cross-chain liquidity boost from key Momentum DEX, Wormhole and OKX partnership</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
+        </item>
+        <item>
+            <title><![CDATA[Top Trending Cryptos on Arbitrum Chain - Uniswap, CARV, Wormhole ]]></title>
+            <link>https://insidebitcoins.com/sponsored/top-trending-cryptos-on-arbitrum-chain-uniswap-carv-wormhole</link>
+            <guid>rssapp_f3c0f817133e166dc902c86347e4106b</guid>
+            <pubDate>Thu, 19 Jun 2025 13:18:22 GMT</pubDate>
+            <description><![CDATA[Explore the top trending cryptos on Arbitrum Chain, including Uniswap, CARV, and Wormhole, as they lead the next wave of Web3 upheaval.]]></description>
+            <content:encoded><![CDATA[<div><div>Explore the top trending cryptos on Arbitrum Chain, including Uniswap, CARV, and Wormhole, as they lead the next wave of Web3 upheaval.</div></div>]]></content:encoded>
+            <author>insidebitcoins (insidebitcoins)</author>
         </item>
         <item>
             <title><![CDATA[SPX6900 (Wormhole): Coin Price, Market Cap, News & Key Metrics Explained]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Uncover the next cryptocurrency to explode shortly. Using the latest market data, discover what makes the tokens in our list promising.]]></description>
             <content:encoded><![CDATA[<div><div>Uncover the next cryptocurrency to explode shortly. Using the latest market data, discover what makes the tokens in our list promising.</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Top Crypto in 2025: Is AurealOne’s $DLUME the Next Big Token?]]></title>
-            <link>https://www.cryptotimes.io/sponsored/top-crypto-in-2025-is-aurealones-dlume-the-next-big-token/</link>
-            <guid>rssapp_1d7892613a414473cddb51ff8542541a</guid>
-            <pubDate>Fri, 18 Apr 2025 11:31:31 GMT</pubDate>
-            <description><![CDATA[Explore the top crypto projects of 2025—AurealOne, DexBoss, Wormhole, and Ronin—shaping the future of gaming, DeFi, and blockchain connectivity.]]></description>
-            <content:encoded><![CDATA[<div><div>Explore the top crypto projects of 2025—AurealOne, DexBoss, Wormhole, and Ronin—shaping the future of gaming, DeFi, and blockchain connectivity.</div></div>]]></content:encoded>
-            <author>The Crypto Times (The Crypto Times)</author>
         </item>
     </channel>
 </rss>
