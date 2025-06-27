@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 27 Jun 2025 17:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 18:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -64,6 +64,15 @@
             <author>Blockchain Magazine (Blockchain Magazine)</author>
         </item>
         <item>
+            <title><![CDATA[Ripple Partners with Wormhole to Bring Multichain Interoperability to the XRPL and XRPL EVM Sidechain]]></title>
+            <link>https://thecryptobasic.com/2025/06/26/ripple-partners-with-wormhole-to-bring-multichain-interoperability-to-the-xrpl-and-xrpl-evm-sidechain/</link>
+            <guid>rssapp_1838bedfe4fc9db0058b9e96623bafe1</guid>
+            <pubDate>Thu, 26 Jun 2025 15:09:56 GMT</pubDate>
+            <description><![CDATA[Ripple has joined forces with Wormhole to bring multichain functionality to the XRP Ledger (XRPL) and the upcoming XRPL EVM Sidechain.]]></description>
+            <content:encoded><![CDATA[<div><div>Ripple has joined forces with Wormhole to bring multichain functionality to the XRP Ledger (XRPL) and the upcoming XRPL EVM Sidechain.</div></div>]]></content:encoded>
+            <author>The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News (The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News)</author>
+        </item>
+        <item>
             <title><![CDATA[Momentum, Wormhole & OKX partner to boost Sui network liquidity]]></title>
             <link>https://crypto.news/momentum-wormhole-okx-partner-to-boost-sui-network-liquidity/</link>
             <guid>rssapp_f6655709510f524a9b2df798b5bf2a8d</guid>
@@ -116,6 +125,15 @@
             <description><![CDATA[According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The]]></description>
             <content:encoded><![CDATA[<div><div>According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The</div></div>]]></content:encoded>
             <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights (https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Launches Native Dogecoin Bridge to Solana—Here’s What It Means for DeFi]]></title>
+            <link>https://www.analyticsinsight.net/cryptocurrency-analytics-insight/wormhole-launches-native-dogecoin-bridge-to-solanaheres-what-it-means-for-defi</link>
+            <guid>rssapp_30f7826319bdfc58ed65750aea679696</guid>
+            <pubDate>Sun, 25 May 2025 07:38:27 GMT</pubDate>
+            <description><![CDATA[A new connection has been made between Dogecoin and the Solana blockchain. This direct link could have a big impact on decentralized finance. How will this affe]]></description>
+            <content:encoded><![CDATA[<div><div>A new connection has been made between Dogecoin and the Solana blockchain. This direct link could have a big impact on decentralized finance. How will this affe</div></div>]]></content:encoded>
+            <author>Analytics Insight (Analytics Insight)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Brings Dogecoin To Solana, Unlocking $37B Asset Utility]]></title>
@@ -215,24 +233,6 @@
             <description><![CDATA[Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]</div></div>]]></content:encoded>
             <author>msn (msn)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
-            <link>https://www.msn.com/en-us/money/other/wormhole-backed-tokenized-assets-touch-3b-as-mercado-bitcoin-readies-to-onboard-200m/ar-AA1DZ8xW?ocid</link>
-            <guid>rssapp_7046ddfa9be4b674f5c810c74e7df20f</guid>
-            <pubDate>Thu, 01 May 2025 11:55:43 GMT</pubDate>
-            <description><![CDATA[Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]</div></div>]]></content:encoded>
-            <author>msn (msn)</author>
-        </item>
-        <item>
-            <title><![CDATA[Mercado Bitcoin Partners With Wormhole To Scale $200M Tokenized Assets]]></title>
-            <link>https://www.tronweekly.com/mercado-bitcoin-partners-with-wormhole/</link>
-            <guid>rssapp_361d127b17a8cc5b04d8a49ab9b73755</guid>
-            <pubDate>Thu, 01 May 2025 01:30:00 GMT</pubDate>
-            <description><![CDATA[Mercado Bitcoin partners with Wormhole to scale over $200M in tokenized assets, unlock fresh liquidity and boost blockchain access.]]></description>
-            <content:encoded><![CDATA[<div><div>Mercado Bitcoin partners with Wormhole to scale over $200M in tokenized assets, unlock fresh liquidity and boost blockchain access.</div></div>]]></content:encoded>
-            <author>TronWeekly (TronWeekly)</author>
         </item>
     </channel>
 </rss>
