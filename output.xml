@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 27 Jun 2025 09:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 10:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[XRPL Goes Multichain with Wormhole Partnership ]]></title>
+            <link>https://www.altcoinbuzz.io/cryptocurrency-news/xrpl-goes-multichain-with-wormhole-partnership/</link>
+            <guid>rssapp_4093d955131acafd7dd80199a1b06a73</guid>
+            <pubDate>Fri, 27 Jun 2025 09:30:10 GMT</pubDate>
+            <description><![CDATA[For developers, XRPL is a green light to build beyond boundaries. For users, it signals smoother, faster, and more connected digital finance.]]></description>
+            <content:encoded><![CDATA[<div><div>For developers, XRPL is a green light to build beyond boundaries. For users, it signals smoother, faster, and more connected digital finance.</div></div>]]></content:encoded>
+            <author>Altcoin Buzz (Altcoin Buzz)</author>
+        </item>
         <item>
             <title><![CDATA[Ripple Integrates XRP Ledger With Wormhole To Expand Multichain Interoperability]]></title>
             <link>https://www.tronweekly.com/ripple-integrates-xrp-ledger-with-wormhole/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Mercado Bitcoin partners with Wormhole to scale over $200M in tokenized assets, unlock fresh liquidity and boost blockchain access.]]></description>
             <content:encoded><![CDATA[<div><div>Mercado Bitcoin partners with Wormhole to scale over $200M in tokenized assets, unlock fresh liquidity and boost blockchain access.</div></div>]]></content:encoded>
             <author>TronWeekly (TronWeekly)</author>
-        </item>
-        <item>
-            <title><![CDATA[Brazilian Crypto Exchange Mercado Bitcoin Integrates Wormhole]]></title>
-            <link>https://www.cryptotimes.io/2025/05/01/brazilian-crypto-exchange-mercado-bitcoin-integrates-wormhole/</link>
-            <guid>rssapp_d0bc985586d24353b2cc1009914f0cc7</guid>
-            <pubDate>Wed, 30 Apr 2025 19:16:55 GMT</pubDate>
-            <description><![CDATA[Brazil’s largest crypto exchange Mercado Bitcoin has partnered with Wormhole to expand its tokenized asset offering and cross-chain capabilities.]]></description>
-            <content:encoded><![CDATA[<div><div>Brazil’s largest crypto exchange Mercado Bitcoin has partnered with Wormhole to expand its tokenized asset offering and cross-chain capabilities.</div></div>]]></content:encoded>
-            <author>The Crypto Times (The Crypto Times)</author>
         </item>
     </channel>
 </rss>
