@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 27 Jun 2025 01:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 02:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Ripple Integrates XRP Ledger With Wormhole To Expand Multichain Interoperability]]></title>
+            <link>https://www.tronweekly.com/ripple-integrates-xrp-ledger-with-wormhole/</link>
+            <guid>rssapp_346236f70c31b2b588b293d9cd0a2795</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ripple integrates XRPL and its EVM sidechain with Wormhole, enabling asset transfers, smart contract interaction, and access to 35+ blockchain networks.]]></description>
+            <content:encoded><![CDATA[<div><div>Ripple integrates XRPL and its EVM sidechain with Wormhole, enabling asset transfers, smart contract interaction, and access to 35+ blockchain networks.</div></div>]]></content:encoded>
+            <author>TronWeekly (TronWeekly)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Crypto Partners with XRP Ledger: What Does It Mean for Them? ]]></title>
             <link>https://99bitcoins.com/news/presales/wormhole-crypto-partners-with-xrp-ledger-what-does-it-mean-for-them/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Mercado Bitcoin has announced a partnership with Wormhole to drive the expansion of more than $200 million in tokenised financial assets.]]></description>
             <content:encoded><![CDATA[<div><div>Mercado Bitcoin has announced a partnership with Wormhole to drive the expansion of more than $200 million in tokenised financial assets.</div></div>]]></content:encoded>
             <author>Invezz (Invezz)</author>
-        </item>
-        <item>
-            <title><![CDATA[Brazil’s largest crypto exchange Mercado Bitcoin taps Wormhole to bring tokenized products cross-chain]]></title>
-            <link>https://www.theblock.co/post/352596/crypto-exchange-mercado-bitcoin-wormhole-tokenized-assets-cross-chain</link>
-            <guid>rssapp_7f9475a7a46216d874952485f9d7556b</guid>
-            <pubDate>Wed, 30 Apr 2025 16:26:37 GMT</pubDate>
-            <description><![CDATA[Cross-chain bridge Wormhole will enable Mercado Bitcoin to bring its suite of tokenized products to over 30 blockchains.]]></description>
-            <content:encoded><![CDATA[<div><div>Cross-chain bridge Wormhole will enable Mercado Bitcoin to bring its suite of tokenized products to over 30 blockchains.</div></div>]]></content:encoded>
-            <author>The Block (The Block)</author>
         </item>
     </channel>
 </rss>
