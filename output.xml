@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 28 Jun 2025 15:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 16:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Ripple-SEC Motion Denied: XRPL Expands With Wormhole Support]]></title>
+            <link>https://themarketperiodical.com/2025/06/28/ripple-sec-motion-denied-xrpl-expands-with-wormhole-support/</link>
+            <guid>rssapp_b72dd95e78dc01bb0f6ae4f2859a9f94</guid>
+            <pubDate>Sat, 28 Jun 2025 06:25:00 GMT</pubDate>
+            <description><![CDATA[Judge Torres denies Ripple and SEC’s motion in the XRP case as XRPL advances with Wormhole integration, boosting institutional]]></description>
+            <content:encoded><![CDATA[<div><div>Judge Torres denies Ripple and SEC’s motion in the XRP case as XRPL advances with Wormhole integration, boosting institutional</div></div>]]></content:encoded>
+            <author>The Market Periodical (The Market Periodical)</author>
+        </item>
         <item>
             <title><![CDATA[XRPL Goes Multichain with Wormhole Partnership ]]></title>
             <link>https://www.altcoinbuzz.io/cryptocurrency-news/xrpl-goes-multichain-with-wormhole-partnership/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]</div></div>]]></content:encoded>
             <author>mitrade (mitrade)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
-            <link>https://www.msn.com/en-us/money/other/wormhole-backed-tokenized-assets-touch-3b-as-mercado-bitcoin-readies-to-onboard-200m/ar-AA1DZ8xW</link>
-            <guid>rssapp_59f17a35b4669b9374809fca8f2edd57</guid>
-            <pubDate>Thu, 01 May 2025 11:55:43 GMT</pubDate>
-            <description><![CDATA[Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]</div></div>]]></content:encoded>
-            <author>msn (msn)</author>
         </item>
     </channel>
 </rss>
