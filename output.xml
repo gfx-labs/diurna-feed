@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 29 Jun 2025 19:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jun 2025 20:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -89,6 +89,15 @@
             <description><![CDATA[Ripple has joined forces with Wormhole to bring multichain functionality to the XRP Ledger (XRPL) and the upcoming XRPL EVM Sidechain.]]></description>
             <content:encoded><![CDATA[<div><div>Ripple has joined forces with Wormhole to bring multichain functionality to the XRP Ledger (XRPL) and the upcoming XRPL EVM Sidechain.</div></div>]]></content:encoded>
             <author>The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News (The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News)</author>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Adds Wormhole to Listing Roadmap Boosting Cross-Chain Trading]]></title>
+            <link>https://www.ainvest.com/news/coinbase-adds-wormhole-listing-roadmap-boosting-cross-chain-trading-2506/</link>
+            <guid>rssapp_5c28a97bd5f610a8065073ff8873e772</guid>
+            <pubDate>Thu, 26 Jun 2025 03:42:12 GMT</pubDate>
+            <description><![CDATA[Coinbase Adds Wormhole to Listing Roadmap Boosting Cross-Chain Trading]]></description>
+            <content:encoded><![CDATA[Coinbase Adds Wormhole to Listing Roadmap Boosting Cross-Chain Trading]]></content:encoded>
+            <author>ainvest (ainvest)</author>
         </item>
         <item>
             <title><![CDATA[Momentum, Wormhole & OKX partner to boost Sui network liquidity]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro]]></description>
             <content:encoded><![CDATA[<div><div>According to Crypto Rover, Wormhole (W) is demonstrating a bullish W pattern on its price chart, indicating a potential upward move. He highlights that Wormhole's strong fundamentals, including cro</div></div>]]></content:encoded>
             <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis (https://blockchain news/flashnews/wormhole-w-shows-bullish-w-pattern-trading-setup-and-fundamentals-analysis)</author>
-        </item>
-        <item>
-            <title><![CDATA[6 Best Altcoins to Watch Today, May 08 - Berachain, Wormhole, QTUM, Ronin ]]></title>
-            <link>https://insidebitcoins.com/sponsored/6-best-altcoins-to-watch-today-may-08-berachain-wormhole-qtum-ronin</link>
-            <guid>rssapp_30c1c4bc19d28b7ff86d87c68cc6aaae</guid>
-            <pubDate>Thu, 08 May 2025 11:43:24 GMT</pubDate>
-            <description><![CDATA[Here are six promising altcoins gaining momentum today, May 08, including BERA, W, QTUM, and RON, which have made strong market moves.]]></description>
-            <content:encoded><![CDATA[<div><div>Here are six promising altcoins gaining momentum today, May 08, including BERA, W, QTUM, and RON, which have made strong market moves.</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
         </item>
     </channel>
 </rss>
