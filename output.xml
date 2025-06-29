@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 29 Jun 2025 17:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jun 2025 18:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Judge Torres denies Ripple and SEC’s motion in the XRP case as XRPL advances with Wormhole integration, boosting institutional]]></description>
             <content:encoded><![CDATA[<div><div>Judge Torres denies Ripple and SEC’s motion in the XRP case as XRPL advances with Wormhole integration, boosting institutional</div></div>]]></content:encoded>
             <author>The Market Periodical (The Market Periodical)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ripple Price Forecast: XRP risks decline below $2.00 despite Wormhole interoperability partnership]]></title>
+            <link>https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-risks-decline-below-200-despite-wormhole-interoperability-partnership-202506271515</link>
+            <guid>rssapp_afb4f21eaa0f0a63d3a1735173a98d96</guid>
+            <pubDate>Fri, 27 Jun 2025 15:15:00 GMT</pubDate>
+            <description><![CDATA[Ripple (XRP) extends losses on the third day in a row after its bullish momentum lost steam under the resistance level at $2.23. The path of least resistance is downward, with technical indicators reinforcing the bearish grip while the XRP price hovers at around $2.08 on Friday.]]></description>
+            <content:encoded><![CDATA[<div><div>Ripple (XRP) extends losses on the third day in a row after its bullish momentum lost steam under the resistance level at $2.23. The path of least resistance is downward, with technical indicators reinforcing the bearish grip while the XRP price hovers at around $2.08 on Friday.</div></div>]]></content:encoded>
+            <author>FXStreet (FXStreet)</author>
         </item>
         <item>
             <title><![CDATA[XRPL Goes Multichain with Wormhole Partnership ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Here are six promising altcoins gaining momentum today, May 08, including BERA, W, QTUM, and RON, which have made strong market moves.]]></description>
             <content:encoded><![CDATA[<div><div>Here are six promising altcoins gaining momentum today, May 08, including BERA, W, QTUM, and RON, which have made strong market moves.</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole-backed tokenized assets touch $3B as Mercado Bitcoin readies to onboard $200M]]></title>
-            <link>https://www.mitrade.com/insights/news/live-news/article-3-794774-20250501</link>
-            <guid>rssapp_f1c5d7ae85f917cbaf95f44f3c0fdfe2</guid>
-            <pubDate>Thu, 01 May 2025 11:55:43 GMT</pubDate>
-            <description><![CDATA[Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole is emerging as a dominant player within the tokenized asset space, with the interoperability provider now servicing more than $3 billion worth of assets. Data shared by Robinson Burkey, the co-founder of Wormhole, shows the value of Wormhole’s Multichain Tokenized Assets Under Management (MTAUM) has surged from less than $1B to $3.04 billion over […]</div></div>]]></content:encoded>
-            <author>mitrade (mitrade)</author>
         </item>
     </channel>
 </rss>
