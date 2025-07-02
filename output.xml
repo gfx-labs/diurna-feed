@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 01 Jul 2025 23:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jul 2025 00:31:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -35,6 +35,15 @@
             <description><![CDATA[Ripple (XRP) extends losses on the third day in a row after its bullish momentum snapped under the resistance level at $2.23. Key technical indicators cement the bearish grip, while the XRP price exchanges hands at around $2.08 on Friday.]]></description>
             <content:encoded><![CDATA[<div><div>Ripple (XRP) extends losses on the third day in a row after its bullish momentum snapped under the resistance level at $2.23. Key technical indicators cement the bearish grip, while the XRP price exchanges hands at around $2.08 on Friday.</div></div>]]></content:encoded>
             <author>FXStreet (FXStreet)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Price Drops 3% As This Bitcoin L2 ICO Heads For $2M]]></title>
+            <link>https://insidebitcoins.com/sponsored/wormhole-price-prediction-w-slides-3-as-this-bitcoin-layer-2-presale-charges-towards-2-million-best-crypto-to-buy-now</link>
+            <guid>rssapp_06b4edb33f219ed0a16137392aa657ca</guid>
+            <pubDate>Fri, 27 Jun 2025 12:02:35 GMT</pubDate>
+            <description><![CDATA[The Wormhole price dropped 3% in the last 24 hours as this Bitcoin layer-2 presale charges towards $2 million.]]></description>
+            <content:encoded><![CDATA[<div><div>The Wormhole price dropped 3% in the last 24 hours as this Bitcoin layer-2 presale charges towards $2 million.</div></div>]]></content:encoded>
+            <author>insidebitcoins (insidebitcoins)</author>
         </item>
         <item>
             <title><![CDATA[XRPL Goes Multichain with Wormhole Partnership ]]></title>
@@ -89,6 +98,15 @@
             <description><![CDATA[Wormhole Crypto is designed to facilitate interoperability between different blockchains, enabling secure transfers of data and tokens across ecosystems. It]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole Crypto is designed to facilitate interoperability between different blockchains, enabling secure transfers of data and tokens across ecosystems. It</div></div>]]></content:encoded>
             <author>Blockchain Magazine (Blockchain Magazine)</author>
+        </item>
+        <item>
+            <title><![CDATA[XRP Interoperability Gets a Big Boost as Ripple Partners with Wormhole ]]></title>
+            <link>https://coincodex.com/article/69283/xrp-interoperability-gets-a-big-boost-as-ripple-partners-with-wormhole/</link>
+            <guid>rssapp_9c8af32197a584aa46c396c64ea2e756</guid>
+            <pubDate>Thu, 26 Jun 2025 15:29:00 GMT</pubDate>
+            <description><![CDATA[XRP Ledger's interoperability is set to receive a major boost thanks to Ripple's new partnership with Wormhole.]]></description>
+            <content:encoded><![CDATA[<div><div>XRP Ledger's interoperability is set to receive a major boost thanks to Ripple's new partnership with Wormhole.</div></div>]]></content:encoded>
+            <author>coincodex (coincodex)</author>
         </item>
         <item>
             <title><![CDATA[Ripple Partners with Wormhole to Bring Multichain Interoperability to the XRPL and XRPL EVM Sidechain]]></title>
@@ -215,24 +233,6 @@
             <description><![CDATA[Discover the 5 best cryptocurrencies under 1 dollar with real potential, including Wormhole, Kusama, and Arbitrum rising through the noise.]]></description>
             <content:encoded><![CDATA[<div><div>Discover the 5 best cryptocurrencies under 1 dollar with real potential, including Wormhole, Kusama, and Arbitrum rising through the noise.</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Top Crypto Gainers Today May 14 - Wormhole, LayerZero, Axie Infinity, Vana ]]></title>
-            <link>https://insidebitcoins.com/sponsored/top-crypto-gainers-today-may-14-wormhole-layerzero-axie-infinity-vana</link>
-            <guid>rssapp_8ede864db1e82150e84c810cd30aded8</guid>
-            <pubDate>Wed, 14 May 2025 07:51:03 GMT</pubDate>
-            <description><![CDATA[Update your market knowledge with today's top crypto gainers: Wormhole, LayerZero, Axie Infinity, and Vana. Stay tuned as we dive in.]]></description>
-            <content:encoded><![CDATA[<div><div>Update your market knowledge with today's top crypto gainers: Wormhole, LayerZero, Axie Infinity, and Vana. Stay tuned as we dive in.</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[SEC's Hester Peirce wants crypto sandbox: Wormhole legal chief has concerns]]></title>
-            <link>https://crypto.news/secs-hester-peirce-wants-crypto-sandbox-wormhole-legal-chief-has-concerns/</link>
-            <guid>rssapp_5d01d7c74292b6ad15f895e6519c0c28</guid>
-            <pubDate>Fri, 09 May 2025 19:57:13 GMT</pubDate>
-            <description><![CDATA[Hester Pierce has long been an advocate of regulatory sandboxes for crypto. However, Wormhole legal chief believes there are risks.]]></description>
-            <content:encoded><![CDATA[<div><div>Hester Pierce has long been an advocate of regulatory sandboxes for crypto. However, Wormhole legal chief believes there are risks.</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
