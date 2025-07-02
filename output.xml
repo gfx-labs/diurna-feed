@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 02 Jul 2025 11:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jul 2025 12:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -53,6 +53,15 @@
             <description><![CDATA[For developers, XRPL is a green light to build beyond boundaries. For users, it signals smoother, faster, and more connected digital finance.]]></description>
             <content:encoded><![CDATA[<div><div>For developers, XRPL is a green light to build beyond boundaries. For users, it signals smoother, faster, and more connected digital finance.</div></div>]]></content:encoded>
             <author>Altcoin Buzz (Altcoin Buzz)</author>
+        </item>
+        <item>
+            <title><![CDATA[XRP may fall below $2.00 despite Wormhole integration; check forecast]]></title>
+            <link>https://www.msn.com/en-us/money/markets/xrp-may-fall-below-2-00-despite-wormhole-integration-check-forecast/ar-AA1Hy2X1</link>
+            <guid>rssapp_b17553175fb431f5c4ab17d78a4b305b</guid>
+            <pubDate>Fri, 27 Jun 2025 09:10:49 GMT</pubDate>
+            <description><![CDATA[The cryptocurrency market could end the week bearish despite its positive start. Bitcoin, the leading cryptocurrency by market cap, is down 1% in the last 24 hours and has now dropped below $107k. As usual, Bitcoin’s performance dictates how altcoins react. Most altcoins are currently in the red, including Ethereum’s Ether and Ripple’s XRP. XRP ris...]]></description>
+            <content:encoded><![CDATA[<div><div>The cryptocurrency market could end the week bearish despite its positive start. Bitcoin, the leading cryptocurrency by market cap, is down 1% in the last 24 hours and has now dropped below $107k. As usual, Bitcoin’s performance dictates how altcoins react. Most altcoins are currently in the red, including Ethereum’s Ether and Ripple’s XRP. XRP ris...</div></div>]]></content:encoded>
+            <author>msn (msn)</author>
         </item>
         <item>
             <title><![CDATA[Three reasons why Wormhole could be gearing up for a major rally]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole connects Dogecoin to Solana, evolving liquidity &amp; growth potential in a $35B ecosystem with seamless blockchain integration.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole connects Dogecoin to Solana, evolving liquidity &amp; growth potential in a $35B ecosystem with seamless blockchain integration.</div></div>]]></content:encoded>
             <author>The Crypto Times (The Crypto Times)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Integrates $36B Dogecoin to Solana: Details]]></title>
-            <link>https://thecryptobasic.com/2025/05/23/wormhole-integrates-36b-dogecoin-to-solana-details/</link>
-            <guid>rssapp_bdff89b6a4da11396a324686eea120f4</guid>
-            <pubDate>Fri, 23 May 2025 09:21:20 GMT</pubDate>
-            <description><![CDATA[Leading cross-chain interoperability network Wormhole has developed the first trustless bridge linking Dogecoin to the Solana ecosystem.]]></description>
-            <content:encoded><![CDATA[<div><div>Leading cross-chain interoperability network Wormhole has developed the first trustless bridge linking Dogecoin to the Solana ecosystem.</div></div>]]></content:encoded>
-            <author>The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News (The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News)</author>
         </item>
     </channel>
 </rss>
