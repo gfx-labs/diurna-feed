@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 03 Jul 2025 22:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 23:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Announces Listing of Wormhole (W)]]></title>
+            <link>https://bloomingbit.io/en/feed/news/91871</link>
+            <guid>rssapp_c9df9084f3f04a93a71fa024f5f82e1a</guid>
+            <pubDate>Tue, 01 Jul 2025 16:33:44 GMT</pubDate>
+            <description><![CDATA[On the 1st (local time), the global cryptocurrency exchange Coinbase officially announced the new listing of Wormhole (W).]]></description>
+            <content:encoded><![CDATA[<div><div>On the 1st (local time), the global cryptocurrency exchange Coinbase officially announced the new listing of Wormhole (W).</div></div>]]></content:encoded>
+            <author>bloomingbit (bloomingbit)</author>
         </item>
         <item>
             <title><![CDATA[XRPL and Wormhole Collaborate to Revolutionize Multichain Access! ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The]]></description>
             <content:encoded><![CDATA[<div><div>According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The</div></div>]]></content:encoded>
             <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights (https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Launches Native Dogecoin Bridge to Solana—Here’s What It Means for DeFi]]></title>
-            <link>https://www.analyticsinsight.net/cryptocurrency-analytics-insight/wormhole-launches-native-dogecoin-bridge-to-solanaheres-what-it-means-for-defi</link>
-            <guid>rssapp_30f7826319bdfc58ed65750aea679696</guid>
-            <pubDate>Sun, 25 May 2025 07:38:27 GMT</pubDate>
-            <description><![CDATA[A new connection has been made between Dogecoin and the Solana blockchain. This direct link could have a big impact on decentralized finance. How will this affe]]></description>
-            <content:encoded><![CDATA[<div><div>A new connection has been made between Dogecoin and the Solana blockchain. This direct link could have a big impact on decentralized finance. How will this affe</div></div>]]></content:encoded>
-            <author>Analytics Insight (Analytics Insight)</author>
         </item>
     </channel>
 </rss>
