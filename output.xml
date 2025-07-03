@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 03 Jul 2025 01:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 02:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
+        </item>
+        <item>
+            <title><![CDATA[XRPL and Wormhole Collaborate to Revolutionize Multichain Access! ]]></title>
+            <link>https://pintu.co.id/en/news/174291-xrpl-and-wormhole-collaborate-to-revolutionize-multichain-access</link>
+            <guid>rssapp_32fa0653c8e94bbbc15394f9370f8761</guid>
+            <pubDate>Mon, 30 Jun 2025 02:56:40 GMT</pubDate>
+            <description><![CDATA[XRPL is collaborating with Wormhole to integrate more than 35 blockchains, improving interoperability and opening up new opportunities in DeFi and payments.]]></description>
+            <content:encoded><![CDATA[<div><div>XRPL is collaborating with Wormhole to integrate more than 35 blockchains, improving interoperability and opening up new opportunities in DeFi and payments.</div></div>]]></content:encoded>
+            <author>Pintu News (Pintu News)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole rallies on Ripple deal, but risky gaps remain]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Dogecoin joins Solana via Wormhole, enabling faster transfers and smart contract use across chains with Native Token Transfers and zero-knowledge tech.]]></description>
             <content:encoded><![CDATA[<div><div>Dogecoin joins Solana via Wormhole, enabling faster transfers and smart contract use across chains with Native Token Transfers and zero-knowledge tech.</div></div>]]></content:encoded>
             <author>TronWeekly (TronWeekly)</author>
-        </item>
-        <item>
-            <title><![CDATA[DOGE Comes to Solana via Wormhole ]]></title>
-            <link>https://www.altcoinbuzz.io/cryptocurrency-news/doge-comes-to-solana-via-wormhole/</link>
-            <guid>rssapp_be94e63186c1137ed0548ec4862f8db3</guid>
-            <pubDate>Fri, 23 May 2025 12:27:10 GMT</pubDate>
-            <description><![CDATA[Wormhole’s integration of DOGE into Solana isn’t just about adding another coin—it’s about leveling up utility and access across the board.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole’s integration of DOGE into Solana isn’t just about adding another coin—it’s about leveling up utility and access across the board.</div></div>]]></content:encoded>
-            <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
     </channel>
 </rss>
