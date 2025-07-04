@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 04 Jul 2025 14:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 15:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[What Is Wormhole Crypto? All You Need To Know ]]></title>
+            <link>https://99bitcoins.com/news/presales/what-is-wormhole-crypto-all-you-need-to-know/</link>
+            <guid>rssapp_a451a7eba7c7a35d84997ac37cc5820d</guid>
+            <pubDate>Fri, 04 Jul 2025 11:35:09 GMT</pubDate>
+            <description><![CDATA[Wormhole crypto is a growing Web3 powerhouse, with its Bridge product and Messaging tool. Is its $W token undervalued?]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole crypto is a growing Web3 powerhouse, with its Bridge product and Messaging tool. Is its $W token undervalued?</div></div>]]></content:encoded>
+            <author>99Bitcoins (99Bitcoins)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></title>
             <link>https://www.ainvest.com/news/wormhole-price-rejection-12-rally-ripple-partnership-2507/</link>
@@ -17,6 +26,15 @@
             <description><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></description>
             <content:encoded><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></content:encoded>
             <author>ainvest (ainvest)</author>
+        </item>
+        <item>
+            <title><![CDATA[Top US Crypto Exchange by Trading Volume Coinbase Adds Support for Leading Cross-Chain Messaging Protocol Wormhole (W) ]]></title>
+            <link>https://dailyhodl.com/2025/07/03/top-us-crypto-exchange-by-trading-volume-coinbase-adds-support-for-leading-cross-chain-messaging-protocol-wormhole-w/</link>
+            <guid>rssapp_0883ef421c577ba24357abb1fef5b933</guid>
+            <pubDate>Thu, 03 Jul 2025 22:01:49 GMT</pubDate>
+            <description><![CDATA[The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging project to rally briefly.]]></description>
+            <content:encoded><![CDATA[<div><div>The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging project to rally briefly.</div></div>]]></content:encoded>
+            <author>The Daily Hodl (The Daily Hodl)</author>
         </item>
         <item>
             <title><![CDATA[Top US Crypto Exchange by Trading Volume Coinbase Adds Support for Leading Cross-Chain Messaging Protocol Wormhole (W) | Altcoin Ethereum ]]></title>
@@ -215,24 +233,6 @@
             <description><![CDATA[Explore the top trending cryptos on Arbitrum Chain, including Uniswap, CARV, and Wormhole, as they lead the next wave of Web3 upheaval.]]></description>
             <content:encoded><![CDATA[<div><div>Explore the top trending cryptos on Arbitrum Chain, including Uniswap, CARV, and Wormhole, as they lead the next wave of Web3 upheaval.</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[SPX6900 (Wormhole): Coin Price, Market Cap, News & Key Metrics Explained]]></title>
-            <link>https://www.okx.com/learn/spx6900-wormhole-coin-price-market-cap-news</link>
-            <guid>rssapp_81f7ea586034cf21ff0890af389a535e</guid>
-            <pubDate>Thu, 19 Jun 2025 09:10:49 GMT</pubDate>
-            <description><![CDATA[OKX - SPX6900 ($SPX) is a meme-based cryptocurrency that has captured the attention of the crypto community with its playful branding and community-driven approach.]]></description>
-            <content:encoded><![CDATA[<div><div>OKX - SPX6900 ($SPX) is a meme-based cryptocurrency that has captured the attention of the crypto community with its playful branding and community-driven approach.</div></div>]]></content:encoded>
-            <author>OKX (OKX)</author>
-        </item>
-        <item>
-            <title><![CDATA[Polygon Bridges POL Token to Solana with Wormhole Integration]]></title>
-            <link>https://www.cointrust.com/market-news/polygon-bridges-pol-token-to-solana-with-wormhole-integration</link>
-            <guid>rssapp_fe9f6bc680a345abc244d07fa2093bb9</guid>
-            <pubDate>Fri, 13 Jun 2025 09:40:43 GMT</pubDate>
-            <description><![CDATA[Polygon, a leading Layer 2 scaling solution for Ethereum, has announced plans to extend the functionality of its native POL token to the Solana blockchain.]]></description>
-            <content:encoded><![CDATA[<div><div>Polygon, a leading Layer 2 scaling solution for Ethereum, has announced plans to extend the functionality of its native POL token to the Solana blockchain.</div></div>]]></content:encoded>
-            <author>CoinTrust (CoinTrust)</author>
         </item>
     </channel>
 </rss>
