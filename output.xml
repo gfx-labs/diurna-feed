@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 04 Jul 2025 02:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 03:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Top US Crypto Exchange by Trading Volume Coinbase Adds Support for Leading Cross-Chain Messaging Protocol Wormhole (W) | Altcoin Ethereum ]]></title>
+            <link>https://cryptorank.io/news/feed/791c0-top-us-crypto-exchange-by-trading-volume-coinbase-adds-support-for-leading-cross-chain-messaging-protocol-wormhole-w</link>
+            <guid>rssapp_d029dff0a64a632f369db8a680a04ec5</guid>
+            <pubDate>Thu, 03 Jul 2025 22:01:49 GMT</pubDate>
+            <description><![CDATA[The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging]]></description>
+            <content:encoded><![CDATA[<div><div>The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging</div></div>]]></content:encoded>
+            <author>CryptoRank (CryptoRank)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole price forms a risky pattern ahead of Coinbase listing]]></title>
             <link>https://crypto.news/wormhole-price-forms-a-risky-pattern-ahead-of-coinbase-listing/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.]]></description>
             <content:encoded><![CDATA[<div><div>Track the latest Wormhole price, market cap, trading volume, news and more with CoinGecko's live W price chart and popular cryptocurrency price tracker.</div></div>]]></content:encoded>
             <author>CoinGecko (CoinGecko)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole ($W) Shows Bullish Divergence After Securing BlackRock, Apollo, and VanEck Partnerships – Key Altcoin Trading Insights ]]></title>
-            <link>https://blockchain.news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights</link>
-            <guid>rssapp_4bc18e73bd9a9fd9ec2ed0ece648a4e0</guid>
-            <pubDate>Tue, 27 May 2025 08:55:00 GMT</pubDate>
-            <description><![CDATA[According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The]]></description>
-            <content:encoded><![CDATA[<div><div>According to Michaël van de Poppe (@CryptoMichNL), Wormhole ($W) is displaying a massive bullish divergence, making it a noteworthy asset in altcoin portfolios despite current underperformance. The</div></div>]]></content:encoded>
-            <author>https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights (https://blockchain news/flashnews/wormhole-w-shows-bullish-divergence-after-securing-blackrock-apollo-and-vaneck-partnerships-key-altcoin-trading-insights)</author>
         </item>
     </channel>
 </rss>
