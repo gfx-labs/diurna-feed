@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 06 Jul 2025 16:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jul 2025 17:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -62,6 +62,15 @@
             <description><![CDATA[On the 1st (local time), the global cryptocurrency exchange Coinbase officially announced the new listing of Wormhole (W).]]></description>
             <content:encoded><![CDATA[<div><div>On the 1st (local time), the global cryptocurrency exchange Coinbase officially announced the new listing of Wormhole (W).</div></div>]]></content:encoded>
             <author>bloomingbit (bloomingbit)</author>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></title>
+            <link>https://www.ainvest.com/news/coinbase-lists-wormhole-protocol-cross-chain-transactions-2507/</link>
+            <guid>rssapp_1ba0257f9d8fe5118a1396aa326f4f02</guid>
+            <pubDate>Tue, 01 Jul 2025 16:07:55 GMT</pubDate>
+            <description><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></description>
+            <content:encoded><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></content:encoded>
+            <author>ainvest (ainvest)</author>
         </item>
         <item>
             <title><![CDATA[XRPL and Wormhole Collaborate to Revolutionize Multichain Access! ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Sui gets cross-chain liquidity boost from key Momentum DEX, Wormhole and OKX partnership]]></description>
             <content:encoded><![CDATA[<div><div>Sui gets cross-chain liquidity boost from key Momentum DEX, Wormhole and OKX partnership</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Top Trending Cryptos on Arbitrum Chain - Uniswap, CARV, Wormhole ]]></title>
-            <link>https://insidebitcoins.com/sponsored/top-trending-cryptos-on-arbitrum-chain-uniswap-carv-wormhole</link>
-            <guid>rssapp_f3c0f817133e166dc902c86347e4106b</guid>
-            <pubDate>Thu, 19 Jun 2025 13:18:22 GMT</pubDate>
-            <description><![CDATA[Explore the top trending cryptos on Arbitrum Chain, including Uniswap, CARV, and Wormhole, as they lead the next wave of Web3 upheaval.]]></description>
-            <content:encoded><![CDATA[<div><div>Explore the top trending cryptos on Arbitrum Chain, including Uniswap, CARV, and Wormhole, as they lead the next wave of Web3 upheaval.</div></div>]]></content:encoded>
-            <author>insidebitcoins (insidebitcoins)</author>
         </item>
     </channel>
 </rss>
