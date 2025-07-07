@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 07 Jul 2025 01:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 02:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -46,6 +46,24 @@
             <author>CryptoRank (CryptoRank)</author>
         </item>
         <item>
+            <title><![CDATA[Algorand Teams Up with Wormhole to Revolutionize Token Transfers Across 40+ Blockchains! ]]></title>
+            <link>https://pintu.co.id/en/news/176054-algorand-partners-with-wormhole-token-transfers</link>
+            <guid>rssapp_5f12b15ddbfbfe8f49a6a9c2dafffa51</guid>
+            <pubDate>Thu, 03 Jul 2025 05:25:46 GMT</pubDate>
+            <description><![CDATA[Algorand collaborates with Wormhole, enabling token transfers between 40+ blockchains without wrapping. Check out the full story!]]></description>
+            <content:encoded><![CDATA[<div><div>Algorand collaborates with Wormhole, enabling token transfers between 40+ blockchains without wrapping. Check out the full story!</div></div>]]></content:encoded>
+            <author>Pintu News (Pintu News)</author>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Lists Wormhole on Solana by July 2 2025]]></title>
+            <link>https://www.ainvest.com/news/coinbase-lists-wormhole-solana-july-2-2025-2507/</link>
+            <guid>rssapp_cdd2d0dfbac55b21420fc8145f82a76c</guid>
+            <pubDate>Wed, 02 Jul 2025 13:50:15 GMT</pubDate>
+            <description><![CDATA[Coinbase Lists Wormhole on Solana by July 2 2025]]></description>
+            <content:encoded><![CDATA[Coinbase Lists Wormhole on Solana by July 2 2025]]></content:encoded>
+            <author>ainvest (ainvest)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole price forms a risky pattern ahead of Coinbase listing]]></title>
             <link>https://crypto.news/wormhole-price-forms-a-risky-pattern-ahead-of-coinbase-listing/</link>
             <guid>rssapp_6e15cee23cf72c1b0a224f436de57538</guid>
@@ -53,6 +71,15 @@
             <description><![CDATA[Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></title>
+            <link>https://www.ainvest.com/news/wormhole-token-gains-18-14-coinbase-listing-2507/</link>
+            <guid>rssapp_ef670ebbe018fcb97f84cf25b8f6a800</guid>
+            <pubDate>Tue, 01 Jul 2025 17:15:53 GMT</pubDate>
+            <description><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></description>
+            <content:encoded><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></content:encoded>
+            <author>ainvest (ainvest)</author>
         </item>
         <item>
             <title><![CDATA[Coinbase Announces Listing of Wormhole (W)]]></title>
@@ -206,33 +233,6 @@
             <description><![CDATA[XRP Ledger's interoperability is set to receive a major boost thanks to Ripple's new partnership with Wormhole.]]></description>
             <content:encoded><![CDATA[<div><div>XRP Ledger's interoperability is set to receive a major boost thanks to Ripple's new partnership with Wormhole.</div></div>]]></content:encoded>
             <author>coincodex (coincodex)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ripple Partners with Wormhole to Bring Multichain Interoperability to the XRPL and XRPL EVM Sidechain]]></title>
-            <link>https://thecryptobasic.com/2025/06/26/ripple-partners-with-wormhole-to-bring-multichain-interoperability-to-the-xrpl-and-xrpl-evm-sidechain/</link>
-            <guid>rssapp_1838bedfe4fc9db0058b9e96623bafe1</guid>
-            <pubDate>Thu, 26 Jun 2025 15:09:56 GMT</pubDate>
-            <description><![CDATA[Ripple has joined forces with Wormhole to bring multichain functionality to the XRP Ledger (XRPL) and the upcoming XRPL EVM Sidechain.]]></description>
-            <content:encoded><![CDATA[<div><div>Ripple has joined forces with Wormhole to bring multichain functionality to the XRP Ledger (XRPL) and the upcoming XRPL EVM Sidechain.</div></div>]]></content:encoded>
-            <author>The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News (The Crypto Basic - Bitcoin, Cryptocurrency, DeFi Topics And News)</author>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Adds Wormhole to Listing Roadmap Boosting Cross-Chain Trading]]></title>
-            <link>https://www.ainvest.com/news/coinbase-adds-wormhole-listing-roadmap-boosting-cross-chain-trading-2506/</link>
-            <guid>rssapp_5c28a97bd5f610a8065073ff8873e772</guid>
-            <pubDate>Thu, 26 Jun 2025 03:42:12 GMT</pubDate>
-            <description><![CDATA[Coinbase Adds Wormhole to Listing Roadmap Boosting Cross-Chain Trading]]></description>
-            <content:encoded><![CDATA[Coinbase Adds Wormhole to Listing Roadmap Boosting Cross-Chain Trading]]></content:encoded>
-            <author>ainvest (ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Momentum, Wormhole & OKX partner to boost Sui network liquidity]]></title>
-            <link>https://crypto.news/momentum-wormhole-okx-partner-to-boost-sui-network-liquidity/</link>
-            <guid>rssapp_f6655709510f524a9b2df798b5bf2a8d</guid>
-            <pubDate>Thu, 19 Jun 2025 18:31:52 GMT</pubDate>
-            <description><![CDATA[Sui gets cross-chain liquidity boost from key Momentum DEX, Wormhole and OKX partnership]]></description>
-            <content:encoded><![CDATA[<div><div>Sui gets cross-chain liquidity boost from key Momentum DEX, Wormhole and OKX partnership</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
