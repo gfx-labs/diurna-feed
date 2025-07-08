@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 08 Jul 2025 06:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 07:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -98,6 +98,15 @@
             <description><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></description>
             <content:encoded><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></content:encoded>
             <author>ainvest (ainvest)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Set To Strengthen XRP Ledger’s Cross-Chain Infrastructure]]></title>
+            <link>https://blockchainreporter.net/wormhole-set-to-strengthen-xrp-ledgers-cross-chain-infrastructure/</link>
+            <guid>rssapp_ff292992162b272989b3857d4d3ecad6</guid>
+            <pubDate>Tue, 01 Jul 2025 05:00:00 GMT</pubDate>
+            <description><![CDATA[Wormhole integration with XRPL enables seamless multichain token transfers, boosting interoperability and expanding blockchain adoption opportunities.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole integration with XRPL enables seamless multichain token transfers, boosting interoperability and expanding blockchain adoption opportunities.</div></div>]]></content:encoded>
+            <author>blockchainreporter (blockchainreporter)</author>
         </item>
         <item>
             <title><![CDATA[XRPL and Wormhole Collaborate to Revolutionize Multichain Access! ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole Crypto is designed to facilitate interoperability between different blockchains, enabling secure transfers of data and tokens across ecosystems. It]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole Crypto is designed to facilitate interoperability between different blockchains, enabling secure transfers of data and tokens across ecosystems. It</div></div>]]></content:encoded>
             <author>Blockchain Magazine (Blockchain Magazine)</author>
-        </item>
-        <item>
-            <title><![CDATA[XRP Interoperability Gets a Big Boost as Ripple Partners with Wormhole ]]></title>
-            <link>https://coincodex.com/article/69283/xrp-interoperability-gets-a-big-boost-as-ripple-partners-with-wormhole/</link>
-            <guid>rssapp_9c8af32197a584aa46c396c64ea2e756</guid>
-            <pubDate>Thu, 26 Jun 2025 15:29:00 GMT</pubDate>
-            <description><![CDATA[XRP Ledger's interoperability is set to receive a major boost thanks to Ripple's new partnership with Wormhole.]]></description>
-            <content:encoded><![CDATA[<div><div>XRP Ledger's interoperability is set to receive a major boost thanks to Ripple's new partnership with Wormhole.</div></div>]]></content:encoded>
-            <author>coincodex (coincodex)</author>
         </item>
     </channel>
 </rss>
