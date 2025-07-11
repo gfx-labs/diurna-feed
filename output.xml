@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 11 Jul 2025 06:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 07:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -26,6 +26,15 @@
             <description><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></description>
             <content:encoded><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></content:encoded>
             <author>ainvest (ainvest)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole crypto’s latest price rejection – Result of a short squeeze or an organic rally?]]></title>
+            <link>https://ambcrypto.com/wormhole-cryptos-latest-price-rejection-result-of-a-short-squeeze-or-an-organic-rally/</link>
+            <guid>rssapp_c07ab19344fc765bca0ced2f855e102c</guid>
+            <pubDate>Fri, 04 Jul 2025 07:00:09 GMT</pubDate>
+            <description><![CDATA[The Ripple partnership announcement boosted demand for W, but would this be sustainable?]]></description>
+            <content:encoded><![CDATA[<div><div>The Ripple partnership announcement boosted demand for W, but would this be sustainable?</div></div>]]></content:encoded>
+            <author>AMBCrypto (AMBCrypto)</author>
         </item>
         <item>
             <title><![CDATA[Top US Crypto Exchange by Trading Volume Coinbase Adds Support for Leading Cross-Chain Messaging Protocol Wormhole (W) ]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Ripple teamed up with Wormhole to let XRPL connect with over 35 blockchains. This will make it easy to move tokens and build cross-chain apps.]]></description>
             <content:encoded><![CDATA[<div><div>Ripple teamed up with Wormhole to let XRPL connect with over 35 blockchains. This will make it easy to move tokens and build cross-chain apps.</div></div>]]></content:encoded>
             <author>The Crypto Times (The Crypto Times)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ripple, XRP News: Ripple Integrates Wormhole With XRP Ledger to Power Institutional Multichain Moves]]></title>
-            <link>https://www.coindesk.com/tech/2025/06/26/ripple-integrates-wormhole-with-xrp-ledger-to-power-institutional-multichain-moves</link>
-            <guid>rssapp_8393e1c0a433c873b74c9ca549969a40</guid>
-            <pubDate>Thu, 26 Jun 2025 16:09:56 GMT</pubDate>
-            <description><![CDATA[Ripple's move supports the development of multichain applications, emphasizing compliance, low cost, and fast settlement.]]></description>
-            <content:encoded><![CDATA[<div><div>Ripple's move supports the development of multichain applications, emphasizing compliance, low cost, and fast settlement.</div></div>]]></content:encoded>
-            <author>CoinDesk (CoinDesk)</author>
         </item>
     </channel>
 </rss>
