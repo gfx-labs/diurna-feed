@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 11 Jul 2025 21:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 22:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -107,6 +107,15 @@
             <description><![CDATA[Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole And Stacks Integrate To Enable Seamless Cross-Chain Bitcoin For DeFi Innovation]]></title>
+            <link>https://blockchainreporter.net/wormhole-and-stacks-integrate-to-enable-seamless-cross-chain-bitcoin-for-defi-innovation/</link>
+            <guid>rssapp_f64d131fc6792dcc8f35ed65e52c6d02</guid>
+            <pubDate>Wed, 02 Jul 2025 07:00:00 GMT</pubDate>
+            <description><![CDATA[Wormhole and Stacks integration enables seamless Bitcoin interoperability, bringing Bitcoin's security to DeFi with cross-chain liquidity and new opportunities.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole and Stacks integration enables seamless Bitcoin interoperability, bringing Bitcoin's security to DeFi with cross-chain liquidity and new opportunities.</div></div>]]></content:encoded>
+            <author>blockchainreporter (blockchainreporter)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole Token W Shows Bullish Reversal Signs Amid Strategic Partnerships]]></description>
             <content:encoded><![CDATA[Wormhole Token W Shows Bullish Reversal Signs Amid Strategic Partnerships]]></content:encoded>
             <author>ainvest (ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Three reasons why Wormhole could be gearing up for a major rally]]></title>
-            <link>https://crypto.news/three-reasons-why-wormhole-could-be-gearing-up-for-a-major-rally/</link>
-            <guid>rssapp_50c6db8b331f3f666b04ce6f237e5e5a</guid>
-            <pubDate>Fri, 27 Jun 2025 07:16:23 GMT</pubDate>
-            <description><![CDATA[Wormhole’s token W is showing early signs of a bullish reversal as its ecosystem continues to gain popularity among major players.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole’s token W is showing early signs of a bullish reversal as its ecosystem continues to gain popularity among major players.</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
