@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 11 Jul 2025 11:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 12:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -80,6 +80,24 @@
             <description><![CDATA[Coinbase Lists Wormhole on Solana by July 2 2025]]></description>
             <content:encoded><![CDATA[Coinbase Lists Wormhole on Solana by July 2 2025]]></content:encoded>
             <author>ainvest (ainvest)</author>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Lists Wormhole Token on Solana Network, Driving 18% Price Surge]]></title>
+            <link>https://www.ainvest.com/news/coinbase-lists-wormhole-token-solana-network-driving-18-price-surge-2507/</link>
+            <guid>rssapp_9f6a76fd25cc43d65d6d4edbea5d83fe</guid>
+            <pubDate>Wed, 02 Jul 2025 13:18:17 GMT</pubDate>
+            <description><![CDATA[Coinbase Lists Wormhole Token on Solana Network, Driving 18% Price Surge]]></description>
+            <content:encoded><![CDATA[<div><div>Coinbase Lists Wormhole Token on Solana Network, Driving 18% Price Surge</div></div>]]></content:encoded>
+            <author>Ainvest (Ainvest)</author>
+        </item>
+        <item>
+            <title><![CDATA[Stacks Expands sBTC and STX Multichain with Wormhole NTT Standard]]></title>
+            <link>https://blockchain.news/news/stacks-expands-sbtc-stx-multichain-wormhole-ntt-standard</link>
+            <guid>rssapp_600518bf096b35b10b8622c5e07a6d34</guid>
+            <pubDate>Wed, 02 Jul 2025 12:56:00 GMT</pubDate>
+            <description><![CDATA[Stacks adopts Wormhole's NTT standard to expand sBTC and STX across multiple chains, enhancing Bitcoin liquidity in DeFi ecosystems.]]></description>
+            <content:encoded><![CDATA[<div><div>Stacks adopts Wormhole's NTT standard to expand sBTC and STX across multiple chains, enhancing Bitcoin liquidity in DeFi ecosystems.</div></div>]]></content:encoded>
+            <author>https://blockchain news/news/stacks-expands-sbtc-stx-multichain-wormhole-ntt-standard (https://blockchain news/news/stacks-expands-sbtc-stx-multichain-wormhole-ntt-standard)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole price forms a risky pattern ahead of Coinbase listing]]></title>
@@ -215,24 +233,6 @@
             <description><![CDATA[Wormhole’s token W is showing early signs of a bullish reversal as its ecosystem continues to gain popularity among major players.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole’s token W is showing early signs of a bullish reversal as its ecosystem continues to gain popularity among major players.</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ripple Integrates XRP Ledger With Wormhole To Expand Multichain Interoperability]]></title>
-            <link>https://www.tronweekly.com/ripple-integrates-xrp-ledger-with-wormhole/</link>
-            <guid>rssapp_346236f70c31b2b588b293d9cd0a2795</guid>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ripple integrates XRPL and its EVM sidechain with Wormhole, enabling asset transfers, smart contract interaction, and access to 35+ blockchain networks.]]></description>
-            <content:encoded><![CDATA[<div><div>Ripple integrates XRPL and its EVM sidechain with Wormhole, enabling asset transfers, smart contract interaction, and access to 35+ blockchain networks.</div></div>]]></content:encoded>
-            <author>TronWeekly (TronWeekly)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Crypto Partners with XRP Ledger: What Does It Mean for Them? ]]></title>
-            <link>https://99bitcoins.com/news/presales/wormhole-crypto-partners-with-xrp-ledger-what-does-it-mean-for-them/</link>
-            <guid>rssapp_c091672b80f378d17c95fb2af41acbcf</guid>
-            <pubDate>Thu, 26 Jun 2025 22:22:48 GMT</pubDate>
-            <description><![CDATA[Ripple and Wormhole crypto just teamed up to link up the XRP Ledger (XRPL) with over 35 major blockchains, what does it mean?]]></description>
-            <content:encoded><![CDATA[<div><div>Ripple and Wormhole crypto just teamed up to link up the XRP Ledger (XRPL) with over 35 major blockchains, what does it mean?</div></div>]]></content:encoded>
-            <author>99Bitcoins (99Bitcoins)</author>
         </item>
     </channel>
 </rss>
