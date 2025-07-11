@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 11 Jul 2025 08:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 09:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Redstone Bridges Native RED Token To Solana, Powering Multichain Capabilities Through Wormhole NTT Integration]]></title>
+            <link>https://blockchainreporter.net/redstone-bridges-native-red-token-to-solana-powering-multichain-capabilities-through-wormhole-ntt-integration/</link>
+            <guid>rssapp_1decf64aafeefb2daed69bc19947537d</guid>
+            <pubDate>Fri, 11 Jul 2025 08:00:00 GMT</pubDate>
+            <description><![CDATA[Redstone brings its native RED token to Solana through collaboration with Wormhole's NTT model, marking a substantial expansion beyond its domestic environment.]]></description>
+            <content:encoded><![CDATA[<div><div>Redstone brings its native RED token to Solana through collaboration with Wormhole's NTT model, marking a substantial expansion beyond its domestic environment.</div></div>]]></content:encoded>
+            <author>blockchainreporter (blockchainreporter)</author>
+        </item>
         <item>
             <title><![CDATA[What Is Wormhole Crypto? All You Need To Know ]]></title>
             <link>https://99bitcoins.com/news/presales/what-is-wormhole-crypto-all-you-need-to-know/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Ripple and Wormhole crypto just teamed up to link up the XRP Ledger (XRPL) with over 35 major blockchains, what does it mean?]]></description>
             <content:encoded><![CDATA[<div><div>Ripple and Wormhole crypto just teamed up to link up the XRP Ledger (XRPL) with over 35 major blockchains, what does it mean?</div></div>]]></content:encoded>
             <author>99Bitcoins (99Bitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ripple Connects XRP Ledger to 35 Blockchains Through Wormhole]]></title>
-            <link>https://www.cryptotimes.io/2025/06/26/ripple-connects-xrp-ledger-to-35-blockchains-through-wormhole/</link>
-            <guid>rssapp_75229c67565056e8e3f3fe9e7edcb99d</guid>
-            <pubDate>Thu, 26 Jun 2025 17:32:26 GMT</pubDate>
-            <description><![CDATA[Ripple teamed up with Wormhole to let XRPL connect with over 35 blockchains. This will make it easy to move tokens and build cross-chain apps.]]></description>
-            <content:encoded><![CDATA[<div><div>Ripple teamed up with Wormhole to let XRPL connect with over 35 blockchains. This will make it easy to move tokens and build cross-chain apps.</div></div>]]></content:encoded>
-            <author>The Crypto Times (The Crypto Times)</author>
         </item>
     </channel>
 </rss>
