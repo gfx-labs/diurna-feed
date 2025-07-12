@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 12 Jul 2025 17:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 18:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -150,7 +150,7 @@
             <guid>rssapp_1ba0257f9d8fe5118a1396aa326f4f02</guid>
             <pubDate>Tue, 01 Jul 2025 16:07:55 GMT</pubDate>
             <description><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></description>
-            <content:encoded><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></content:encoded>
+            <content:encoded><![CDATA[<div><div>Coinbase Lists Wormhole Protocol for Cross-Chain Transactions</div></div>]]></content:encoded>
             <author>ainvest (ainvest)</author>
         </item>
         <item>
