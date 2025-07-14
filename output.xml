@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 14 Jul 2025 04:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 05:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -132,7 +132,7 @@
             <guid>rssapp_ef670ebbe018fcb97f84cf25b8f6a800</guid>
             <pubDate>Tue, 01 Jul 2025 17:15:53 GMT</pubDate>
             <description><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></description>
-            <content:encoded><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></content:encoded>
+            <content:encoded><![CDATA[<div><div>Wormhole Token Gains 18.14% Ahead of Coinbase Listing</div></div>]]></content:encoded>
             <author>ainvest (ainvest)</author>
         </item>
         <item>
