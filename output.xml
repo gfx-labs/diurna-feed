@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 17 Jul 2025 23:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 00:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery]]></title>
+            <link>https://www.ainvest.com/news/ethereum-news-today-jump-crypto-transfers-40-5-million-eth-wormhole-recovery-2507/</link>
+            <guid>rssapp_dde0a192e12eb7787a8eb39a310fd62e</guid>
+            <pubDate>Thu, 17 Jul 2025 21:49:46 GMT</pubDate>
+            <description><![CDATA[Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery]]></description>
+            <content:encoded><![CDATA[<div><div>Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery</div></div>]]></content:encoded>
+            <author>Ainvest (Ainvest)</author>
+        </item>
         <item>
             <title><![CDATA[DeepAI]]></title>
             <link>https://msig.at/en/unlocking-the-mysteries-of-wormhole-crypto-a-new-doorway-in-blockchain/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[For developers, XRPL is a green light to build beyond boundaries. For users, it signals smoother, faster, and more connected digital finance.]]></description>
             <content:encoded><![CDATA[<div><div>For developers, XRPL is a green light to build beyond boundaries. For users, it signals smoother, faster, and more connected digital finance.</div></div>]]></content:encoded>
             <author>Altcoin Buzz (Altcoin Buzz)</author>
-        </item>
-        <item>
-            <title><![CDATA[XRP may fall below $2.00 despite Wormhole integration; check forecast]]></title>
-            <link>https://www.msn.com/en-us/money/markets/xrp-may-fall-below-2-00-despite-wormhole-integration-check-forecast/ar-AA1Hy2X1</link>
-            <guid>rssapp_b17553175fb431f5c4ab17d78a4b305b</guid>
-            <pubDate>Fri, 27 Jun 2025 09:10:49 GMT</pubDate>
-            <description><![CDATA[The cryptocurrency market could end the week bearish despite its positive start. Bitcoin, the leading cryptocurrency by market cap, is down 1% in the last 24 hours and has now dropped below $107k. As usual, Bitcoin’s performance dictates how altcoins react. Most altcoins are currently in the red, including Ethereum’s Ether and Ripple’s XRP. XRP ris...]]></description>
-            <content:encoded><![CDATA[<div><div>The cryptocurrency market could end the week bearish despite its positive start. Bitcoin, the leading cryptocurrency by market cap, is down 1% in the last 24 hours and has now dropped below $107k. As usual, Bitcoin’s performance dictates how altcoins react. Most altcoins are currently in the red, including Ethereum’s Ether and Ripple’s XRP. XRP ris...</div></div>]]></content:encoded>
-            <author>msn (msn)</author>
         </item>
     </channel>
 </rss>
