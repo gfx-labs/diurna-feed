@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 21 Jul 2025 10:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jul 2025 11:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -163,6 +163,15 @@
             <author>ainvest (ainvest)</author>
         </item>
         <item>
+            <title><![CDATA[Algorand Joins Wormhole Network, Boosts Interoperability]]></title>
+            <link>https://www.coinspeaker.com/algorand-joins-wormhole-network-boosts-interoperability/</link>
+            <guid>rssapp_94a468722b5b4add1a0771ce5f4392b2</guid>
+            <pubDate>Tue, 01 Jul 2025 12:59:58 GMT</pubDate>
+            <description><![CDATA[Algorand joins Wormhole for seamless multichain token transfers. Cardano advances Bitcoin DeFi and ecosystem growth.]]></description>
+            <content:encoded><![CDATA[<div><div>Algorand joins Wormhole for seamless multichain token transfers. Cardano advances Bitcoin DeFi and ecosystem growth.</div></div>]]></content:encoded>
+            <author>Coinspeaker (Coinspeaker)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole Set To Strengthen XRP Ledger’s Cross-Chain Infrastructure]]></title>
             <link>https://blockchainreporter.net/wormhole-set-to-strengthen-xrp-ledgers-cross-chain-infrastructure/</link>
             <guid>rssapp_ff292992162b272989b3857d4d3ecad6</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[The Wormhole price dropped 3% in the last 24 hours as this Bitcoin layer-2 presale charges towards $2 million.]]></description>
             <content:encoded><![CDATA[<div><div>The Wormhole price dropped 3% in the last 24 hours as this Bitcoin layer-2 presale charges towards $2 million.</div></div>]]></content:encoded>
             <author>insidebitcoins (insidebitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[XRPL Goes Multichain with Wormhole Partnership ]]></title>
-            <link>https://www.altcoinbuzz.io/cryptocurrency-news/xrpl-goes-multichain-with-wormhole-partnership/</link>
-            <guid>rssapp_4093d955131acafd7dd80199a1b06a73</guid>
-            <pubDate>Fri, 27 Jun 2025 09:30:10 GMT</pubDate>
-            <description><![CDATA[For developers, XRPL is a green light to build beyond boundaries. For users, it signals smoother, faster, and more connected digital finance.]]></description>
-            <content:encoded><![CDATA[<div><div>For developers, XRPL is a green light to build beyond boundaries. For users, it signals smoother, faster, and more connected digital finance.</div></div>]]></content:encoded>
-            <author>Altcoin Buzz (Altcoin Buzz)</author>
         </item>
     </channel>
 </rss>
