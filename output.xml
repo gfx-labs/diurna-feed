@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 23 Jul 2025 00:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 01:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -145,6 +145,15 @@
             <author>blockchainreporter (blockchainreporter)</author>
         </item>
         <item>
+            <title><![CDATA[Algorand to Be Integrated With Wormhole]]></title>
+            <link>https://www.tradingview.com/news/coindar:34e72bb9d094b:0-algorand-to-be-integrated-with-wormhole/</link>
+            <guid>rssapp_0d6dd66b9190ec47d3d7c1faf8a54f79</guid>
+            <pubDate>Tue, 01 Jul 2025 19:46:58 GMT</pubDate>
+            <description><![CDATA[Algorand confirmed the integration of Wormhole’s Native Token Transfers (NTT) into its blockchain on July 1st, following development by Folks Finance in cooperation with the Algorand Foundation.The implementation enables cross-chain token movement, with the FOLKS token designated as the first asset…]]></description>
+            <content:encoded><![CDATA[<div><div>Algorand confirmed the integration of Wormhole’s Native Token Transfers (NTT) into its blockchain on July 1st, following development by Folks Finance in cooperation with the Algorand Foundation.The implementation enables cross-chain token movement, with the FOLKS token designated as the first asset…</div></div>]]></content:encoded>
+            <author>TradingView (TradingView)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></title>
             <link>https://www.ainvest.com/news/wormhole-token-gains-18-14-coinbase-listing-2507/</link>
             <guid>rssapp_ef670ebbe018fcb97f84cf25b8f6a800</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Judge Torres denies Ripple and SEC’s motion in the XRP case as XRPL advances with Wormhole integration, boosting institutional]]></description>
             <content:encoded><![CDATA[<div><div>Judge Torres denies Ripple and SEC’s motion in the XRP case as XRPL advances with Wormhole integration, boosting institutional</div></div>]]></content:encoded>
             <author>The Market Periodical (The Market Periodical)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ripple Price Forecast: XRP risks decline below $2.00 despite Wormhole interoperability partnership]]></title>
-            <link>https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-risks-decline-below-200-despite-wormhole-interoperability-partnership-202506271515</link>
-            <guid>rssapp_afb4f21eaa0f0a63d3a1735173a98d96</guid>
-            <pubDate>Fri, 27 Jun 2025 15:15:00 GMT</pubDate>
-            <description><![CDATA[Ripple (XRP) extends losses on the third day in a row after its bullish momentum snapped under the resistance level at $2.23. Key technical indicators cement the bearish grip, while the XRP price exchanges hands at around $2.08 on Friday.]]></description>
-            <content:encoded><![CDATA[<div><div>Ripple (XRP) extends losses on the third day in a row after its bullish momentum snapped under the resistance level at $2.23. Key technical indicators cement the bearish grip, while the XRP price exchanges hands at around $2.08 on Friday.</div></div>]]></content:encoded>
-            <author>FXStreet (FXStreet)</author>
         </item>
     </channel>
 </rss>
