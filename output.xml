@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 23 Jul 2025 16:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 17:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -51,7 +51,7 @@
             <guid>rssapp_a6c541fea78fb65015ba5246b0e97fe1</guid>
             <pubDate>Fri, 04 Jul 2025 07:17:04 GMT</pubDate>
             <description><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></description>
-            <content:encoded><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></content:encoded>
+            <content:encoded><![CDATA[<div><div>Wormhole Price Rejection After 12% Rally on Ripple Partnership</div></div>]]></content:encoded>
             <author>ainvest (ainvest)</author>
         </item>
         <item>
