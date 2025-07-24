@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 24 Jul 2025 16:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 17:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -145,6 +145,15 @@
             <author>blockchainreporter (blockchainreporter)</author>
         </item>
         <item>
+            <title><![CDATA[Algorand Joins Forces With Wormhole To Advance Cross-Chain Interoperability]]></title>
+            <link>https://blockchainreporter.net/algorand-joins-forces-with-wormhole-to-advance-cross-chain-interoperability/</link>
+            <guid>rssapp_386e1836a3cc31c8ac99e393cece6144</guid>
+            <pubDate>Tue, 01 Jul 2025 21:00:00 GMT</pubDate>
+            <description><![CDATA[With Folks Finance supporting the execution process while Wormhole offering the underlying architecture, this alliance advances Algorand's capabilities.]]></description>
+            <content:encoded><![CDATA[<div><div>With Folks Finance supporting the execution process while Wormhole offering the underlying architecture, this alliance advances Algorand's capabilities.</div></div>]]></content:encoded>
+            <author>blockchainreporter (blockchainreporter)</author>
+        </item>
+        <item>
             <title><![CDATA[Algorand to Be Integrated With Wormhole]]></title>
             <link>https://www.tradingview.com/news/coindar:34e72bb9d094b:0-algorand-to-be-integrated-with-wormhole/</link>
             <guid>rssapp_0d6dd66b9190ec47d3d7c1faf8a54f79</guid>
@@ -224,15 +233,6 @@
             <description><![CDATA[Ripple integrates Wormhole to enable XRP Ledger (XRPL) and its EVM Sidechain to interact with 35+ blockchains.]]></description>
             <content:encoded><![CDATA[<div><div>Ripple integrates Wormhole to enable XRP Ledger (XRPL) and its EVM Sidechain to interact with 35+ blockchains.</div></div>]]></content:encoded>
             <author>CryptoNinjas (CryptoNinjas)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ripple-SEC Motion Denied: XRPL Expands With Wormhole Support]]></title>
-            <link>https://themarketperiodical.com/2025/06/28/ripple-sec-motion-denied-xrpl-expands-with-wormhole-support/</link>
-            <guid>rssapp_b72dd95e78dc01bb0f6ae4f2859a9f94</guid>
-            <pubDate>Sat, 28 Jun 2025 06:25:00 GMT</pubDate>
-            <description><![CDATA[Judge Torres denies Ripple and SEC’s motion in the XRP case as XRPL advances with Wormhole integration, boosting institutional]]></description>
-            <content:encoded><![CDATA[<div><div>Judge Torres denies Ripple and SEC’s motion in the XRP case as XRPL advances with Wormhole integration, boosting institutional</div></div>]]></content:encoded>
-            <author>The Market Periodical (The Market Periodical)</author>
         </item>
     </channel>
 </rss>
