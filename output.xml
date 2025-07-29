@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 29 Jul 2025 20:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 21:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Mento Selects Wormhole as its Official Interoperability Provider to Power Multichain FX – Press release Bitcoin News]]></title>
+            <link>https://news.bitcoin.com/?p=743293</link>
+            <guid>rssapp_9415348bcb4f95d4bba596661ad51187</guid>
+            <pubDate>Tue, 29 Jul 2025 13:15:06 GMT</pubDate>
+            <description><![CDATA[Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.]]></description>
+            <content:encoded><![CDATA[<div><div>Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.</div></div>]]></content:encoded>
+            <author>Bitcoin News (Bitcoin News)</author>
+        </item>
         <item>
             <title><![CDATA[Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery]]></title>
             <link>https://www.ainvest.com/news/ethereum-news-today-jump-crypto-transfers-40-5-million-eth-wormhole-recovery-2507/</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[XRPL is collaborating with Wormhole to integrate more than 35 blockchains, improving interoperability and opening up new opportunities in DeFi and payments.]]></description>
             <content:encoded><![CDATA[<div><div>XRPL is collaborating with Wormhole to integrate more than 35 blockchains, improving interoperability and opening up new opportunities in DeFi and payments.</div></div>]]></content:encoded>
             <author>Pintu News (Pintu News)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole rallies on Ripple deal, but risky gaps remain]]></title>
-            <link>https://crypto.news/wormhole-ripple-deal-rally-bridge-its-risky-gaps/</link>
-            <guid>rssapp_bcf9b80de4643f971059bc8c98003e93</guid>
-            <pubDate>Sat, 28 Jun 2025 13:32:10 GMT</pubDate>
-            <description><![CDATA[Wormhole is showing signs of recovery, surging 45% from its yearly low after announcing a strategic partnership with Ripple Labs.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole is showing signs of recovery, surging 45% from its yearly low after announcing a strategic partnership with Ripple Labs.</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
