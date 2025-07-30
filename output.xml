@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 30 Jul 2025 12:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 13:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -226,13 +226,13 @@
             <author>Coinspeaker (Coinspeaker)</author>
         </item>
         <item>
-            <title><![CDATA[Wormhole Set To Strengthen XRP Ledger’s Cross-Chain Infrastructure]]></title>
-            <link>https://blockchainreporter.net/wormhole-set-to-strengthen-xrp-ledgers-cross-chain-infrastructure/</link>
-            <guid>rssapp_ff292992162b272989b3857d4d3ecad6</guid>
-            <pubDate>Tue, 01 Jul 2025 05:00:00 GMT</pubDate>
-            <description><![CDATA[Wormhole integration with XRPL enables seamless multichain token transfers, boosting interoperability and expanding blockchain adoption opportunities.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole integration with XRPL enables seamless multichain token transfers, boosting interoperability and expanding blockchain adoption opportunities.</div></div>]]></content:encoded>
-            <author>blockchainreporter (blockchainreporter)</author>
+            <title><![CDATA[Algorand Foundation Announces Launch of Wormhole Native Token Transfers, Enabling Multichain Interoperability for Algorand]]></title>
+            <link>https://www.prnewswire.com/in/news-releases/algorand-foundation-announces-launch-of-wormhole-native-token-transfers-enabling-multichain-interoperability-for-algorand-302494901.html</link>
+            <guid>rssapp_03fa0c5ed2d9c0041495e35d72aed5b2</guid>
+            <pubDate>Tue, 01 Jul 2025 09:00:00 GMT</pubDate>
+            <description><![CDATA[/PRNewswire/ -- The Algorand Foundation today announced the integration of Wormhole's Native Token Transfers (NTT) standard on the Algorand blockchain. The...]]></description>
+            <content:encoded><![CDATA[<div><div>/PRNewswire/ -- The Algorand Foundation today announced the integration of Wormhole's Native Token Transfers (NTT) standard on the Algorand blockchain. The...</div></div>]]></content:encoded>
+            <author>PRNewswire (PRNewswire)</author>
         </item>
     </channel>
 </rss>
