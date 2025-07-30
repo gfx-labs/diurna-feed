@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 30 Jul 2025 02:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 03:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.]]></description>
             <content:encoded><![CDATA[<div><div>Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.</div></div>]]></content:encoded>
             <author>Bitcoin News (Bitcoin News)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole (W) To Rise Higher? This Emerging Bullish Fractal Saying Yes! ]]></title>
+            <link>https://www.bitget.com/news/detail/12560604885454</link>
+            <guid>rssapp_4a228f4ee987c982eda44130515217ba</guid>
+            <pubDate>Tue, 29 Jul 2025 13:05:07 GMT</pubDate>
+            <description><![CDATA[Date:Tue, July 29, 2025 | 11:15 AM GMT   The cryptocurrency market is undergoing a mild pullback after Ethereum (ETH) tested its multi-year resistance near  | Bitget crypto news!]]></description>
+            <content:encoded><![CDATA[<div><div>Date:Tue, July 29, 2025 | 11:15 AM GMT   The cryptocurrency market is undergoing a mild pullback after Ethereum (ETH) tested its multi-year resistance near  | Bitget crypto news!</div></div>]]></content:encoded>
+            <author>Bitget (Bitget)</author>
         </item>
         <item>
             <title><![CDATA[Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Wormhole integration with XRPL enables seamless multichain token transfers, boosting interoperability and expanding blockchain adoption opportunities.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole integration with XRPL enables seamless multichain token transfers, boosting interoperability and expanding blockchain adoption opportunities.</div></div>]]></content:encoded>
             <author>blockchainreporter (blockchainreporter)</author>
-        </item>
-        <item>
-            <title><![CDATA[XRPL and Wormhole Collaborate to Revolutionize Multichain Access! ]]></title>
-            <link>https://pintu.co.id/en/news/174291-xrpl-and-wormhole-collaborate-to-revolutionize-multichain-access</link>
-            <guid>rssapp_32fa0653c8e94bbbc15394f9370f8761</guid>
-            <pubDate>Mon, 30 Jun 2025 02:56:40 GMT</pubDate>
-            <description><![CDATA[XRPL is collaborating with Wormhole to integrate more than 35 blockchains, improving interoperability and opening up new opportunities in DeFi and payments.]]></description>
-            <content:encoded><![CDATA[<div><div>XRPL is collaborating with Wormhole to integrate more than 35 blockchains, improving interoperability and opening up new opportunities in DeFi and payments.</div></div>]]></content:encoded>
-            <author>Pintu News (Pintu News)</author>
         </item>
     </channel>
 </rss>
