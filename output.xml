@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 31 Jul 2025 16:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Jul 2025 17:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains]]></title>
+            <link>https://www.ainvest.com/news/ethereum-news-today-mento-wormhole-partner-expand-cross-chain-fx-infrastructure-40-blockchains-2507/</link>
+            <guid>rssapp_b9d9936782324f3fe03341f221b5a445</guid>
+            <pubDate>Tue, 29 Jul 2025 13:44:22 GMT</pubDate>
+            <description><![CDATA[Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains]]></description>
+            <content:encoded><![CDATA[<div><div>Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains</div></div>]]></content:encoded>
+            <author>Ainvest (Ainvest)</author>
+        </item>
         <item>
             <title><![CDATA[Mento Selects Wormhole as its Official Interoperability Provider to Power Multichain FX – Press release Bitcoin News]]></title>
             <link>https://news.bitcoin.com/?p=743293</link>
@@ -224,15 +233,6 @@
             <description><![CDATA[Algorand joins Wormhole for seamless multichain token transfers. Cardano advances Bitcoin DeFi and ecosystem growth.]]></description>
             <content:encoded><![CDATA[<div><div>Algorand joins Wormhole for seamless multichain token transfers. Cardano advances Bitcoin DeFi and ecosystem growth.</div></div>]]></content:encoded>
             <author>Coinspeaker (Coinspeaker)</author>
-        </item>
-        <item>
-            <title><![CDATA[Algorand Foundation Announces Launch of Wormhole Native Token Transfers, Enabling Multichain Interoperability for Algorand]]></title>
-            <link>https://www.prnewswire.com/in/news-releases/algorand-foundation-announces-launch-of-wormhole-native-token-transfers-enabling-multichain-interoperability-for-algorand-302494901.html</link>
-            <guid>rssapp_03fa0c5ed2d9c0041495e35d72aed5b2</guid>
-            <pubDate>Tue, 01 Jul 2025 09:00:00 GMT</pubDate>
-            <description><![CDATA[/PRNewswire/ -- The Algorand Foundation today announced the integration of Wormhole's Native Token Transfers (NTT) standard on the Algorand blockchain. The...]]></description>
-            <content:encoded><![CDATA[<div><div>/PRNewswire/ -- The Algorand Foundation today announced the integration of Wormhole's Native Token Transfers (NTT) standard on the Algorand blockchain. The...</div></div>]]></content:encoded>
-            <author>PRNewswire (PRNewswire)</author>
         </item>
     </channel>
 </rss>
