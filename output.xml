@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 01 Aug 2025 14:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Aug 2025 15:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains]]></description>
             <content:encoded><![CDATA[<div><div>Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains</div></div>]]></content:encoded>
             <author>Ainvest (Ainvest)</author>
+        </item>
+        <item>
+            <title><![CDATA[Mento Selects Wormhole as its Official Interoperability Provider to Power Multichain FX – Press release Bitcoin News]]></title>
+            <link>https://news.bitcoin.com/mento-selects-wormhole-as-its-official-interoperability-provider-to-power-multichain-fx/</link>
+            <guid>rssapp_5ba6c911a3e54a8ccf29e30f84327562</guid>
+            <pubDate>Tue, 29 Jul 2025 13:15:06 GMT</pubDate>
+            <description><![CDATA[Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.]]></description>
+            <content:encoded><![CDATA[<div><div>Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.</div></div>]]></content:encoded>
+            <author>Bitcoin News (Bitcoin News)</author>
         </item>
         <item>
             <title><![CDATA[Mento Selects Wormhole as its Official Interoperability Provider to Power Multichain FX – Press release Bitcoin News]]></title>
@@ -224,15 +233,6 @@
             <description><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></description>
             <content:encoded><![CDATA[<div><div>Coinbase Lists Wormhole Protocol for Cross-Chain Transactions</div></div>]]></content:encoded>
             <author>ainvest (ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Algorand Joins Wormhole Network, Boosts Interoperability]]></title>
-            <link>https://www.coinspeaker.com/algorand-joins-wormhole-network-boosts-interoperability/</link>
-            <guid>rssapp_94a468722b5b4add1a0771ce5f4392b2</guid>
-            <pubDate>Tue, 01 Jul 2025 12:59:58 GMT</pubDate>
-            <description><![CDATA[Algorand joins Wormhole for seamless multichain token transfers. Cardano advances Bitcoin DeFi and ecosystem growth.]]></description>
-            <content:encoded><![CDATA[<div><div>Algorand joins Wormhole for seamless multichain token transfers. Cardano advances Bitcoin DeFi and ecosystem growth.</div></div>]]></content:encoded>
-            <author>Coinspeaker (Coinspeaker)</author>
         </item>
     </channel>
 </rss>
