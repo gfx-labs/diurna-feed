@@ -4,11 +4,52 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 10 Aug 2025 12:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Aug 2025 13:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[XRPL x Wormhole - Maxis Cry - Woke Dies - Sydney Sweeney Takes Times Square! - On The Chain - Blockchain and Cryptocurrency News + Opinion]]></title>
+            <link>https://poddtoppen.se/podcast/1497698127/on-the-chain-blockchain-and-cryptocurrency-news-opinion/xrpl-x-wormhole-maxis-cry-woke-dies-sydney-sweeney-takes-times-square</link>
+            <guid>rssapp_db6124a772ecfea79dac0f1bd32c824a</guid>
+            <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to On the Chain
+
+On The Chain focuses on Blockchain and Digital Assets, Cryptocurrency news, and opinion with a focus on XRP. For those who are brand new to the Digital Asset / Blockchain space, and those who have been around and are considered to be veterans in this space.
+
+OC has a global audience., providing high-quality, fact-based content and no hype.
+
+It is a community-driven platform for Mainstreet, a growing need and growing interest in the latest news, opinions, and research in the digital asset/blockchain technologies.
+
+All opinions expressed by the contributors are their own opinions and not necessarily those of the OTC platform.
+
+Platform to reach a massive global audience providing high-quality content support to lift content creators.
+
+Follow us on TWITTER: https://twitter.com/on_the_chain
+
+YouTube Channels:
+
+https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain]]></description>
+            <content:encoded><![CDATA[<div><div>Welcome to On the Chain
+
+On The Chain focuses on Blockchain and Digital Assets, Cryptocurrency news, and opinion with a focus on XRP. For those who are brand new to the Digital Asset / Blockchain space, and those who have been around and are considered to be veterans in this space.
+
+OC has a global audience., providing high-quality, fact-based content and no hype.
+
+It is a community-driven platform for Mainstreet, a growing need and growing interest in the latest news, opinions, and research in the digital asset/blockchain technologies.
+
+All opinions expressed by the contributors are their own opinions and not necessarily those of the OTC platform.
+
+Platform to reach a massive global audience providing high-quality content support to lift content creators.
+
+Follow us on TWITTER: https://twitter.com/on_the_chain
+
+YouTube Channels:
+
+https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</div></div>]]></content:encoded>
+            <author>Poddtoppen (Poddtoppen)</author>
+        </item>
         <item>
             <title><![CDATA[Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains]]></title>
             <link>https://www.ainvest.com/news/ethereum-news-today-mento-wormhole-partner-expand-cross-chain-fx-infrastructure-40-blockchains-2507/</link>
@@ -224,15 +265,6 @@
             <description><![CDATA[On the 1st (local time), the global cryptocurrency exchange Coinbase officially announced the new listing of Wormhole (W).]]></description>
             <content:encoded><![CDATA[<div><div>On the 1st (local time), the global cryptocurrency exchange Coinbase officially announced the new listing of Wormhole (W).</div></div>]]></content:encoded>
             <author>bloomingbit (bloomingbit)</author>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></title>
-            <link>https://www.ainvest.com/news/coinbase-lists-wormhole-protocol-cross-chain-transactions-2507/</link>
-            <guid>rssapp_1ba0257f9d8fe5118a1396aa326f4f02</guid>
-            <pubDate>Tue, 01 Jul 2025 16:07:55 GMT</pubDate>
-            <description><![CDATA[Coinbase Lists Wormhole Protocol for Cross-Chain Transactions]]></description>
-            <content:encoded><![CDATA[<div><div>Coinbase Lists Wormhole Protocol for Cross-Chain Transactions</div></div>]]></content:encoded>
-            <author>ainvest (ainvest)</author>
         </item>
     </channel>
 </rss>
