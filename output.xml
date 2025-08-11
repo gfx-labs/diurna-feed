@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 11 Aug 2025 18:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 19:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[15% Leap for Wormhole: Can Its Upside Momentum Defy Gravity?]]></title>
+            <link>https://thenewscrypto.com/15-leap-for-wormhole-can-its-upside-momentum-defy-gravity/</link>
+            <guid>rssapp_42079f5cebe71f2ab97c7ca572784dc0</guid>
+            <pubDate>Sat, 09 Aug 2025 09:49:03 GMT</pubDate>
+            <description><![CDATA[After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?]]></description>
+            <content:encoded><![CDATA[<div><div>After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?</div></div>]]></content:encoded>
+            <author>TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide (TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide)</author>
+        </item>
         <item>
             <title><![CDATA[XRPL x Wormhole - Maxis Cry - Woke Dies - Sydney Sweeney Takes Times Square! - On The Chain - Blockchain and Cryptocurrency News + Opinion]]></title>
             <link>https://poddtoppen.se/podcast/1497698127/on-the-chain-blockchain-and-cryptocurrency-news-opinion/xrpl-x-wormhole-maxis-cry-woke-dies-sydney-sweeney-takes-times-square</link>
@@ -103,6 +112,15 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery]]></description>
             <content:encoded><![CDATA[<div><div>Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery</div></div>]]></content:encoded>
             <author>Ainvest (Ainvest)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole almost killed Solana DeFi — now works with Blackrock, Hamilton Lane]]></title>
+            <link>https://protos.com/wormhole-almost-killed-solana-defi-now-works-with-blackrock-hamilton-lane/</link>
+            <guid>rssapp_899e93206c055be083c38119d4f6e733</guid>
+            <pubDate>Thu, 17 Jul 2025 17:33:46 GMT</pubDate>
+            <description><![CDATA[Wormhole, the blockchain bridge that suffered a series of losses in 2022, is earning partnerships with the world’s biggest asset managers.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole, the blockchain bridge that suffered a series of losses in 2022, is earning partnerships with the world’s biggest asset managers.</div></div>]]></content:encoded>
+            <author>Protos (Protos)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole ($W) Price Analysis: Massive Bullish Divergence Signals Potential Breakout ]]></title>
@@ -247,24 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[With Folks Finance supporting the execution process while Wormhole offering the underlying architecture, this alliance advances Algorand's capabilities.]]></description>
             <content:encoded><![CDATA[<div><div>With Folks Finance supporting the execution process while Wormhole offering the underlying architecture, this alliance advances Algorand's capabilities.</div></div>]]></content:encoded>
             <author>blockchainreporter (blockchainreporter)</author>
-        </item>
-        <item>
-            <title><![CDATA[Algorand to Be Integrated With Wormhole]]></title>
-            <link>https://www.tradingview.com/news/coindar:34e72bb9d094b:0-algorand-to-be-integrated-with-wormhole/</link>
-            <guid>rssapp_0d6dd66b9190ec47d3d7c1faf8a54f79</guid>
-            <pubDate>Tue, 01 Jul 2025 19:46:58 GMT</pubDate>
-            <description><![CDATA[Algorand confirmed the integration of Wormhole’s Native Token Transfers (NTT) into its blockchain on July 1st, following development by Folks Finance in cooperation with the Algorand Foundation.The implementation enables cross-chain token movement, with the FOLKS token designated as the first asset…]]></description>
-            <content:encoded><![CDATA[<div><div>Algorand confirmed the integration of Wormhole’s Native Token Transfers (NTT) into its blockchain on July 1st, following development by Folks Finance in cooperation with the Algorand Foundation.The implementation enables cross-chain token movement, with the FOLKS token designated as the first asset…</div></div>]]></content:encoded>
-            <author>TradingView (TradingView)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></title>
-            <link>https://www.ainvest.com/news/wormhole-token-gains-18-14-coinbase-listing-2507/</link>
-            <guid>rssapp_ef670ebbe018fcb97f84cf25b8f6a800</guid>
-            <pubDate>Tue, 01 Jul 2025 17:15:53 GMT</pubDate>
-            <description><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole Token Gains 18.14% Ahead of Coinbase Listing</div></div>]]></content:encoded>
-            <author>ainvest (ainvest)</author>
         </item>
     </channel>
 </rss>
