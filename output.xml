@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 10 Aug 2025 23:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 00:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -49,6 +49,15 @@ YouTube Channels:
 
 https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</div></div>]]></content:encoded>
             <author>Poddtoppen (Poddtoppen)</author>
+        </item>
+        <item>
+            <title><![CDATA[5 Reasons to Buy Wormhole in 2025]]></title>
+            <link>https://investinghaven.com/crypto-blockchain/coins/5-reasons-to-buy-wormhole-in-2025/</link>
+            <guid>rssapp_4ae32059d9246f7bb926f18fa5beff76</guid>
+            <pubDate>Wed, 30 Jul 2025 15:19:51 GMT</pubDate>
+            <description><![CDATA[Wormhole’s growing integrations, Coinbase listing, and technical momentum position its W token as a potential strong buy in 2025. Wormhole and its W token]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole’s growing integrations, Coinbase listing, and technical momentum position its W token as a potential strong buy in 2025. Wormhole and its W token</div></div>]]></content:encoded>
+            <author>InvestingHaven (InvestingHaven)</author>
         </item>
         <item>
             <title><![CDATA[Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains]]></title>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole Token Gains 18.14% Ahead of Coinbase Listing]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole Token Gains 18.14% Ahead of Coinbase Listing</div></div>]]></content:encoded>
             <author>ainvest (ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Announces Listing of Wormhole (W)]]></title>
-            <link>https://bloomingbit.io/en/feed/news/91871</link>
-            <guid>rssapp_c9df9084f3f04a93a71fa024f5f82e1a</guid>
-            <pubDate>Tue, 01 Jul 2025 16:33:44 GMT</pubDate>
-            <description><![CDATA[On the 1st (local time), the global cryptocurrency exchange Coinbase officially announced the new listing of Wormhole (W).]]></description>
-            <content:encoded><![CDATA[<div><div>On the 1st (local time), the global cryptocurrency exchange Coinbase officially announced the new listing of Wormhole (W).</div></div>]]></content:encoded>
-            <author>bloomingbit (bloomingbit)</author>
         </item>
     </channel>
 </rss>
