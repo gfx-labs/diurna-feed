@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 12 Aug 2025 11:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 12:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -58,6 +58,15 @@ YouTube Channels:
 
 https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</div></div>]]></content:encoded>
             <author>Poddtoppen (Poddtoppen)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Integrates Mezo, Enhancing Multichain Access for Bitcoin-Backed MUSD]]></title>
+            <link>https://blockchain.news/news/wormhole-integrates-mezo-enhancing-multichain-access-bitcoin-backed-musd</link>
+            <guid>rssapp_289842acef0e6f647e43dfbfd9e03464</guid>
+            <pubDate>Mon, 04 Aug 2025 13:16:00 GMT</pubDate>
+            <description><![CDATA[Wormhole announces integration with Mezo, enabling multichain functionality for Bitcoin-backed MUSD via Ethereum, enhancing Bitcoin's utility and eliminating liquidity fragmentation.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole announces integration with Mezo, enabling multichain functionality for Bitcoin-backed MUSD via Ethereum, enhancing Bitcoin's utility and eliminating liquidity fragmentation.</div></div>]]></content:encoded>
+            <author>https://blockchain news/news/wormhole-integrates-mezo-enhancing-multichain-access-bitcoin-backed-musd (https://blockchain news/news/wormhole-integrates-mezo-enhancing-multichain-access-bitcoin-backed-musd)</author>
         </item>
         <item>
             <title><![CDATA[5 Reasons to Buy Wormhole in 2025]]></title>
@@ -255,15 +264,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <pubDate>Wed, 02 Jul 2025 07:00:00 GMT</pubDate>
             <description><![CDATA[Wormhole and Stacks integration enables seamless Bitcoin interoperability, bringing Bitcoin's security to DeFi with cross-chain liquidity and new opportunities.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole and Stacks integration enables seamless Bitcoin interoperability, bringing Bitcoin's security to DeFi with cross-chain liquidity and new opportunities.</div></div>]]></content:encoded>
-            <author>blockchainreporter (blockchainreporter)</author>
-        </item>
-        <item>
-            <title><![CDATA[Algorand Joins Forces With Wormhole To Advance Cross-Chain Interoperability]]></title>
-            <link>https://blockchainreporter.net/algorand-joins-forces-with-wormhole-to-advance-cross-chain-interoperability/</link>
-            <guid>rssapp_386e1836a3cc31c8ac99e393cece6144</guid>
-            <pubDate>Tue, 01 Jul 2025 21:00:00 GMT</pubDate>
-            <description><![CDATA[With Folks Finance supporting the execution process while Wormhole offering the underlying architecture, this alliance advances Algorand's capabilities.]]></description>
-            <content:encoded><![CDATA[<div><div>With Folks Finance supporting the execution process while Wormhole offering the underlying architecture, this alliance advances Algorand's capabilities.</div></div>]]></content:encoded>
             <author>blockchainreporter (blockchainreporter)</author>
         </item>
     </channel>
