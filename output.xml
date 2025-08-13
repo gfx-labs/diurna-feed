@@ -4,25 +4,16 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 13 Aug 2025 12:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 13:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
         <item>
-            <title><![CDATA[15% Leap for Wormhole: Can Its Upside Momentum Defy Gravity?]]></title>
-            <link>https://thenewscrypto.com/15-leap-for-wormhole-can-its-upside-momentum-defy-gravity/</link>
-            <guid>rssapp_42079f5cebe71f2ab97c7ca572784dc0</guid>
-            <pubDate>Sat, 09 Aug 2025 09:49:03 GMT</pubDate>
-            <description><![CDATA[After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?]]></description>
-            <content:encoded><![CDATA[<div><div>After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?</div></div>]]></content:encoded>
-            <author>TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide (TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide)</author>
-        </item>
-        <item>
             <title><![CDATA[XRPL x Wormhole - Maxis Cry - Woke Dies - Sydney Sweeney Takes Times Square! - On The Chain - Blockchain and Cryptocurrency News + Opinion]]></title>
             <link>https://poddtoppen.se/podcast/1497698127/on-the-chain-blockchain-and-cryptocurrency-news-opinion/xrpl-x-wormhole-maxis-cry-woke-dies-sydney-sweeney-takes-times-square</link>
             <guid>rssapp_db6124a772ecfea79dac0f1bd32c824a</guid>
-            <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to On the Chain
 
 On The Chain focuses on Blockchain and Digital Assets, Cryptocurrency news, and opinion with a focus on XRP. For those who are brand new to the Digital Asset / Blockchain space, and those who have been around and are considered to be veterans in this space.
@@ -58,6 +49,15 @@ YouTube Channels:
 
 https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</div></div>]]></content:encoded>
             <author>Poddtoppen (Poddtoppen)</author>
+        </item>
+        <item>
+            <title><![CDATA[15% Leap for Wormhole: Can Its Upside Momentum Defy Gravity?]]></title>
+            <link>https://thenewscrypto.com/15-leap-for-wormhole-can-its-upside-momentum-defy-gravity/</link>
+            <guid>rssapp_42079f5cebe71f2ab97c7ca572784dc0</guid>
+            <pubDate>Sat, 09 Aug 2025 09:49:03 GMT</pubDate>
+            <description><![CDATA[After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?]]></description>
+            <content:encoded><![CDATA[<div><div>After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?</div></div>]]></content:encoded>
+            <author>TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide (TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Integrates Mezo, Enhancing Multichain Access for Bitcoin-Backed MUSD]]></title>
