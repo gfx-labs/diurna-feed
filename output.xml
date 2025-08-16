@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 16 Aug 2025 02:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Aug 2025 03:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -49,6 +49,15 @@ YouTube Channels:
 
 https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</div></div>]]></content:encoded>
             <author>Poddtoppen (Poddtoppen)</author>
+        </item>
+        <item>
+            <title><![CDATA[15% Leap for Wormhole: Can Its Upside Momentum Defy Gravity? | Market Altcoin ]]></title>
+            <link>https://cryptorank.io/news/feed/40828-15-leap-for-wormhole-can-its-upside-momentum-defy-gravity</link>
+            <guid>rssapp_a107d33fc010626748702cb9e3c34d5e</guid>
+            <pubDate>Sat, 09 Aug 2025 09:49:03 GMT</pubDate>
+            <description><![CDATA[The crypto market is anticipating potential bullish rebound with the recent spike. The tokens are swinging between green and red zones, with Bitcoin (BTC)]]></description>
+            <content:encoded><![CDATA[<div><div>The crypto market is anticipating potential bullish rebound with the recent spike. The tokens are swinging between green and red zones, with Bitcoin (BTC)</div></div>]]></content:encoded>
+            <author>CryptoRank (CryptoRank)</author>
         </item>
         <item>
             <title><![CDATA[15% Leap for Wormhole: Can Its Upside Momentum Defy Gravity?]]></title>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.</div></div>]]></content:encoded>
             <author>crypto news (crypto news)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole And Stacks Integrate To Enable Seamless Cross-Chain Bitcoin For DeFi Innovation]]></title>
-            <link>https://blockchainreporter.net/wormhole-and-stacks-integrate-to-enable-seamless-cross-chain-bitcoin-for-defi-innovation/</link>
-            <guid>rssapp_f64d131fc6792dcc8f35ed65e52c6d02</guid>
-            <pubDate>Wed, 02 Jul 2025 07:00:00 GMT</pubDate>
-            <description><![CDATA[Wormhole and Stacks integration enables seamless Bitcoin interoperability, bringing Bitcoin's security to DeFi with cross-chain liquidity and new opportunities.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole and Stacks integration enables seamless Bitcoin interoperability, bringing Bitcoin's security to DeFi with cross-chain liquidity and new opportunities.</div></div>]]></content:encoded>
-            <author>blockchainreporter (blockchainreporter)</author>
         </item>
     </channel>
 </rss>
