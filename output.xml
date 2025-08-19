@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 19 Aug 2025 08:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 09:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Consolidates for Months as Traders Eye Bullish Divergence Breakout]]></title>
+            <link>https://www.livebitcoinnews.com/wormhole-consolidates-for-months-as-traders-eye-bullish-divergence-breakout/</link>
+            <guid>rssapp_4a214ac9ca1b2f759e553932f46fa9b3</guid>
+            <pubDate>Tue, 19 Aug 2025 02:08:57 GMT</pubDate>
+            <description><![CDATA[Wormhole consolidates as bullish signals emerge, with rising adoption and momentum hinting at a potential breakout.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole consolidates as bullish signals emerge, with rising adoption and momentum hinting at a potential breakout.</div></div>]]></content:encoded>
+            <author>Live Bitcoin News (Live Bitcoin News)</author>
+        </item>
         <item>
             <title><![CDATA[XRPL x Wormhole - Maxis Cry - Woke Dies - Sydney Sweeney Takes Times Square! - On The Chain - Blockchain and Cryptocurrency News + Opinion]]></title>
             <link>https://poddtoppen.se/podcast/1497698127/on-the-chain-blockchain-and-cryptocurrency-news-opinion/xrpl-x-wormhole-maxis-cry-woke-dies-sydney-sweeney-takes-times-square</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Stacks adopts Wormhole's NTT standard to expand sBTC and STX across multiple chains, enhancing Bitcoin liquidity in DeFi ecosystems.]]></description>
             <content:encoded><![CDATA[<div><div>Stacks adopts Wormhole's NTT standard to expand sBTC and STX across multiple chains, enhancing Bitcoin liquidity in DeFi ecosystems.</div></div>]]></content:encoded>
             <author>https://blockchain news/news/stacks-expands-sbtc-stx-multichain-wormhole-ntt-standard (https://blockchain news/news/stacks-expands-sbtc-stx-multichain-wormhole-ntt-standard)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole price forms a risky pattern ahead of Coinbase listing]]></title>
-            <link>https://crypto.news/wormhole-price-forms-a-risky-pattern-ahead-of-coinbase-listing/</link>
-            <guid>rssapp_6e15cee23cf72c1b0a224f436de57538</guid>
-            <pubDate>Wed, 02 Jul 2025 10:13:23 GMT</pubDate>
-            <description><![CDATA[Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole appears poised for a bearish reversal, with technical indicators continuing to signal weakness ahead of a Coinbase listing.</div></div>]]></content:encoded>
-            <author>crypto news (crypto news)</author>
         </item>
     </channel>
 </rss>
