@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 20 Aug 2025 17:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 18:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Stakes Big as Multichain Race Intensifies]]></title>
+            <link>https://www.ainvest.com/news/wormhole-stakes-big-multichain-race-intensifies-2508/</link>
+            <guid>rssapp_e656fb7ed8cbc9c99f99589c42d98f56</guid>
+            <pubDate>Wed, 20 Aug 2025 16:45:50 GMT</pubDate>
+            <description><![CDATA[Wormhole Stakes Big as Multichain Race Intensifies]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole Stakes Big as Multichain Race Intensifies</div></div>]]></content:encoded>
+            <author>Ainvest (Ainvest)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Consolidates for Months as Traders Eye Bullish Divergence Breakout]]></title>
             <link>https://www.livebitcoinnews.com/wormhole-consolidates-for-months-as-traders-eye-bullish-divergence-breakout/</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Coinbase Lists Wormhole Token on Solana Network, Driving 18% Price Surge]]></description>
             <content:encoded><![CDATA[<div><div>Coinbase Lists Wormhole Token on Solana Network, Driving 18% Price Surge</div></div>]]></content:encoded>
             <author>Ainvest (Ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Stacks Expands sBTC and STX Multichain with Wormhole NTT Standard]]></title>
-            <link>https://blockchain.news/news/stacks-expands-sbtc-stx-multichain-wormhole-ntt-standard</link>
-            <guid>rssapp_600518bf096b35b10b8622c5e07a6d34</guid>
-            <pubDate>Wed, 02 Jul 2025 12:56:00 GMT</pubDate>
-            <description><![CDATA[Stacks adopts Wormhole's NTT standard to expand sBTC and STX across multiple chains, enhancing Bitcoin liquidity in DeFi ecosystems.]]></description>
-            <content:encoded><![CDATA[<div><div>Stacks adopts Wormhole's NTT standard to expand sBTC and STX across multiple chains, enhancing Bitcoin liquidity in DeFi ecosystems.</div></div>]]></content:encoded>
-            <author>https://blockchain news/news/stacks-expands-sbtc-stx-multichain-wormhole-ntt-standard (https://blockchain news/news/stacks-expands-sbtc-stx-multichain-wormhole-ntt-standard)</author>
         </item>
     </channel>
 </rss>
