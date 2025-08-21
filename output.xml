@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 21 Aug 2025 08:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 09:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Stargate’s $4B Bridge Volume Draws Wormhole Into $110M Acquisition Proposal]]></title>
+            <link>https://www.coindesk.com/markets/2025/08/21/stargate-draws-second-acquisition-bid-with-wormhole-topping-layerzero-s-usd110m-buy-offer</link>
+            <guid>rssapp_c1965f7d5489f915e6ed6fe03502e524</guid>
+            <pubDate>Thu, 21 Aug 2025 08:06:13 GMT</pubDate>
+            <description><![CDATA[LayerZero’s $110 million token-swap offer faces competition as Wormhole pushes for a delay in Stargate’s governance vote to submit a higher bid.]]></description>
+            <content:encoded><![CDATA[<div><div>LayerZero’s $110 million token-swap offer faces competition as Wormhole pushes for a delay in Stargate’s governance vote to submit a higher bid.</div></div>]]></content:encoded>
+            <author>CoinDesk (CoinDesk)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Challenges LayerZero’s Stargate Takeover Plan]]></title>
             <link>https://99bitcoins.com/news/bitcoin-btc/wormhole-challenges-layerzeros-stargate-takeover-plan/</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging]]></description>
             <content:encoded><![CDATA[<div><div>The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging</div></div>]]></content:encoded>
             <author>CryptoRank (CryptoRank)</author>
-        </item>
-        <item>
-            <title><![CDATA[Algorand Teams Up with Wormhole to Revolutionize Token Transfers Across 40+ Blockchains! ]]></title>
-            <link>https://pintu.co.id/en/news/176054-algorand-partners-with-wormhole-token-transfers</link>
-            <guid>rssapp_5f12b15ddbfbfe8f49a6a9c2dafffa51</guid>
-            <pubDate>Thu, 03 Jul 2025 05:25:46 GMT</pubDate>
-            <description><![CDATA[Algorand collaborates with Wormhole, enabling token transfers between 40+ blockchains without wrapping. Check out the full story!]]></description>
-            <content:encoded><![CDATA[<div><div>Algorand collaborates with Wormhole, enabling token transfers between 40+ blockchains without wrapping. Check out the full story!</div></div>]]></content:encoded>
-            <author>Pintu News (Pintu News)</author>
         </item>
     </channel>
 </rss>
