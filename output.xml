@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 21 Aug 2025 06:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 07:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Challenges LayerZero’s Stargate Takeover Plan]]></title>
+            <link>https://99bitcoins.com/news/bitcoin-btc/wormhole-challenges-layerzeros-stargate-takeover-plan/</link>
+            <guid>rssapp_95d8b8b74a5492df160b7068f4f98e7a</guid>
+            <pubDate>Thu, 21 Aug 2025 03:51:13 GMT</pubDate>
+            <description><![CDATA[Wormhole opposes LayerZero’s $110M Stargate bid and seeks time to submit a rival offer, raising key questions over DeFi governance.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole opposes LayerZero’s $110M Stargate bid and seeks time to submit a rival offer, raising key questions over DeFi governance.</div></div>]]></content:encoded>
+            <author>99Bitcoins (99Bitcoins)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Foundation Counters Layerzero's Stargate Acquisition Bid – Crypto News Bitcoin News]]></title>
             <link>https://news.bitcoin.com/wormhole-foundation-counters-layerzeros-stargate-acquisition-bid/</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Algorand collaborates with Wormhole, enabling token transfers between 40+ blockchains without wrapping. Check out the full story!]]></description>
             <content:encoded><![CDATA[<div><div>Algorand collaborates with Wormhole, enabling token transfers between 40+ blockchains without wrapping. Check out the full story!</div></div>]]></content:encoded>
             <author>Pintu News (Pintu News)</author>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Lists Wormhole on Solana by July 2 2025]]></title>
-            <link>https://www.ainvest.com/news/coinbase-lists-wormhole-solana-july-2-2025-2507/</link>
-            <guid>rssapp_cdd2d0dfbac55b21420fc8145f82a76c</guid>
-            <pubDate>Wed, 02 Jul 2025 13:50:15 GMT</pubDate>
-            <description><![CDATA[Coinbase Lists Wormhole on Solana by July 2 2025]]></description>
-            <content:encoded><![CDATA[<div><div>Coinbase Lists Wormhole on Solana by July 2 2025</div></div>]]></content:encoded>
-            <author>ainvest (ainvest)</author>
         </item>
     </channel>
 </rss>
