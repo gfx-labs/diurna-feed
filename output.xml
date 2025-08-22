@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 22 Aug 2025 00:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 01:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Bids Higher Than LayerZero for Stargate, Calls for Vote Delay ]]></title>
+            <link>https://crypto-economy.com/wormhole-bids-higher-than-layerzero-for-stargate-calls-for-vote-delay/</link>
+            <guid>rssapp_256d71cf1230a89380152827d9da0d83</guid>
+            <pubDate>Thu, 21 Aug 2025 13:04:20 GMT</pubDate>
+            <description><![CDATA[Wormhole has entered the race to acquire Stargate with a proposal higher than LayerZero’s $110 million bid, pushing for a delay in the governance vote.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole has entered the race to acquire Stargate with a proposal higher than LayerZero’s $110 million bid, pushing for a delay in the governance vote.</div></div>]]></content:encoded>
+            <author>Crypto Economy (Crypto Economy)</author>
+        </item>
         <item>
             <title><![CDATA[Stargate’s $4B Bridge Volume Draws Wormhole Into $110M Acquisition Proposal]]></title>
             <link>https://www.coindesk.com/markets/2025/08/21/stargate-draws-second-acquisition-bid-with-wormhole-topping-layerzero-s-usd110m-buy-offer</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole Token Surges 33% After Coinbase Listing]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole Token Surges 33% After Coinbase Listing</div></div>]]></content:encoded>
             <author>Ainvest (Ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Top US Crypto Exchange by Trading Volume Coinbase Adds Support for Leading Cross-Chain Messaging Protocol Wormhole (W) ]]></title>
-            <link>https://dailyhodl.com/2025/07/03/top-us-crypto-exchange-by-trading-volume-coinbase-adds-support-for-leading-cross-chain-messaging-protocol-wormhole-w/</link>
-            <guid>rssapp_0883ef421c577ba24357abb1fef5b933</guid>
-            <pubDate>Thu, 03 Jul 2025 22:01:49 GMT</pubDate>
-            <description><![CDATA[The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging project to rally briefly.]]></description>
-            <content:encoded><![CDATA[<div><div>The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging project to rally briefly.</div></div>]]></content:encoded>
-            <author>The Daily Hodl (The Daily Hodl)</author>
         </item>
     </channel>
 </rss>
