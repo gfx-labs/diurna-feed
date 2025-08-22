@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 22 Aug 2025 11:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 12:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[Wormhole has entered the race to acquire Stargate with a proposal higher than LayerZero’s $110 million bid, pushing for a delay in the governance vote.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole has entered the race to acquire Stargate with a proposal higher than LayerZero’s $110 million bid, pushing for a delay in the governance vote.</div></div>]]></content:encoded>
             <author>Crypto Economy (Crypto Economy)</author>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Bridge Wars: Wormhole vs LayerZero Battle for $110M Stargate Deal ]]></title>
+            <link>https://coincentral.com/crypto-bridge-wars-wormhole-vs-layerzero-battle-for-110m-stargate-deal/</link>
+            <guid>rssapp_75fc81a7aca90dedad6eb996bbaa869f</guid>
+            <pubDate>Thu, 21 Aug 2025 10:52:54 GMT</pubDate>
+            <description><![CDATA[Wormhole challenges LayerZero's $110M Stargate acquisition bid, requesting voting pause to submit higher competing offer for cross-chain bridge platform.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole challenges LayerZero's $110M Stargate acquisition bid, requesting voting pause to submit higher competing offer for cross-chain bridge platform.</div></div>]]></content:encoded>
+            <author>CoinCentral (CoinCentral)</author>
         </item>
         <item>
             <title><![CDATA[Stargate’s $4B Bridge Volume Draws Wormhole Into $110M Acquisition Proposal]]></title>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[The Ripple partnership announcement boosted demand for W, but would this be sustainable?]]></description>
             <content:encoded><![CDATA[<div><div>The Ripple partnership announcement boosted demand for W, but would this be sustainable?</div></div>]]></content:encoded>
             <author>AMBCrypto (AMBCrypto)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Token Surges 33% After Coinbase Listing]]></title>
-            <link>https://www.ainvest.com/news/wormhole-token-surges-33-coinbase-listing-2507/</link>
-            <guid>rssapp_20702ea25d3eb62076845503302069ee</guid>
-            <pubDate>Thu, 03 Jul 2025 22:32:03 GMT</pubDate>
-            <description><![CDATA[Wormhole Token Surges 33% After Coinbase Listing]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole Token Surges 33% After Coinbase Listing</div></div>]]></content:encoded>
-            <author>Ainvest (Ainvest)</author>
         </item>
     </channel>
 </rss>
