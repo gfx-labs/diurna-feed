@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 21 Aug 2025 23:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 00:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -168,6 +168,15 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <author>Bitget (Bitget)</author>
         </item>
         <item>
+            <title><![CDATA[Algorand (ALGO) Surges 30% Following Major Exchange Staking and Wormhole Integration]]></title>
+            <link>https://blockchain.news/news/20250719-algorand-algo-surges-30-following-major-exchange-staking-and-wormhole-integration</link>
+            <guid>rssapp_09c510c3c37a3254063d1ce343c8b66b</guid>
+            <pubDate>Sat, 19 Jul 2025 08:36:00 GMT</pubDate>
+            <description><![CDATA[ALGO rallies over 30% to $0.29 as Binance and Crypto.com launch staking services while Wormhole integration enhances cross-chain capabilities despite Tether withdrawal.]]></description>
+            <content:encoded><![CDATA[<div><div>ALGO rallies over 30% to $0.29 as Binance and Crypto.com launch staking services while Wormhole integration enhances cross-chain capabilities despite Tether withdrawal.</div></div>]]></content:encoded>
+            <author>https://blockchain news/news/20250719-algorand-algo-surges-30-following-major-exchange-staking-and-wormhole-integration (https://blockchain news/news/20250719-algorand-algo-surges-30-following-major-exchange-staking-and-wormhole-integration)</author>
+        </item>
+        <item>
             <title><![CDATA[Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery]]></title>
             <link>https://www.ainvest.com/news/ethereum-news-today-jump-crypto-transfers-40-5-million-eth-wormhole-recovery-2507/</link>
             <guid>rssapp_dde0a192e12eb7787a8eb39a310fd62e</guid>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging project to rally briefly.]]></description>
             <content:encoded><![CDATA[<div><div>The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging project to rally briefly.</div></div>]]></content:encoded>
             <author>The Daily Hodl (The Daily Hodl)</author>
-        </item>
-        <item>
-            <title><![CDATA[Top US Crypto Exchange by Trading Volume Coinbase Adds Support for Leading Cross-Chain Messaging Protocol Wormhole (W) | Altcoin Ethereum ]]></title>
-            <link>https://cryptorank.io/news/feed/791c0-top-us-crypto-exchange-by-trading-volume-coinbase-adds-support-for-leading-cross-chain-messaging-protocol-wormhole-w</link>
-            <guid>rssapp_d029dff0a64a632f369db8a680a04ec5</guid>
-            <pubDate>Thu, 03 Jul 2025 22:01:49 GMT</pubDate>
-            <description><![CDATA[The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging]]></description>
-            <content:encoded><![CDATA[<div><div>The top US crypto exchange platform by trading volume is abruptly adding support for Wormhole (W), causing the native asset of the cross-chain messaging</div></div>]]></content:encoded>
-            <author>CryptoRank (CryptoRank)</author>
         </item>
     </channel>
 </rss>
