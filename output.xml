@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 24 Aug 2025 02:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Aug 2025 03:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole vs. LayerZero: The Cryptocurrency Bidding War Shaping DeFi's Future]]></title>
+            <link>https://www.okx.com/en-us/learn/wormhole-layerzero-cryptocurrency-bidding-war</link>
+            <guid>rssapp_bb82a3cf4bd0b864ff63824c62c4296b</guid>
+            <pubDate>Sat, 23 Aug 2025 01:30:26 GMT</pubDate>
+            <description><![CDATA[OKX United States - Discover the intense rivalry between Wormhole and LayerZero, two leading blockchain protocols vying to revolutionize DeFi. Explore how this bidding war is shaping the future of decentralized finance.]]></description>
+            <content:encoded><![CDATA[<div><div>OKX United States - Discover the intense rivalry between Wormhole and LayerZero, two leading blockchain protocols vying to revolutionize DeFi. Explore how this bidding war is shaping the future of decentralized finance.</div></div>]]></content:encoded>
+            <author>OKX United States (OKX United States)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Bids Higher Than LayerZero for Stargate, Calls for Vote Delay ]]></title>
             <link>https://crypto-economy.com/wormhole-bids-higher-than-layerzero-for-stargate-calls-for-vote-delay/</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole Price Rejection After 12% Rally on Ripple Partnership</div></div>]]></content:encoded>
             <author>ainvest (ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole crypto’s latest price rejection – Result of a short squeeze or an organic rally?]]></title>
-            <link>https://ambcrypto.com/wormhole-cryptos-latest-price-rejection-result-of-a-short-squeeze-or-an-organic-rally/</link>
-            <guid>rssapp_c07ab19344fc765bca0ced2f855e102c</guid>
-            <pubDate>Fri, 04 Jul 2025 07:00:09 GMT</pubDate>
-            <description><![CDATA[The Ripple partnership announcement boosted demand for W, but would this be sustainable?]]></description>
-            <content:encoded><![CDATA[<div><div>The Ripple partnership announcement boosted demand for W, but would this be sustainable?</div></div>]]></content:encoded>
-            <author>AMBCrypto (AMBCrypto)</author>
         </item>
     </channel>
 </rss>
