@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 24 Aug 2025 10:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Aug 2025 11:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[The DeFi Cross-Chain Takeover: How Wormhole's Cash Bid for Stargate Signals a Liquidity-First Future]]></title>
+            <link>https://www.ainvest.com/news/defi-cross-chain-takeover-wormhole-cash-bid-stargate-signals-liquidity-future-2508/</link>
+            <guid>rssapp_565956b3b2196c71e2de32d9ba9a5443</guid>
+            <pubDate>Sat, 23 Aug 2025 21:15:15 GMT</pubDate>
+            <description><![CDATA[The DeFi Cross-Chain Takeover: How Wormhole's Cash Bid for Stargate Signals a Liquidity-First Future]]></description>
+            <content:encoded><![CDATA[<div><div>The DeFi Cross-Chain Takeover: How Wormhole's Cash Bid for Stargate Signals a Liquidity-First Future</div></div>]]></content:encoded>
+            <author>Ainvest (Ainvest)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole vs. LayerZero: The Cryptocurrency Bidding War Shaping DeFi's Future]]></title>
             <link>https://www.okx.com/en-us/learn/wormhole-layerzero-cryptocurrency-bidding-war</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole crypto is a growing Web3 powerhouse, with its Bridge product and Messaging tool. Is its $W token undervalued?]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole crypto is a growing Web3 powerhouse, with its Bridge product and Messaging tool. Is its $W token undervalued?</div></div>]]></content:encoded>
             <author>99Bitcoins (99Bitcoins)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></title>
-            <link>https://www.ainvest.com/news/wormhole-price-rejection-12-rally-ripple-partnership-2507/</link>
-            <guid>rssapp_a6c541fea78fb65015ba5246b0e97fe1</guid>
-            <pubDate>Fri, 04 Jul 2025 07:17:04 GMT</pubDate>
-            <description><![CDATA[Wormhole Price Rejection After 12% Rally on Ripple Partnership]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole Price Rejection After 12% Rally on Ripple Partnership</div></div>]]></content:encoded>
-            <author>ainvest (ainvest)</author>
         </item>
     </channel>
 </rss>
