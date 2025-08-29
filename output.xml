@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 29 Aug 2025 06:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 07:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up]]></title>
+            <link>https://invezz.com/news/2025/08/29/heres-why-crypto-like-treehouse-pi-network-and-wormhole-are-going-up/</link>
+            <guid>rssapp_00eecdfcd96b94926a15905e8ac4629a</guid>
+            <pubDate>Fri, 29 Aug 2025 02:02:00 GMT</pubDate>
+            <description><![CDATA[This article explores why top cryptocurrencies like Treehouse (TREE), Pi Network (Pi), and Wormhole (W) jumped suddenly this week.]]></description>
+            <content:encoded><![CDATA[<div><div>This article explores why top cryptocurrencies like Treehouse (TREE), Pi Network (Pi), and Wormhole (W) jumped suddenly this week.</div></div>]]></content:encoded>
+            <author>Invezz (Invezz)</author>
+        </item>
         <item>
             <title><![CDATA[XRPL x Wormhole - Maxis Cry - Woke Dies - Sydney Sweeney Takes Times Square! - On The Chain - Blockchain and Cryptocurrency News + Opinion]]></title>
             <link>https://poddtoppen.se/podcast/1497698127/on-the-chain-blockchain-and-cryptocurrency-news-opinion/xrpl-x-wormhole-maxis-cry-woke-dies-sydney-sweeney-takes-times-square</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[DeepAI - Deep Data, Deeper Insights]]></description>
             <content:encoded><![CDATA[DeepAI - Deep Data, Deeper Insights]]></content:encoded>
             <author>DeepAI (DeepAI)</author>
-        </item>
-        <item>
-            <title><![CDATA[Redstone Bridges Native RED Token To Solana, Powering Multichain Capabilities Through Wormhole NTT Integration]]></title>
-            <link>https://blockchainreporter.net/redstone-bridges-native-red-token-to-solana-powering-multichain-capabilities-through-wormhole-ntt-integration/</link>
-            <guid>rssapp_1decf64aafeefb2daed69bc19947537d</guid>
-            <pubDate>Fri, 11 Jul 2025 08:00:00 GMT</pubDate>
-            <description><![CDATA[Redstone brings its native RED token to Solana through collaboration with Wormhole's NTT model, marking a substantial expansion beyond its domestic environment.]]></description>
-            <content:encoded><![CDATA[<div><div>Redstone brings its native RED token to Solana through collaboration with Wormhole's NTT model, marking a substantial expansion beyond its domestic environment.</div></div>]]></content:encoded>
-            <author>blockchainreporter (blockchainreporter)</author>
         </item>
     </channel>
 </rss>
