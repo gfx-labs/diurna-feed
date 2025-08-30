@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 30 Aug 2025 00:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Aug 2025 01:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up | Bitcoin Altcoin ]]></title>
+            <link>https://cryptorank.io/news/feed/d4b66-heres-why-crypto-like-treehouse-pi-network-and-wormhole-are-going-up</link>
+            <guid>rssapp_b9eacf15bf6b2da9b0c76b59efbebb85</guid>
+            <pubDate>Fri, 29 Aug 2025 02:02:00 GMT</pubDate>
+            <description><![CDATA[The crypto market was mixed this week as traders reflected on the Federal Reserve and the latest NVIDIA earnings. Bitcoin fell to $110,000 earlier during the]]></description>
+            <content:encoded><![CDATA[<div><div>The crypto market was mixed this week as traders reflected on the Federal Reserve and the latest NVIDIA earnings. Bitcoin fell to $110,000 earlier during the</div></div>]]></content:encoded>
+            <author>CryptoRank (CryptoRank)</author>
+        </item>
         <item>
             <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up]]></title>
             <link>https://invezz.com/news/2025/08/29/heres-why-crypto-like-treehouse-pi-network-and-wormhole-are-going-up/</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[According to Michaël van de Poppe (@CryptoMichNL), the Wormhole token ($W) is exhibiting a massive higher timeframe bullish divergence. He notes that $W is part of his personal altcoin portfolio an]]></description>
             <content:encoded><![CDATA[<div><div>According to Michaël van de Poppe (@CryptoMichNL), the Wormhole token ($W) is exhibiting a massive higher timeframe bullish divergence. He notes that $W is part of his personal altcoin portfolio an</div></div>]]></content:encoded>
             <author>https://blockchain news/flashnews/wormhole-w-price-analysis-massive-bullish-divergence-signals-potential-breakout (https://blockchain news/flashnews/wormhole-w-price-analysis-massive-bullish-divergence-signals-potential-breakout)</author>
-        </item>
-        <item>
-            <title><![CDATA[DeepAI]]></title>
-            <link>https://msig.at/en/unlocking-the-mysteries-of-wormhole-crypto-a-new-doorway-in-blockchain/</link>
-            <guid>rssapp_d4177b32444bedc8e01ac28de4524825</guid>
-            <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[DeepAI - Deep Data, Deeper Insights]]></description>
-            <content:encoded><![CDATA[DeepAI - Deep Data, Deeper Insights]]></content:encoded>
-            <author>DeepAI (DeepAI)</author>
         </item>
     </channel>
 </rss>
