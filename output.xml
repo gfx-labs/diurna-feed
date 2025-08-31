@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 31 Aug 2025 21:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Aug 2025 22:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -141,6 +141,15 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <author>99Bitcoins (99Bitcoins)</author>
         </item>
         <item>
+            <title><![CDATA[Stargate Price Surges Over 10% as Wormhole Challenges LayerZero's $110M Bid]]></title>
+            <link>https://www.ainvest.com/news/stargate-price-surges-10-wormhole-challenges-layerzero-110m-bid-2508/</link>
+            <guid>rssapp_3c5713bc06bed57405283241e420ab98</guid>
+            <pubDate>Wed, 20 Aug 2025 19:28:04 GMT</pubDate>
+            <description><![CDATA[Stargate Price Surges Over 10% as Wormhole Challenges LayerZero's $110M Bid]]></description>
+            <content:encoded><![CDATA[<div><div>Stargate Price Surges Over 10% as Wormhole Challenges LayerZero's $110M Bid</div></div>]]></content:encoded>
+            <author>Ainvest (Ainvest)</author>
+        </item>
+        <item>
             <title><![CDATA[Wormhole Foundation Counters Layerzero's Stargate Acquisition Bid – Crypto News Bitcoin News]]></title>
             <link>https://news.bitcoin.com/wormhole-foundation-counters-layerzeros-stargate-acquisition-bid/</link>
             <guid>rssapp_7941730979f836f946f23a3ca0a6c211</guid>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery]]></description>
             <content:encoded><![CDATA[<div><div>Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery</div></div>]]></content:encoded>
             <author>Ainvest (Ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole almost killed Solana DeFi — now works with Blackrock, Hamilton Lane]]></title>
-            <link>https://protos.com/wormhole-almost-killed-solana-defi-now-works-with-blackrock-hamilton-lane/</link>
-            <guid>rssapp_899e93206c055be083c38119d4f6e733</guid>
-            <pubDate>Thu, 17 Jul 2025 17:33:46 GMT</pubDate>
-            <description><![CDATA[Wormhole, the blockchain bridge that suffered a series of losses in 2022, is earning partnerships with the world’s biggest asset managers.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole, the blockchain bridge that suffered a series of losses in 2022, is earning partnerships with the world’s biggest asset managers.</div></div>]]></content:encoded>
-            <author>Protos (Protos)</author>
         </item>
     </channel>
 </rss>
