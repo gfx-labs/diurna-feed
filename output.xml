@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Tue, 02 Sep 2025 03:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Sep 2025 04:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole and HyperEVM: Why the Bearish Momentum Persists Despite Game-Changing Integration]]></title>
+            <link>https://www.okx.com/learn/wormhole-hyperevm-bearish-momentum</link>
+            <guid>rssapp_aa42d13a5a4eaead223e1facb4e47211</guid>
+            <pubDate>Sat, 30 Aug 2025 13:30:34 GMT</pubDate>
+            <description><![CDATA[OKX - Discover why bearish momentum lingers for Wormhole and HyperEVM, even after their groundbreaking integration reshapes the crypto landscape.]]></description>
+            <content:encoded><![CDATA[<div><div>OKX - Discover why bearish momentum lingers for Wormhole and HyperEVM, even after their groundbreaking integration reshapes the crypto landscape.</div></div>]]></content:encoded>
+            <author>OKX (OKX)</author>
+        </item>
         <item>
             <title><![CDATA[XRPL x Wormhole - Maxis Cry - Woke Dies - Sydney Sweeney Takes Times Square! - On The Chain - Blockchain and Cryptocurrency News + Opinion]]></title>
             <link>https://poddtoppen.se/podcast/1497698127/on-the-chain-blockchain-and-cryptocurrency-news-opinion/xrpl-x-wormhole-maxis-cry-woke-dies-sydney-sweeney-takes-times-square</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[ALGO rallies over 30% to $0.29 as Binance and Crypto.com launch staking services while Wormhole integration enhances cross-chain capabilities despite Tether withdrawal.]]></description>
             <content:encoded><![CDATA[<div><div>ALGO rallies over 30% to $0.29 as Binance and Crypto.com launch staking services while Wormhole integration enhances cross-chain capabilities despite Tether withdrawal.</div></div>]]></content:encoded>
             <author>https://blockchain news/news/20250719-algorand-algo-surges-30-following-major-exchange-staking-and-wormhole-integration (https://blockchain news/news/20250719-algorand-algo-surges-30-following-major-exchange-staking-and-wormhole-integration)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery]]></title>
-            <link>https://www.ainvest.com/news/ethereum-news-today-jump-crypto-transfers-40-5-million-eth-wormhole-recovery-2507/</link>
-            <guid>rssapp_dde0a192e12eb7787a8eb39a310fd62e</guid>
-            <pubDate>Thu, 17 Jul 2025 21:49:46 GMT</pubDate>
-            <description><![CDATA[Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery]]></description>
-            <content:encoded><![CDATA[<div><div>Ethereum News Today: Jump Crypto Transfers $40.5 Million in ETH After Wormhole Recovery</div></div>]]></content:encoded>
-            <author>Ainvest (Ainvest)</author>
         </item>
     </channel>
 </rss>
