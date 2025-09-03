@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 03 Sep 2025 03:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 04:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Crypto Airdrops: Wormhole, Sentient, and Others to Watch]]></title>
+            <link>https://beincrypto.com/top-crypto-airdrops-august/</link>
+            <guid>rssapp_1d31c33bff6652fc0c53d6e0e14ffd7f</guid>
+            <pubDate>Tue, 02 Sep 2025 15:02:51 GMT</pubDate>
+            <description><![CDATA[Top crypto airdrops for August’s third week, featuring Wormhole, Sentient, Morph, and Doodles with rewards and gamified tasks.]]></description>
+            <content:encoded><![CDATA[<div><div>Top crypto airdrops for August’s third week, featuring Wormhole, Sentient, Morph, and Doodles with rewards and gamified tasks.</div></div>]]></content:encoded>
+            <author>BeInCrypto (BeInCrypto)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole and HyperEVM: Why the Bearish Momentum Persists Despite Game-Changing Integration]]></title>
             <link>https://www.okx.com/learn/wormhole-hyperevm-bearish-momentum</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Date:Tue, July 29, 2025 | 11:15 AM GMT   The cryptocurrency market is undergoing a mild pullback after Ethereum (ETH) tested its multi-year resistance near  | Bitget crypto news!]]></description>
             <content:encoded><![CDATA[<div><div>Date:Tue, July 29, 2025 | 11:15 AM GMT   The cryptocurrency market is undergoing a mild pullback after Ethereum (ETH) tested its multi-year resistance near  | Bitget crypto news!</div></div>]]></content:encoded>
             <author>Bitget (Bitget)</author>
-        </item>
-        <item>
-            <title><![CDATA[Algorand (ALGO) Surges 30% Following Major Exchange Staking and Wormhole Integration]]></title>
-            <link>https://blockchain.news/news/20250719-algorand-algo-surges-30-following-major-exchange-staking-and-wormhole-integration</link>
-            <guid>rssapp_09c510c3c37a3254063d1ce343c8b66b</guid>
-            <pubDate>Sat, 19 Jul 2025 08:36:00 GMT</pubDate>
-            <description><![CDATA[ALGO rallies over 30% to $0.29 as Binance and Crypto.com launch staking services while Wormhole integration enhances cross-chain capabilities despite Tether withdrawal.]]></description>
-            <content:encoded><![CDATA[<div><div>ALGO rallies over 30% to $0.29 as Binance and Crypto.com launch staking services while Wormhole integration enhances cross-chain capabilities despite Tether withdrawal.</div></div>]]></content:encoded>
-            <author>https://blockchain news/news/20250719-algorand-algo-surges-30-following-major-exchange-staking-and-wormhole-integration (https://blockchain news/news/20250719-algorand-algo-surges-30-following-major-exchange-staking-and-wormhole-integration)</author>
         </item>
     </channel>
 </rss>
