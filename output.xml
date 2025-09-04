@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 04 Sep 2025 10:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 11:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Uniswap Joins Wormhole To Introduce $SOL And $HYPE On Unichain]]></title>
+            <link>https://blockchainreporter.net/uniswap-joins-wormhole-to-introduce-sol-and-hype-on-unichain/</link>
+            <guid>rssapp_9539545a7d31117c5582bedaaa79f7d2</guid>
+            <pubDate>Thu, 04 Sep 2025 10:10:00 GMT</pubDate>
+            <description><![CDATA[This latest partnership with Wormhole aims to make multichain assets, $SOL and $HYPE, available on Unichain, a layer 2 platform for decentralized finance.]]></description>
+            <content:encoded><![CDATA[<div><div>This latest partnership with Wormhole aims to make multichain assets, $SOL and $HYPE, available on Unichain, a layer 2 platform for decentralized finance.</div></div>]]></content:encoded>
+            <author>blockchainreporter (blockchainreporter)</author>
+        </item>
         <item>
             <title><![CDATA[Crypto Airdrops: Wormhole, Sentient, and Others to Watch]]></title>
             <link>https://beincrypto.com/top-crypto-airdrops-august/</link>
@@ -256,15 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.]]></description>
             <content:encoded><![CDATA[<div><div>Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.</div></div>]]></content:encoded>
             <author>Bitcoin News (Bitcoin News)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole (W) To Rise Higher? This Emerging Bullish Fractal Saying Yes! ]]></title>
-            <link>https://www.bitget.com/news/detail/12560604885454</link>
-            <guid>rssapp_4a228f4ee987c982eda44130515217ba</guid>
-            <pubDate>Tue, 29 Jul 2025 13:05:07 GMT</pubDate>
-            <description><![CDATA[Date:Tue, July 29, 2025 | 11:15 AM GMT   The cryptocurrency market is undergoing a mild pullback after Ethereum (ETH) tested its multi-year resistance near  | Bitget crypto news!]]></description>
-            <content:encoded><![CDATA[<div><div>Date:Tue, July 29, 2025 | 11:15 AM GMT   The cryptocurrency market is undergoing a mild pullback after Ethereum (ETH) tested its multi-year resistance near  | Bitget crypto news!</div></div>]]></content:encoded>
-            <author>Bitget (Bitget)</author>
         </item>
     </channel>
 </rss>
