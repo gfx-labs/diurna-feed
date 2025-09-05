@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 05 Sep 2025 15:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Sep 2025 16:07:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Crypto News: Trump, Sonic, Mantle, and Wormhole This Week]]></title>
+            <link>https://beincrypto.com/crypto-news-this-week-trump-liberation-day/</link>
+            <guid>rssapp_bc368080a4fb019b3c711c937805636d</guid>
+            <pubDate>Fri, 05 Sep 2025 14:55:33 GMT</pubDate>
+            <description><![CDATA[Key crypto news this week: Trump’s tariffs, Sonic’s USDC upgrade, Mantle’s roadmap, and Wormhole’s token unlock. Expect volatility.]]></description>
+            <content:encoded><![CDATA[<div><div>Key crypto news this week: Trump’s tariffs, Sonic’s USDC upgrade, Mantle’s roadmap, and Wormhole’s token unlock. Expect volatility.</div></div>]]></content:encoded>
+            <author>BeInCrypto (BeInCrypto)</author>
+        </item>
         <item>
             <title><![CDATA[Uniswap Joins Wormhole To Introduce $SOL And $HYPE On Unichain]]></title>
             <link>https://blockchainreporter.net/uniswap-joins-wormhole-to-introduce-sol-and-hype-on-unichain/</link>
@@ -252,15 +261,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <title><![CDATA[Mento Selects Wormhole as its Official Interoperability Provider to Power Multichain FX – Press release Bitcoin News]]></title>
             <link>https://news.bitcoin.com/mento-selects-wormhole-as-its-official-interoperability-provider-to-power-multichain-fx/</link>
             <guid>rssapp_5ba6c911a3e54a8ccf29e30f84327562</guid>
-            <pubDate>Tue, 29 Jul 2025 13:15:06 GMT</pubDate>
-            <description><![CDATA[Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.]]></description>
-            <content:encoded><![CDATA[<div><div>Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.</div></div>]]></content:encoded>
-            <author>Bitcoin News (Bitcoin News)</author>
-        </item>
-        <item>
-            <title><![CDATA[Mento Selects Wormhole as its Official Interoperability Provider to Power Multichain FX – Press release Bitcoin News]]></title>
-            <link>https://news.bitcoin.com/?p=743293</link>
-            <guid>rssapp_9415348bcb4f95d4bba596661ad51187</guid>
             <pubDate>Tue, 29 Jul 2025 13:15:06 GMT</pubDate>
             <description><![CDATA[Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.]]></description>
             <content:encoded><![CDATA[<div><div>Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.</div></div>]]></content:encoded>
