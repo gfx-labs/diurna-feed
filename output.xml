@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 05 Sep 2025 23:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 00:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -85,6 +85,15 @@ YouTube Channels:
 
 https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</div></div>]]></content:encoded>
             <author>Poddtoppen (Poddtoppen)</author>
+        </item>
+        <item>
+            <title><![CDATA[33% Jump and 992% Volume Boom, Can Wormhole Keep the Heat On? | Market Altcoin ]]></title>
+            <link>https://cryptorank.io/news/feed/4cc7b-33-jump-and-992-volume-boom-can-wormhole-keep-the-heat-on</link>
+            <guid>rssapp_eaea9f19cdcbefd14b94d8cce72c8e23</guid>
+            <pubDate>Fri, 29 Aug 2025 06:35:35 GMT</pubDate>
+            <description><![CDATA[The crypto assets are swinging in red and green ropes, with most of them in the bearish zone. The largest assets like Bitcoin (BTC) and Ethereum (ETH) are]]></description>
+            <content:encoded><![CDATA[<div><div>The crypto assets are swinging in red and green ropes, with most of them in the bearish zone. The largest assets like Bitcoin (BTC) and Ethereum (ETH) are</div></div>]]></content:encoded>
+            <author>CryptoRank (CryptoRank)</author>
         </item>
         <item>
             <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up | Bitcoin Altcoin ]]></title>
@@ -177,6 +186,15 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <author>99Bitcoins (99Bitcoins)</author>
         </item>
         <item>
+            <title><![CDATA[Wormhole wants to counter LayerZero’s $110M bid for Stargate]]></title>
+            <link>https://cointelegraph.com/news/wormhole-counter-layerzero-stargate-acquisition-bid</link>
+            <guid>rssapp_396afde115ce6ca4f53f4a7028db84be</guid>
+            <pubDate>Thu, 21 Aug 2025 02:24:29 GMT</pubDate>
+            <description><![CDATA[Wormhole will compete with a $110 million bid from LayerZero to acquire Stargate, claiming it will put forward “a meaningfully higher bid” for the cross-blockchain transfer protocol.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole will compete with a $110 million bid from LayerZero to acquire Stargate, claiming it will put forward “a meaningfully higher bid” for the cross-blockchain transfer protocol.</div></div>]]></content:encoded>
+            <author>Cointelegraph (Cointelegraph)</author>
+        </item>
+        <item>
             <title><![CDATA[Stargate Price Surges Over 10% as Wormhole Challenges LayerZero's $110M Bid]]></title>
             <link>https://www.ainvest.com/news/stargate-price-surges-10-wormhole-challenges-layerzero-110m-bid-2508/</link>
             <guid>rssapp_3c5713bc06bed57405283241e420ab98</guid>
@@ -247,24 +265,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole’s growing integrations, Coinbase listing, and technical momentum position its W token as a potential strong buy in 2025. Wormhole and its W token]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole’s growing integrations, Coinbase listing, and technical momentum position its W token as a potential strong buy in 2025. Wormhole and its W token</div></div>]]></content:encoded>
             <author>InvestingHaven (InvestingHaven)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains]]></title>
-            <link>https://www.ainvest.com/news/ethereum-news-today-mento-wormhole-partner-expand-cross-chain-fx-infrastructure-40-blockchains-2507/</link>
-            <guid>rssapp_b9d9936782324f3fe03341f221b5a445</guid>
-            <pubDate>Tue, 29 Jul 2025 13:44:22 GMT</pubDate>
-            <description><![CDATA[Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains]]></description>
-            <content:encoded><![CDATA[<div><div>Ethereum News Today: Mento and Wormhole Partner to Expand Cross-Chain FX Infrastructure Across 40+ Blockchains</div></div>]]></content:encoded>
-            <author>Ainvest (Ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Mento Selects Wormhole as its Official Interoperability Provider to Power Multichain FX – Press release Bitcoin News]]></title>
-            <link>https://news.bitcoin.com/mento-selects-wormhole-as-its-official-interoperability-provider-to-power-multichain-fx/</link>
-            <guid>rssapp_5ba6c911a3e54a8ccf29e30f84327562</guid>
-            <pubDate>Tue, 29 Jul 2025 13:15:06 GMT</pubDate>
-            <description><![CDATA[Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.]]></description>
-            <content:encoded><![CDATA[<div><div>Discover how Mento's partnership with Wormhole as its official interoperability provider is revolutionizing multichain FX for a more connected blockchain experience.</div></div>]]></content:encoded>
-            <author>Bitcoin News (Bitcoin News)</author>
         </item>
     </channel>
 </rss>
