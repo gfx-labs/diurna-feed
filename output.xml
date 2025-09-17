@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 17 Sep 2025 21:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Sep 2025 22:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole's Tokenomics: A New Era for Governance and Value in Crypto ]]></title>
+            <link>https://www.onesafe.io/blog/wormhole-tokenomics-governance-value-crypto</link>
+            <guid>rssapp_a98f0f77fb203acdddc28570312324cb</guid>
+            <pubDate>Wed, 17 Sep 2025 12:00:00 GMT</pubDate>
+            <description><![CDATA[Wormhole's updated tokenomics enhance governance and token value, impacting decentralized finance. Discover the implications for crypto ecosystems.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole's updated tokenomics enhance governance and token value, impacting decentralized finance. Discover the implications for crypto ecosystems.</div></div>]]></content:encoded>
+            <author>onesafe (onesafe)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Price Poised for Breakout as Cross-Chain Momentum Builds | Altcoin Analysis ]]></title>
             <link>https://cryptorank.io/news/feed/e617f-wormhole-price-poised-for-breakout-as-cross-chain-momentum-builds</link>
@@ -258,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[The crypto market is anticipating potential bullish rebound with the recent spike. The tokens are swinging between green and red zones, with Bitcoin (BTC)]]></description>
             <content:encoded><![CDATA[<div><div>The crypto market is anticipating potential bullish rebound with the recent spike. The tokens are swinging between green and red zones, with Bitcoin (BTC)</div></div>]]></content:encoded>
             <author>CryptoRank (CryptoRank)</author>
-        </item>
-        <item>
-            <title><![CDATA[15% Leap for Wormhole: Can Its Upside Momentum Defy Gravity?]]></title>
-            <link>https://thenewscrypto.com/15-leap-for-wormhole-can-its-upside-momentum-defy-gravity/</link>
-            <guid>rssapp_42079f5cebe71f2ab97c7ca572784dc0</guid>
-            <pubDate>Sat, 09 Aug 2025 09:49:03 GMT</pubDate>
-            <description><![CDATA[After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?]]></description>
-            <content:encoded><![CDATA[<div><div>After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?</div></div>]]></content:encoded>
-            <author>TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide (TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide)</author>
         </item>
     </channel>
 </rss>
