@@ -4,11 +4,22 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 17 Sep 2025 17:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Sep 2025 18:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Price Poised for Breakout as Cross-Chain Momentum Builds | Altcoin Analysis ]]></title>
+            <link>https://cryptorank.io/news/feed/e617f-wormhole-price-poised-for-breakout-as-cross-chain-momentum-builds</link>
+            <guid>rssapp_309bc56bec08b613ccb650732e9c9949</guid>
+            <pubDate>Mon, 15 Sep 2025 12:33:21 GMT</pubDate>
+            <description><![CDATA[The post Wormhole Price Poised for Breakout as Cross-Chain Momentum Builds appeared first on Coinpedia Fintech News
+The Wormhole price is showing signs of]]></description>
+            <content:encoded><![CDATA[<div><div>The post Wormhole Price Poised for Breakout as Cross-Chain Momentum Builds appeared first on Coinpedia Fintech News
+The Wormhole price is showing signs of</div></div>]]></content:encoded>
+            <author>CryptoRank (CryptoRank)</author>
+        </item>
         <item>
             <title><![CDATA[Crypto News: Trump, Sonic, Mantle, and Wormhole This Week]]></title>
             <link>https://beincrypto.com/crypto-news-this-week-trump-liberation-day/</link>
@@ -256,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?]]></description>
             <content:encoded><![CDATA[<div><div>After a solid 15% jump, Wormhole is currently trading around $0.093. Will the asset be able to sustain its upside correction?</div></div>]]></content:encoded>
             <author>TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide (TheNewsCrypto - Blockchain | Cryptocurrency News Media | Crypto Guide)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Integrates Mezo, Enhancing Multichain Access for Bitcoin-Backed MUSD]]></title>
-            <link>https://blockchain.news/news/wormhole-integrates-mezo-enhancing-multichain-access-bitcoin-backed-musd</link>
-            <guid>rssapp_289842acef0e6f647e43dfbfd9e03464</guid>
-            <pubDate>Mon, 04 Aug 2025 13:16:00 GMT</pubDate>
-            <description><![CDATA[Wormhole announces integration with Mezo, enabling multichain functionality for Bitcoin-backed MUSD via Ethereum, enhancing Bitcoin's utility and eliminating liquidity fragmentation.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole announces integration with Mezo, enabling multichain functionality for Bitcoin-backed MUSD via Ethereum, enhancing Bitcoin's utility and eliminating liquidity fragmentation.</div></div>]]></content:encoded>
-            <author>https://blockchain news/news/wormhole-integrates-mezo-enhancing-multichain-access-bitcoin-backed-musd (https://blockchain news/news/wormhole-integrates-mezo-enhancing-multichain-access-bitcoin-backed-musd)</author>
         </item>
     </channel>
 </rss>
