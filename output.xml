@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 18 Sep 2025 05:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 06:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -242,6 +242,15 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <author>Cointelegraph (Cointelegraph)</author>
         </item>
         <item>
+            <title><![CDATA[Wormhole Foundation challenges LayerZero's $110M Stargate acquisition proposal]]></title>
+            <link>https://cryptoslate.com/wormhole-foundation-challenges-layerzeros-110m-stargate-acquisition-proposal/</link>
+            <guid>rssapp_2508fc3b58e50b9e684e04d4bd994506</guid>
+            <pubDate>Wed, 20 Aug 2025 23:30:44 GMT</pubDate>
+            <description><![CDATA[Wormhole Foundation contended that LayerZero's bid fails to reflect Stargate's true value.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole Foundation contended that LayerZero's bid fails to reflect Stargate's true value.</div></div>]]></content:encoded>
+            <author>CryptoSlate (CryptoSlate)</author>
+        </item>
+        <item>
             <title><![CDATA[Stargate Price Surges Over 10% as Wormhole Challenges LayerZero's $110M Bid]]></title>
             <link>https://www.ainvest.com/news/stargate-price-surges-10-wormhole-challenges-layerzero-110m-bid-2508/</link>
             <guid>rssapp_3c5713bc06bed57405283241e420ab98</guid>
@@ -258,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[On Wednesday, the Wormhole Foundation announced its intent to submit a competing bid to acquire Stargate following Layerzero's bid.]]></description>
             <content:encoded><![CDATA[<div><div>On Wednesday, the Wormhole Foundation announced its intent to submit a competing bid to acquire Stargate following Layerzero's bid.</div></div>]]></content:encoded>
             <author>Bitcoin News (Bitcoin News)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Stakes Big as Multichain Race Intensifies]]></title>
-            <link>https://www.ainvest.com/news/wormhole-stakes-big-multichain-race-intensifies-2508/</link>
-            <guid>rssapp_e656fb7ed8cbc9c99f99589c42d98f56</guid>
-            <pubDate>Wed, 20 Aug 2025 16:45:50 GMT</pubDate>
-            <description><![CDATA[Wormhole Stakes Big as Multichain Race Intensifies]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole Stakes Big as Multichain Race Intensifies</div></div>]]></content:encoded>
-            <author>Ainvest (Ainvest)</author>
         </item>
     </channel>
 </rss>
