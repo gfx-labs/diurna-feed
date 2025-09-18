@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 18 Sep 2025 09:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 10:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole (W) Hits 200-Day Resistance — Breakout Could Lead to Parabolic Rally]]></title>
+            <link>https://www.ccn.com/analysis/crypto/wormhole-resistance-parabolic-rally/</link>
+            <guid>rssapp_cdaf0ec0f7de1abc175253b91748a86a</guid>
+            <pubDate>Thu, 18 Sep 2025 09:17:16 GMT</pubDate>
+            <description><![CDATA[The Wormhole price is going up. A breakout from the $0.110 resistance could trigger a parabolic upward movement.]]></description>
+            <content:encoded><![CDATA[<div><div>The Wormhole price is going up. A breakout from the $0.110 resistance could trigger a parabolic upward movement.</div></div>]]></content:encoded>
+            <author>ccn (ccn)</author>
+        </item>
         <item>
             <title><![CDATA[Daily Crypto Signals: Bitcoin Struggles Below $115K, Wormhole Tokenomics Overhaul Sparks Rally]]></title>
             <link>https://www.fxleaders.com/news/2025/09/18/daily-crypto-signals-bitcoin-struggles-below-115k-wormhole-tokenomics-overhaul-sparks-rally/</link>
@@ -35,6 +44,15 @@
             <description><![CDATA[Wormhole's updated tokenomics enhance governance and token value, impacting decentralized finance. Discover the implications for crypto ecosystems.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole's updated tokenomics enhance governance and token value, impacting decentralized finance. Discover the implications for crypto ecosystems.</div></div>]]></content:encoded>
             <author>onesafe (onesafe)</author>
+        </item>
+        <item>
+            <title><![CDATA[Here’s what happened in crypto today]]></title>
+            <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+            <guid>rssapp_f6e56a793bad92b12f307a1562d4c4e3</guid>
+            <pubDate>Mon, 15 Sep 2025 22:00:35 GMT</pubDate>
+            <description><![CDATA[Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.]]></description>
+            <content:encoded><![CDATA[<div><div>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</div></div>]]></content:encoded>
+            <author>Cointelegraph (Cointelegraph)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole Price Poised for Breakout as Cross-Chain Momentum Builds | Altcoin Analysis ]]></title>
@@ -249,24 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole Foundation contended that LayerZero's bid fails to reflect Stargate's true value.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole Foundation contended that LayerZero's bid fails to reflect Stargate's true value.</div></div>]]></content:encoded>
             <author>CryptoSlate (CryptoSlate)</author>
-        </item>
-        <item>
-            <title><![CDATA[Stargate Price Surges Over 10% as Wormhole Challenges LayerZero's $110M Bid]]></title>
-            <link>https://www.ainvest.com/news/stargate-price-surges-10-wormhole-challenges-layerzero-110m-bid-2508/</link>
-            <guid>rssapp_3c5713bc06bed57405283241e420ab98</guid>
-            <pubDate>Wed, 20 Aug 2025 19:28:04 GMT</pubDate>
-            <description><![CDATA[Stargate Price Surges Over 10% as Wormhole Challenges LayerZero's $110M Bid]]></description>
-            <content:encoded><![CDATA[<div><div>Stargate Price Surges Over 10% as Wormhole Challenges LayerZero's $110M Bid</div></div>]]></content:encoded>
-            <author>Ainvest (Ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Foundation Counters Layerzero's Stargate Acquisition Bid]]></title>
-            <link>https://news.bitcoin.com/wormhole-foundation-counters-layerzeros-stargate-acquisition-bid/</link>
-            <guid>rssapp_7941730979f836f946f23a3ca0a6c211</guid>
-            <pubDate>Wed, 20 Aug 2025 18:47:53 GMT</pubDate>
-            <description><![CDATA[On Wednesday, the Wormhole Foundation announced its intent to submit a competing bid to acquire Stargate following Layerzero's bid.]]></description>
-            <content:encoded><![CDATA[<div><div>On Wednesday, the Wormhole Foundation announced its intent to submit a competing bid to acquire Stargate following Layerzero's bid.</div></div>]]></content:encoded>
-            <author>Bitcoin News (Bitcoin News)</author>
         </item>
     </channel>
 </rss>
