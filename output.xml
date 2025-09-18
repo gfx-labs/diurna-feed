@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 18 Sep 2025 20:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 21:06:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Top 10 Crypto Surge: Daily Gainers List Highlights APX, Avantis, And Wormhole]]></title>
+            <link>https://blockchainreporter.net/top-10-crypto-surge-daily-gainers-list-highlights-apx-avantis-and-wormhole/</link>
+            <guid>rssapp_ca1de9574cf11845e68048d4f724f2de</guid>
+            <pubDate>Thu, 18 Sep 2025 15:40:00 GMT</pubDate>
+            <description><![CDATA[Crypto market has an excellent performance on September 18, 2025, and several mid-cap and new projects registered in the market with sharp price increases.]]></description>
+            <content:encoded><![CDATA[<div><div>Crypto market has an excellent performance on September 18, 2025, and several mid-cap and new projects registered in the market with sharp price increases.</div></div>]]></content:encoded>
+            <author>blockchainreporter (blockchainreporter)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Upgrade W Crypto Token: W Price Analysis For September 2025 ]]></title>
             <link>https://99bitcoins.com/news/altcoins/wormhole-upgrade-w-crypto-token-w-price-analysis-for-september-2025/</link>
@@ -258,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole challenges LayerZero's $110M Stargate acquisition bid, requesting voting pause to submit higher competing offer for cross-chain bridge platform.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole challenges LayerZero's $110M Stargate acquisition bid, requesting voting pause to submit higher competing offer for cross-chain bridge platform.</div></div>]]></content:encoded>
             <author>CoinCentral (CoinCentral)</author>
-        </item>
-        <item>
-            <title><![CDATA[Stargate’s $4B Bridge Volume Draws Wormhole Into $110M Acquisition Proposal]]></title>
-            <link>https://www.coindesk.com/markets/2025/08/21/stargate-draws-second-acquisition-bid-with-wormhole-topping-layerzero-s-usd110m-buy-offer</link>
-            <guid>rssapp_c1965f7d5489f915e6ed6fe03502e524</guid>
-            <pubDate>Thu, 21 Aug 2025 08:06:13 GMT</pubDate>
-            <description><![CDATA[LayerZero’s $110 million token-swap offer faces competition as Wormhole pushes for a delay in Stargate’s governance vote to submit a higher bid.]]></description>
-            <content:encoded><![CDATA[<div><div>LayerZero’s $110 million token-swap offer faces competition as Wormhole pushes for a delay in Stargate’s governance vote to submit a higher bid.</div></div>]]></content:encoded>
-            <author>CoinDesk (CoinDesk)</author>
         </item>
     </channel>
 </rss>
