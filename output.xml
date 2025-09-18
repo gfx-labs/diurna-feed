@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 18 Sep 2025 02:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 03:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole’s Token Revamp Seeks to Address Cryptocurrency’s Stability Dilemma ]]></title>
+            <link>https://www.bitget.com/news/detail/12560604972027</link>
+            <guid>rssapp_53c4c24991b355f6b07e0dd5f671d9b4</guid>
+            <pubDate>Wed, 17 Sep 2025 12:22:16 GMT</pubDate>
+            <description><![CDATA[Wormhole, a protocol focused on cross-chain interoperability, has unveiled major updates to its native W token through the launch of W 2.0 Tokenomics. The r | Bitget crypto news!]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole, a protocol focused on cross-chain interoperability, has unveiled major updates to its native W token through the launch of W 2.0 Tokenomics. The r | Bitget crypto news!</div></div>]]></content:encoded>
+            <author>Bitget (Bitget)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole's Tokenomics: A New Era for Governance and Value in Crypto ]]></title>
             <link>https://www.onesafe.io/blog/wormhole-tokenomics-governance-value-crypto</link>
@@ -258,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole consolidates as bullish signals emerge, with rising adoption and momentum hinting at a potential breakout.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole consolidates as bullish signals emerge, with rising adoption and momentum hinting at a potential breakout.</div></div>]]></content:encoded>
             <author>Live Bitcoin News (Live Bitcoin News)</author>
-        </item>
-        <item>
-            <title><![CDATA[15% Leap for Wormhole: Can Its Upside Momentum Defy Gravity? | Market Altcoin ]]></title>
-            <link>https://cryptorank.io/news/feed/40828-15-leap-for-wormhole-can-its-upside-momentum-defy-gravity</link>
-            <guid>rssapp_a107d33fc010626748702cb9e3c34d5e</guid>
-            <pubDate>Sat, 09 Aug 2025 09:49:03 GMT</pubDate>
-            <description><![CDATA[The crypto market is anticipating potential bullish rebound with the recent spike. The tokens are swinging between green and red zones, with Bitcoin (BTC)]]></description>
-            <content:encoded><![CDATA[<div><div>The crypto market is anticipating potential bullish rebound with the recent spike. The tokens are swinging between green and red zones, with Bitcoin (BTC)</div></div>]]></content:encoded>
-            <author>CryptoRank (CryptoRank)</author>
         </item>
     </channel>
 </rss>
