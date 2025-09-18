@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 18 Sep 2025 15:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 16:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -44,6 +44,15 @@
             <description><![CDATA[The crypto market showed mixed signals today as Bitcoin failed to maintain momentum above $115,000 despite the Federal Reserve's 25bp rate]]></description>
             <content:encoded><![CDATA[<div><div>The crypto market showed mixed signals today as Bitcoin failed to maintain momentum above $115,000 despite the Federal Reserve's 25bp rate</div></div>]]></content:encoded>
             <author>FX Leaders (FX Leaders)</author>
+        </item>
+        <item>
+            <title><![CDATA[Here’s what happened in crypto today]]></title>
+            <link>https://www.tradingview.com/news/cointelegraph:b431ea497094b:0-here-s-what-happened-in-crypto-today/</link>
+            <guid>rssapp_c5830e1d7570f55adceae2aaa99c6119</guid>
+            <pubDate>Wed, 17 Sep 2025 22:17:52 GMT</pubDate>
+            <description><![CDATA[Today in crypto, Wormhole rolled out updated tokenomics for its native W token, introducing a token reserve and higher yields for stakers. In the UK, the Financial Conduct Authority (FCA) released proposals on how existing financial rules should apply to crypto, while Bitwise said new US listing st…]]></description>
+            <content:encoded><![CDATA[<div><div>Today in crypto, Wormhole rolled out updated tokenomics for its native W token, introducing a token reserve and higher yields for stakers. In the UK, the Financial Conduct Authority (FCA) released proposals on how existing financial rules should apply to crypto, while Bitwise said new US listing st…</div></div>]]></content:encoded>
+            <author>TradingView (TradingView)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole’s Token Revamp Seeks to Address Cryptocurrency’s Stability Dilemma ]]></title>
@@ -258,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[LayerZero’s $110 million token-swap offer faces competition as Wormhole pushes for a delay in Stargate’s governance vote to submit a higher bid.]]></description>
             <content:encoded><![CDATA[<div><div>LayerZero’s $110 million token-swap offer faces competition as Wormhole pushes for a delay in Stargate’s governance vote to submit a higher bid.</div></div>]]></content:encoded>
             <author>CoinDesk (CoinDesk)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Challenges LayerZero’s Stargate Takeover Plan]]></title>
-            <link>https://99bitcoins.com/news/bitcoin-btc/wormhole-challenges-layerzeros-stargate-takeover-plan/</link>
-            <guid>rssapp_95d8b8b74a5492df160b7068f4f98e7a</guid>
-            <pubDate>Thu, 21 Aug 2025 03:51:13 GMT</pubDate>
-            <description><![CDATA[Wormhole opposes LayerZero’s $110M Stargate bid and seeks time to submit a rival offer, raising key questions over DeFi governance.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole opposes LayerZero’s $110M Stargate bid and seeks time to submit a rival offer, raising key questions over DeFi governance.</div></div>]]></content:encoded>
-            <author>99Bitcoins (99Bitcoins)</author>
         </item>
     </channel>
 </rss>
