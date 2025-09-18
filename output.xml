@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 18 Sep 2025 04:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 05:07:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Daily Crypto Signals: Bitcoin Struggles Below $115K, Wormhole Tokenomics Overhaul Sparks Rally]]></title>
+            <link>https://www.fxleaders.com/news/2025/09/18/daily-crypto-signals-bitcoin-struggles-below-115k-wormhole-tokenomics-overhaul-sparks-rally/</link>
+            <guid>rssapp_d527cc9331c89f95874a3b00a9af0d27</guid>
+            <pubDate>Thu, 18 Sep 2025 03:02:52 GMT</pubDate>
+            <description><![CDATA[The crypto market showed mixed signals today as Bitcoin failed to maintain momentum above $115,000 despite the Federal Reserve's 25bp rate]]></description>
+            <content:encoded><![CDATA[<div><div>The crypto market showed mixed signals today as Bitcoin failed to maintain momentum above $115,000 despite the Federal Reserve's 25bp rate</div></div>]]></content:encoded>
+            <author>FX Leaders (FX Leaders)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole’s Token Revamp Seeks to Address Cryptocurrency’s Stability Dilemma ]]></title>
             <link>https://www.bitget.com/news/detail/12560604972027</link>
@@ -258,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole Stakes Big as Multichain Race Intensifies]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole Stakes Big as Multichain Race Intensifies</div></div>]]></content:encoded>
             <author>Ainvest (Ainvest)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Consolidates for Months as Traders Eye Bullish Divergence Breakout]]></title>
-            <link>https://www.livebitcoinnews.com/wormhole-consolidates-for-months-as-traders-eye-bullish-divergence-breakout/</link>
-            <guid>rssapp_4a214ac9ca1b2f759e553932f46fa9b3</guid>
-            <pubDate>Tue, 19 Aug 2025 02:08:57 GMT</pubDate>
-            <description><![CDATA[Wormhole consolidates as bullish signals emerge, with rising adoption and momentum hinting at a potential breakout.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole consolidates as bullish signals emerge, with rising adoption and momentum hinting at a potential breakout.</div></div>]]></content:encoded>
-            <author>Live Bitcoin News (Live Bitcoin News)</author>
         </item>
     </channel>
 </rss>
