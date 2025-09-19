@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 19 Sep 2025 22:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 23:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -80,6 +80,15 @@
             <description><![CDATA[Wormhole, a protocol focused on cross-chain interoperability, has unveiled major updates to its native W token through the launch of W 2.0 Tokenomics. The r | Bitget crypto news!]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole, a protocol focused on cross-chain interoperability, has unveiled major updates to its native W token through the launch of W 2.0 Tokenomics. The r | Bitget crypto news!</div></div>]]></content:encoded>
             <author>Bitget (Bitget)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Announces W Token 2.0 Upgrade]]></title>
+            <link>https://wormhole.com/blog/wormhole-announces-w-token-2-0-upgrade</link>
+            <guid>rssapp_96bacc3d0929d94f0b42abff1d7af13f</guid>
+            <pubDate>Wed, 17 Sep 2025 12:00:00 GMT</pubDate>
+            <description><![CDATA[Today, Wormhole is announcing the next major chapter for the token with the release of upgraded W 2.0 Tokenomics, upgrading the W token with the Wormhole Reserve, 4% base yield on W, and an Unlock Optimization.]]></description>
+            <content:encoded><![CDATA[<div><div>Today, Wormhole is announcing the next major chapter for the token with the release of upgraded W 2.0 Tokenomics, upgrading the W token with the Wormhole Reserve, 4% base yield on W, and an Unlock Optimization.</div></div>]]></content:encoded>
+            <author>Wormhole Announces W Token 2.0 Upgrade (Wormhole Announces W Token 2.0 Upgrade)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole's Tokenomics: A New Era for Governance and Value in Crypto ]]></title>
@@ -258,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[OKX United States - Discover the intense rivalry between Wormhole and LayerZero, two leading blockchain protocols vying to revolutionize DeFi. Explore how this bidding war is shaping the future of decentralized finance.]]></description>
             <content:encoded><![CDATA[<div><div>OKX United States - Discover the intense rivalry between Wormhole and LayerZero, two leading blockchain protocols vying to revolutionize DeFi. Explore how this bidding war is shaping the future of decentralized finance.</div></div>]]></content:encoded>
             <author>OKX United States (OKX United States)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Bids Higher Than LayerZero for Stargate, Calls for Vote Delay ]]></title>
-            <link>https://crypto-economy.com/wormhole-bids-higher-than-layerzero-for-stargate-calls-for-vote-delay/</link>
-            <guid>rssapp_256d71cf1230a89380152827d9da0d83</guid>
-            <pubDate>Thu, 21 Aug 2025 13:04:20 GMT</pubDate>
-            <description><![CDATA[Wormhole has entered the race to acquire Stargate with a proposal higher than LayerZero’s $110 million bid, pushing for a delay in the governance vote.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole has entered the race to acquire Stargate with a proposal higher than LayerZero’s $110 million bid, pushing for a delay in the governance vote.</div></div>]]></content:encoded>
-            <author>Crypto Economy (Crypto Economy)</author>
         </item>
     </channel>
 </rss>
