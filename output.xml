@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 19 Sep 2025 11:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 12:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -35,6 +35,15 @@
             <description><![CDATA[The Wormhole price is going up. A breakout from the $0.110 resistance could trigger a parabolic upward movement.]]></description>
             <content:encoded><![CDATA[<div><div>The Wormhole price is going up. A breakout from the $0.110 resistance could trigger a parabolic upward movement.</div></div>]]></content:encoded>
             <author>ccn (ccn)</author>
+        </item>
+        <item>
+            <title><![CDATA[W token spikes 20% after Wormhole announces new upgrade | Ethereum SOL ]]></title>
+            <link>https://cryptorank.io/news/feed/1fe77-wormhole-announces-major-w-token-upgrade</link>
+            <guid>rssapp_8e3b3528d54bf3e40ef0989ce8f0ca4b</guid>
+            <pubDate>Thu, 18 Sep 2025 09:00:11 GMT</pubDate>
+            <description><![CDATA[Wormhole introduces W 2.0 tokenomics with a reserve system, 4% yield, and bi-weekly unlocks, boosting W token price 22% in one day.]]></description>
+            <content:encoded><![CDATA[<div><div>Wormhole introduces W 2.0 tokenomics with a reserve system, 4% yield, and bi-weekly unlocks, boosting W token price 22% in one day.</div></div>]]></content:encoded>
+            <author>CryptoRank (CryptoRank)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole to Add New Strategic Reserve and Automate Revenue Distribution ]]></title>
@@ -258,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[Wormhole has entered the race to acquire Stargate with a proposal higher than LayerZero’s $110 million bid, pushing for a delay in the governance vote.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole has entered the race to acquire Stargate with a proposal higher than LayerZero’s $110 million bid, pushing for a delay in the governance vote.</div></div>]]></content:encoded>
             <author>Crypto Economy (Crypto Economy)</author>
-        </item>
-        <item>
-            <title><![CDATA[Crypto Bridge Wars: Wormhole vs LayerZero Battle for $110M Stargate Deal ]]></title>
-            <link>https://coincentral.com/crypto-bridge-wars-wormhole-vs-layerzero-battle-for-110m-stargate-deal/</link>
-            <guid>rssapp_75fc81a7aca90dedad6eb996bbaa869f</guid>
-            <pubDate>Thu, 21 Aug 2025 10:52:54 GMT</pubDate>
-            <description><![CDATA[Wormhole challenges LayerZero's $110M Stargate acquisition bid, requesting voting pause to submit higher competing offer for cross-chain bridge platform.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole challenges LayerZero's $110M Stargate acquisition bid, requesting voting pause to submit higher competing offer for cross-chain bridge platform.</div></div>]]></content:encoded>
-            <author>CoinCentral (CoinCentral)</author>
         </item>
     </channel>
 </rss>
