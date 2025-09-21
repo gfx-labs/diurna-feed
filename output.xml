@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 21 Sep 2025 05:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Sep 2025 06:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -71,6 +71,15 @@
             <description><![CDATA[Today in crypto, Wormhole rolled out updated tokenomics for its native W token, introducing a token reserve and higher yields for stakers. In the UK, the Financial Conduct Authority (FCA) released proposals on how existing financial rules should apply to crypto, while Bitwise said new US listing st…]]></description>
             <content:encoded><![CDATA[<div><div>Today in crypto, Wormhole rolled out updated tokenomics for its native W token, introducing a token reserve and higher yields for stakers. In the UK, the Financial Conduct Authority (FCA) released proposals on how existing financial rules should apply to crypto, while Bitwise said new US listing st…</div></div>]]></content:encoded>
             <author>TradingView (TradingView)</author>
+        </item>
+        <item>
+            <title><![CDATA[W token rallies as Wormhole launches strategic reserve and 4% staking yield | Altcoin DeFi ]]></title>
+            <link>https://cryptorank.io/news/feed/04cba-w-token-rallies-as-wormhole-launches-strategic-reserve-and-4-staking-yield</link>
+            <guid>rssapp_907de61fd15f284a77314876fb56890a</guid>
+            <pubDate>Wed, 17 Sep 2025 18:47:17 GMT</pubDate>
+            <description><![CDATA[Interoperable network Wormhole has made a crucial announcement ahead of the closely followed FOMC. The team has unveiled W 2.0 Tokenomics, an upgrade set to]]></description>
+            <content:encoded><![CDATA[<div><div>Interoperable network Wormhole has made a crucial announcement ahead of the closely followed FOMC. The team has unveiled W 2.0 Tokenomics, an upgrade set to</div></div>]]></content:encoded>
+            <author>CryptoRank (CryptoRank)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole’s Token Revamp Seeks to Address Cryptocurrency’s Stability Dilemma ]]></title>
@@ -258,15 +267,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[OKX - Discover the intense rivalry between Wormhole and LayerZero, two leading blockchain protocols vying to revolutionize DeFi. Explore how this bidding war is shaping the future of decentralized finance.]]></description>
             <content:encoded><![CDATA[<div><div>OKX - Discover the intense rivalry between Wormhole and LayerZero, two leading blockchain protocols vying to revolutionize DeFi. Explore how this bidding war is shaping the future of decentralized finance.</div></div>]]></content:encoded>
             <author>OKX (OKX)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole vs. LayerZero: The Cryptocurrency Bidding War Shaping DeFi's Future]]></title>
-            <link>https://www.okx.com/en-us/learn/wormhole-layerzero-cryptocurrency-bidding-war</link>
-            <guid>rssapp_bb82a3cf4bd0b864ff63824c62c4296b</guid>
-            <pubDate>Sat, 23 Aug 2025 01:30:26 GMT</pubDate>
-            <description><![CDATA[OKX United States - Discover the intense rivalry between Wormhole and LayerZero, two leading blockchain protocols vying to revolutionize DeFi. Explore how this bidding war is shaping the future of decentralized finance.]]></description>
-            <content:encoded><![CDATA[<div><div>OKX United States - Discover the intense rivalry between Wormhole and LayerZero, two leading blockchain protocols vying to revolutionize DeFi. Explore how this bidding war is shaping the future of decentralized finance.</div></div>]]></content:encoded>
-            <author>OKX United States (OKX United States)</author>
         </item>
     </channel>
 </rss>
