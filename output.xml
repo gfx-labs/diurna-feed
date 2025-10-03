@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 03 Oct 2025 16:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 17:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -100,15 +100,6 @@
             <author>Bitget (Bitget)</author>
         </item>
         <item>
-            <title><![CDATA[Wormhole Announces W Token 2.0 Upgrade]]></title>
-            <link>https://wormhole.com/blog/wormhole-announces-w-token-2-0-upgrade</link>
-            <guid>rssapp_96bacc3d0929d94f0b42abff1d7af13f</guid>
-            <pubDate>Wed, 17 Sep 2025 12:00:00 GMT</pubDate>
-            <description><![CDATA[Today, Wormhole is announcing the next major chapter for the token with the release of upgraded W 2.0 Tokenomics, upgrading the W token with the Wormhole Reserve, 4% base yield on W, and an Unlock Optimization.]]></description>
-            <content:encoded><![CDATA[<div><div>Today, Wormhole is announcing the next major chapter for the token with the release of upgraded W 2.0 Tokenomics, upgrading the W token with the Wormhole Reserve, 4% base yield on W, and an Unlock Optimization.</div></div>]]></content:encoded>
-            <author>Wormhole Announces W Token 2.0 Upgrade (Wormhole Announces W Token 2.0 Upgrade)</author>
-        </item>
-        <item>
             <title><![CDATA[Wormhole's Tokenomics: A New Era for Governance and Value in Crypto ]]></title>
             <link>https://www.onesafe.io/blog/wormhole-tokenomics-governance-value-crypto</link>
             <guid>rssapp_a98f0f77fb203acdddc28570312324cb</guid>
@@ -116,6 +107,15 @@
             <description><![CDATA[Wormhole's updated tokenomics enhance governance and token value, impacting decentralized finance. Discover the implications for crypto ecosystems.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole's updated tokenomics enhance governance and token value, impacting decentralized finance. Discover the implications for crypto ecosystems.</div></div>]]></content:encoded>
             <author>onesafe (onesafe)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Announces W Token 2.0 Upgrade]]></title>
+            <link>https://wormhole.com/blog/wormhole-announces-w-token-2-0-upgrade</link>
+            <guid>rssapp_96bacc3d0929d94f0b42abff1d7af13f</guid>
+            <pubDate>Wed, 17 Sep 2025 12:00:00 GMT</pubDate>
+            <description><![CDATA[Today, Wormhole is announcing the next major chapter for the token with the release of upgraded W 2.0 Tokenomics, upgrading the W token with the Wormhole Reserve, 4% base yield on W, and an Unlock Optimization.]]></description>
+            <content:encoded><![CDATA[<div><div>Today, Wormhole is announcing the next major chapter for the token with the release of upgraded W 2.0 Tokenomics, upgrading the W token with the Wormhole Reserve, 4% base yield on W, and an Unlock Optimization.</div></div>]]></content:encoded>
+            <author>Wormhole Announces W Token 2.0 Upgrade (Wormhole Announces W Token 2.0 Upgrade)</author>
         </item>
         <item>
             <title><![CDATA[Here’s what happened in crypto today]]></title>
@@ -224,15 +224,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <author>CryptoRank (CryptoRank)</author>
         </item>
         <item>
-            <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up | Bitcoin Altcoin ]]></title>
-            <link>https://cryptorank.io/news/feed/d4b66-heres-why-crypto-like-treehouse-pi-network-and-wormhole-are-going-up</link>
-            <guid>rssapp_b9eacf15bf6b2da9b0c76b59efbebb85</guid>
-            <pubDate>Fri, 29 Aug 2025 02:02:00 GMT</pubDate>
-            <description><![CDATA[The crypto market was mixed this week as traders reflected on the Federal Reserve and the latest NVIDIA earnings. Bitcoin fell to $110,000 earlier during the]]></description>
-            <content:encoded><![CDATA[<div><div>The crypto market was mixed this week as traders reflected on the Federal Reserve and the latest NVIDIA earnings. Bitcoin fell to $110,000 earlier during the</div></div>]]></content:encoded>
-            <author>CryptoRank (CryptoRank)</author>
-        </item>
-        <item>
             <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up]]></title>
             <link>https://invezz.com/news/2025/08/29/heres-why-crypto-like-treehouse-pi-network-and-wormhole-are-going-up/</link>
             <guid>rssapp_00eecdfcd96b94926a15905e8ac4629a</guid>
@@ -240,6 +231,15 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[This article explores why top cryptocurrencies like Treehouse (TREE), Pi Network (Pi), and Wormhole (W) jumped suddenly this week.]]></description>
             <content:encoded><![CDATA[<div><div>This article explores why top cryptocurrencies like Treehouse (TREE), Pi Network (Pi), and Wormhole (W) jumped suddenly this week.</div></div>]]></content:encoded>
             <author>Invezz (Invezz)</author>
+        </item>
+        <item>
+            <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up | Bitcoin Altcoin ]]></title>
+            <link>https://cryptorank.io/news/feed/d4b66-heres-why-crypto-like-treehouse-pi-network-and-wormhole-are-going-up</link>
+            <guid>rssapp_b9eacf15bf6b2da9b0c76b59efbebb85</guid>
+            <pubDate>Fri, 29 Aug 2025 02:02:00 GMT</pubDate>
+            <description><![CDATA[The crypto market was mixed this week as traders reflected on the Federal Reserve and the latest NVIDIA earnings. Bitcoin fell to $110,000 earlier during the]]></description>
+            <content:encoded><![CDATA[<div><div>The crypto market was mixed this week as traders reflected on the Federal Reserve and the latest NVIDIA earnings. Bitcoin fell to $110,000 earlier during the</div></div>]]></content:encoded>
+            <author>CryptoRank (CryptoRank)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole vs. Stargate: How USDC Bridging Could Reshape Cross-Chain DeFi]]></title>
