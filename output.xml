@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sat, 04 Oct 2025 09:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 10:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -224,15 +224,6 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <author>CryptoRank (CryptoRank)</author>
         </item>
         <item>
-            <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up]]></title>
-            <link>https://invezz.com/news/2025/08/29/heres-why-crypto-like-treehouse-pi-network-and-wormhole-are-going-up/</link>
-            <guid>rssapp_00eecdfcd96b94926a15905e8ac4629a</guid>
-            <pubDate>Fri, 29 Aug 2025 02:02:00 GMT</pubDate>
-            <description><![CDATA[This article explores why top cryptocurrencies like Treehouse (TREE), Pi Network (Pi), and Wormhole (W) jumped suddenly this week.]]></description>
-            <content:encoded><![CDATA[<div><div>This article explores why top cryptocurrencies like Treehouse (TREE), Pi Network (Pi), and Wormhole (W) jumped suddenly this week.</div></div>]]></content:encoded>
-            <author>Invezz (Invezz)</author>
-        </item>
-        <item>
             <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up | Bitcoin Altcoin ]]></title>
             <link>https://cryptorank.io/news/feed/d4b66-heres-why-crypto-like-treehouse-pi-network-and-wormhole-are-going-up</link>
             <guid>rssapp_b9eacf15bf6b2da9b0c76b59efbebb85</guid>
@@ -240,6 +231,15 @@ https://www.youtube.com/c/OnTheChainLIVEhttps://www.youtube.com/c/OnTheChain</di
             <description><![CDATA[The crypto market was mixed this week as traders reflected on the Federal Reserve and the latest NVIDIA earnings. Bitcoin fell to $110,000 earlier during the]]></description>
             <content:encoded><![CDATA[<div><div>The crypto market was mixed this week as traders reflected on the Federal Reserve and the latest NVIDIA earnings. Bitcoin fell to $110,000 earlier during the</div></div>]]></content:encoded>
             <author>CryptoRank (CryptoRank)</author>
+        </item>
+        <item>
+            <title><![CDATA[Here’s why crypto like Treehouse, Pi Network, and Wormhole are going up]]></title>
+            <link>https://invezz.com/news/2025/08/29/heres-why-crypto-like-treehouse-pi-network-and-wormhole-are-going-up/</link>
+            <guid>rssapp_00eecdfcd96b94926a15905e8ac4629a</guid>
+            <pubDate>Fri, 29 Aug 2025 02:02:00 GMT</pubDate>
+            <description><![CDATA[This article explores why top cryptocurrencies like Treehouse (TREE), Pi Network (Pi), and Wormhole (W) jumped suddenly this week.]]></description>
+            <content:encoded><![CDATA[<div><div>This article explores why top cryptocurrencies like Treehouse (TREE), Pi Network (Pi), and Wormhole (W) jumped suddenly this week.</div></div>]]></content:encoded>
+            <author>Invezz (Invezz)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole vs. Stargate: How USDC Bridging Could Reshape Cross-Chain DeFi]]></title>
