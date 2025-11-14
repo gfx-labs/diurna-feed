@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Fri, 14 Nov 2025 04:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 05:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Cryptocurrency Platform Hit by $321 Million Cyberattack]]></title>
+            <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/wormhole-cryptocurrency-platform-hit-by-321-million-cyberattack</link>
+            <guid>rssapp_1ac5cee034f8c1ae194273c69ce10cbd</guid>
+            <pubDate>Thu, 13 Nov 2025 04:25:33 GMT</pubDate>
+            <description><![CDATA[Yesterday, attackers leveraged a vulnerability in the Wormhole cryptocurrency platform and stole approximately $321 million in wETH (wrapped Ethereum).]]></description>
+            <content:encoded><![CDATA[<div><div>Yesterday, attackers leveraged a vulnerability in the Wormhole cryptocurrency platform and stole approximately $321 million in wETH (wrapped Ethereum).</div></div>]]></content:encoded>
+            <author>Hot for Security (Hot for Security)</author>
+        </item>
         <item>
             <title><![CDATA[How to Buy Wormhole - Buy W ]]></title>
             <link>https://crypto.com/en/how-to-buy/wormhole</link>
@@ -228,15 +237,6 @@ The cryptocurrency world is constantly evolving, and projects are always</div></
             <description><![CDATA[Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.]]></description>
             <content:encoded><![CDATA[<div><div>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</div></div>]]></content:encoded>
             <author>Cointelegraph (Cointelegraph)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Price Poised for Breakout as Cross-Chain Momentum Builds]]></title>
-            <link>https://coinpedia.org/price-analysis/wormhole-price-poised-for-breakout-as-cross-chain-momentum-builds/</link>
-            <guid>rssapp_46ccf6d768a077d895aa70107637d2b2</guid>
-            <pubDate>Mon, 15 Sep 2025 12:33:21 GMT</pubDate>
-            <description><![CDATA[The Wormhole price is showing signs of gearing up for a potential breakout after months of a strong downtrend. The recent patterns built in Q3 of 2025 are]]></description>
-            <content:encoded><![CDATA[<div><div>The Wormhole price is showing signs of gearing up for a potential breakout after months of a strong downtrend. The recent patterns built in Q3 of 2025 are</div></div>]]></content:encoded>
-            <author>Coinpedia Fintech News (Coinpedia Fintech News)</author>
         </item>
     </channel>
 </rss>
