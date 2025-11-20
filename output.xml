@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Wed, 19 Nov 2025 23:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 00:31:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -55,6 +55,15 @@
             <author>Hot for Security (Hot for Security)</author>
         </item>
         <item>
+            <title><![CDATA[Wormhole (W) Markets]]></title>
+            <link>https://www.coindesk.com/price/w/markets</link>
+            <guid>rssapp_67302a9c932130a94a27bbab0dc00096</guid>
+            <pubDate>Thu, 13 Nov 2025 18:15:00 GMT</pubDate>
+            <description><![CDATA[Live Wormhole price movements from all markets and W market cap, use our charts and see when there is an opportunity to buy or sell.]]></description>
+            <content:encoded><![CDATA[<div><div>Live Wormhole price movements from all markets and W market cap, use our charts and see when there is an opportunity to buy or sell.</div></div>]]></content:encoded>
+            <author>coindesk (coindesk)</author>
+        </item>
+        <item>
             <title><![CDATA[How to Buy Wormhole - Buy W ]]></title>
             <link>https://crypto.com/en/how-to-buy/wormhole</link>
             <guid>rssapp_f5565a9854ff665e233f3b1a83674ab8</guid>
@@ -62,15 +71,6 @@
             <description><![CDATA[Read the Crypto.com walk-through on how to buy Wormhole. Start or grow your crypto portfolio and buy W today.]]></description>
             <content:encoded><![CDATA[<div><div>Read the Crypto.com walk-through on how to buy Wormhole. Start or grow your crypto portfolio and buy W today.</div></div>]]></content:encoded>
             <author>How to Buy (How to Buy)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole (W) Markets]]></title>
-            <link>https://www.coindesk.com/price/w/markets</link>
-            <guid>rssapp_67302a9c932130a94a27bbab0dc00096</guid>
-            <pubDate>Wed, 29 Oct 2025 13:35:47 GMT</pubDate>
-            <description><![CDATA[Live Wormhole price movements from all markets and W market cap, use our charts and see when there is an opportunity to buy or sell.]]></description>
-            <content:encoded><![CDATA[<div><div>Live Wormhole price movements from all markets and W market cap, use our charts and see when there is an opportunity to buy or sell.</div></div>]]></content:encoded>
-            <author>coindesk (coindesk)</author>
         </item>
         <item>
             <title><![CDATA[Creditcoin Multichain: Unlocking Seamless Crypto Transfers with Wormhole | multichain Wormhole ]]></title>
