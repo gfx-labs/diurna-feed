@@ -4,7 +4,7 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Thu, 20 Nov 2025 04:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 05:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
@@ -17,6 +17,15 @@
             <description><![CDATA[The Wormhole price today is £0.040 with a 24-hour trading volume of £23,756,883.31. Get W price charts &amp; market cap from Revolut.]]></description>
             <content:encoded><![CDATA[<div><div>The Wormhole price today is £0.040 with a 24-hour trading volume of £23,756,883.31. Get W price charts &amp; market cap from Revolut.</div></div>]]></content:encoded>
             <author>Revolut (Revolut)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wormhole Cryptocurrency Platform Hit by $321 Million Cyberattack]]></title>
+            <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/wormhole-cryptocurrency-platform-hit-by-321-million-cyberattack</link>
+            <guid>rssapp_1ac5cee034f8c1ae194273c69ce10cbd</guid>
+            <pubDate>Wed, 19 Nov 2025 04:43:07 GMT</pubDate>
+            <description><![CDATA[Yesterday, attackers leveraged a vulnerability in the Wormhole cryptocurrency platform and stole approximately $321 million in wETH (wrapped Ethereum).]]></description>
+            <content:encoded><![CDATA[<div><div>Yesterday, attackers leveraged a vulnerability in the Wormhole cryptocurrency platform and stole approximately $321 million in wETH (wrapped Ethereum).</div></div>]]></content:encoded>
+            <author>Hot for Security (Hot for Security)</author>
         </item>
         <item>
             <title><![CDATA[Convert Wormhole to RON | Wormhole Price in Romanian Lei ]]></title>
@@ -44,15 +53,6 @@
             <description><![CDATA[The Wormhole price today is €0.046 with a 24-hour trading volume of €26,948,433.15. Get W price charts &amp; market cap from Revolut.]]></description>
             <content:encoded><![CDATA[<div><div>The Wormhole price today is €0.046 with a 24-hour trading volume of €26,948,433.15. Get W price charts &amp; market cap from Revolut.</div></div>]]></content:encoded>
             <author>Revolut (Revolut)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Cryptocurrency Platform Hit by $321 Million Cyberattack]]></title>
-            <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/wormhole-cryptocurrency-platform-hit-by-321-million-cyberattack</link>
-            <guid>rssapp_1ac5cee034f8c1ae194273c69ce10cbd</guid>
-            <pubDate>Sun, 16 Nov 2025 04:31:08 GMT</pubDate>
-            <description><![CDATA[Yesterday, attackers leveraged a vulnerability in the Wormhole cryptocurrency platform and stole approximately $321 million in wETH (wrapped Ethereum).]]></description>
-            <content:encoded><![CDATA[<div><div>Yesterday, attackers leveraged a vulnerability in the Wormhole cryptocurrency platform and stole approximately $321 million in wETH (wrapped Ethereum).</div></div>]]></content:encoded>
-            <author>Hot for Security (Hot for Security)</author>
         </item>
         <item>
             <title><![CDATA[Wormhole (W) Markets]]></title>
