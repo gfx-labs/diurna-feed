@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Mon, 24 Nov 2025 18:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 19:05:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole's Sunrise Rolls Out Solana Listings as MON Trading Activates ]]></title>
+            <link>https://crypto-economy.com/wormholes-sunrise-rolls-out-solana-listings-as-mon-trading-activates/</link>
+            <guid>rssapp_987e4bf3a8858f9d6f919829aeb4825f</guid>
+            <pubDate>Mon, 24 Nov 2025 17:26:54 GMT</pubDate>
+            <description><![CDATA[Sunrise, powered by Wormhole, launches MON on Solana providing immediate liquidity for new assets.]]></description>
+            <content:encoded><![CDATA[<div><div>Sunrise, powered by Wormhole, launches MON on Solana providing immediate liquidity for new assets.</div></div>]]></content:encoded>
+            <author>Crypto Economy (Crypto Economy)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole Labs Debuts Sunrise to Streamline Solana Token Imports as MON Goes Live]]></title>
             <link>https://www.coindesk.com/tech/2025/11/23/sunrise-debut-streamlines-solana-token-imports-as-monad-goes-live</link>
@@ -228,15 +237,6 @@ The cryptocurrency world is constantly evolving, and projects are always</div></
             <description><![CDATA[On Wednesday, Wormhole announced updated tokenomics for its native token, including a reserve and enhanced staking rewards, fueling an intraday price increase.]]></description>
             <content:encoded><![CDATA[<div><div>On Wednesday, Wormhole announced updated tokenomics for its native token, including a reserve and enhanced staking rewards, fueling an intraday price increase.</div></div>]]></content:encoded>
             <author>Cointelegraph (Cointelegraph)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole Unleashes W 2.0 Tokenomics for a Connected Blockchain Future]]></title>
-            <link>https://coincentral.com/wormhole-unleashes-w-2-0-tokenomics-for-a-connected-blockchain-future/</link>
-            <guid>rssapp_2f0ac08706b4d3719dba4e5785d50e70</guid>
-            <pubDate>Wed, 17 Sep 2025 18:07:40 GMT</pubDate>
-            <description><![CDATA[Wormhole updates Tokenomics with a Reserve, 4% base yield, and bi-weekly unlocks—driving sustainable growth, ecosystem alignment, and long-term stability.]]></description>
-            <content:encoded><![CDATA[<div><div>Wormhole updates Tokenomics with a Reserve, 4% base yield, and bi-weekly unlocks—driving sustainable growth, ecosystem alignment, and long-term stability.</div></div>]]></content:encoded>
-            <author>CoinCentral (CoinCentral)</author>
         </item>
     </channel>
 </rss>
