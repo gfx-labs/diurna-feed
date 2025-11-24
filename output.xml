@@ -4,11 +4,20 @@
         <title>Wormhole Token</title>
         <link>undefined</link>
         <description>A news feed related to the Wormhole Token</description>
-        <lastBuildDate>Sun, 23 Nov 2025 23:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 01:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>diurna-feed</generator>
         <language>en</language>
         <copyright>TBD</copyright>
+        <item>
+            <title><![CDATA[Wormhole Labs Debuts Sunrise to Streamline Solana Token Imports as MON Goes Live]]></title>
+            <link>https://www.coindesk.com/tech/2025/11/23/sunrise-debut-streamlines-solana-token-imports-as-monad-goes-live</link>
+            <guid>rssapp_fa7bc0233dbff1f7e3761c9edd766983</guid>
+            <pubDate>Sun, 23 Nov 2025 15:00:00 GMT</pubDate>
+            <description><![CDATA[The platform introduces a unified gateway that allows issuers and users to move tokens from any ecosystem into Solana.]]></description>
+            <content:encoded><![CDATA[<div><div>The platform introduces a unified gateway that allows issuers and users to move tokens from any ecosystem into Solana.</div></div>]]></content:encoded>
+            <author>coindesk (coindesk)</author>
+        </item>
         <item>
             <title><![CDATA[Wormhole (W) Price Today | W Live Price Charts ]]></title>
             <link>https://www.revolut.com/crypto/price/w/</link>
@@ -228,15 +237,6 @@ The cryptocurrency world is constantly evolving, and projects are always</div></
             <description><![CDATA[Wormhole updates Tokenomics with a Reserve, 4% base yield, and bi-weekly unlocks—driving sustainable growth, ecosystem alignment, and long-term stability.]]></description>
             <content:encoded><![CDATA[<div><div>Wormhole updates Tokenomics with a Reserve, 4% base yield, and bi-weekly unlocks—driving sustainable growth, ecosystem alignment, and long-term stability.</div></div>]]></content:encoded>
             <author>CoinCentral (CoinCentral)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wormhole rolls out strategic W token reserve funded by onchain and off-chain protocol revenue]]></title>
-            <link>https://www.theblock.co/post/371103/wormhole-rolls-out-strategic-w-token-reserve-funded-by-onchain-and-off-chain-protocol-revenue</link>
-            <guid>rssapp_a53e4469581ccd901be1a111f6a3654d</guid>
-            <pubDate>Wed, 17 Sep 2025 17:02:31 GMT</pubDate>
-            <description><![CDATA[A new W 2.0 tokenomics plan includes increased earning opportunities for token holders as well as a strategic reserve.]]></description>
-            <content:encoded><![CDATA[<div><div>A new W 2.0 tokenomics plan includes increased earning opportunities for token holders as well as a strategic reserve.</div></div>]]></content:encoded>
-            <author>The Block (The Block)</author>
         </item>
     </channel>
 </rss>
